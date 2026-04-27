@@ -1,0 +1,3452 @@
+{
+  "Alzheimer's disease": {
+    "aliases": [
+      "alzheimer disease",
+      "AD",
+      "senile dementia of alzheimer type"
+    ],
+    "description": "progressive neurodegenerative disorder and most common cause of dementia, leading to decline in memory, thinking, behavior, and ability to perform daily activities",
+    "cause": "accumulation of amyloid-beta plaques and tau protein tangles in brain, along with age-related neuronal degeneration and genetic, lifestyle, and environmental factors",
+    "transmission": "none",
+    "risk_groups": "adults over 65, individuals with family history, people with traumatic brain injury, individuals with hearing loss, depression, or mild cognitive impairment",
+    "incubation_period": "none",
+    "symptoms": [
+      "memory loss, especially recent events, repeating questions, forgetting names and conversations",
+      "confusion, disorientation, getting lost in familiar places",
+      "difficulty speaking, reading, writing, planning, and decision-making",
+      "behavioral changes such as anxiety, aggression, low mood, hallucinations, delusions",
+      "difficulty performing daily tasks, poor self-care, reduced mobility in later stages",
+      "progressive cognitive decline leading to complete dependence in advanced stages"
+    ],
+    "progression": [
+      "mild memory loss and subtle cognitive decline",
+      "increasing confusion, language difficulties, and impaired daily functioning",
+      "severe memory loss, personality changes, and need for assistance",
+      "complete dependence, loss of communication, and extensive brain function decline"
+    ],
+    "common_locations": "brain regions responsible for memory, thinking, and language (hippocampus, cerebral cortex)",
+    "duration": "chronic lifelong condition with gradual progression over years",
+    "severity": "severe",
+    "complications": [
+      "severe cognitive impairment, inability to perform daily activities, infections, malnutrition, dehydration, wandering, injury, caregiver stress"
+    ],
+    "home_remedy": [
+      "cognitive stimulation, regular physical activity, healthy diet, social engagement, structured routine, supportive care environment"
+    ],
+    "avoid": [
+      "smoking, social isolation, unmanaged chronic conditions, head injuries, poor sleep habits"
+    ],
+    "when_to_see_doctor": "noticeable memory loss, confusion, behavioral changes, difficulty performing routine tasks, concerns about cognitive decline",
+    "emergency_signs": "severe confusion, inability to recognize close family, sudden behavioral changes, dehydration, injury from wandering, inability to eat or drink",
+    "prevention": [
+      "regular exercise, healthy diet, mental stimulation, social engagement, managing chronic diseases, avoiding smoking, adequate sleep"
+    ],
+    "contagious_period": "none",
+    "special_notes": "not a normal part of aging, early-onset cases occur before age 65 but are rare, disease progresses gradually and requires long-term care, mild cognitive impairment may precede condition"
+  },
+  "Parkinson's disease": {
+    "aliases": [
+      "parkinson disease",
+      "PD",
+      "idiopathic parkinsonism"
+    ],
+    "description": "progressive neurodegenerative movement disorder caused by degeneration of dopamine-producing neurons, leading to impaired motor control and non-motor symptoms",
+    "cause": "loss of nerve cells in substantia nigra resulting in dopamine deficiency, associated with alpha-synuclein protein aggregation (lewy bodies), influenced by genetic and environmental factors",
+    "transmission": "none",
+    "risk_groups": "adults over 50, males, individuals with family history, people exposed to toxins or pesticides, individuals with prior head injury",
+    "incubation_period": "none",
+    "symptoms": [
+      "tremor at rest, often starting in hands, fingers, foot, or jaw",
+      "bradykinesia (slowed movement), difficulty initiating movement and performing daily tasks",
+      "muscle rigidity, stiffness, reduced arm swing, and painful muscle tension",
+      "balance problems, poor posture, increased risk of falls",
+      "speech changes, soft or slurred speech, monotone voice",
+      "loss of automatic movements such as blinking or smiling",
+      "writing changes, small and cramped handwriting",
+      "non-motor symptoms including depression, anxiety, sleep disturbances, constipation, fatigue, memory problems, loss of smell"
+    ],
+    "progression": [
+      "mild tremor and subtle motor symptoms, often on one side of body",
+      "increasing rigidity, slowed movement, and balance issues",
+      "worsening motor impairment and development of non-motor symptoms",
+      "severe disability, difficulty walking, speaking, and performing daily activities"
+    ],
+    "common_locations": "brain regions controlling movement, especially substantia nigra and basal ganglia",
+    "duration": "chronic lifelong condition with gradual progression over years to decades",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "dementia, depression, swallowing difficulties, malnutrition, sleep disorders, falls, infections, orthostatic hypotension, bladder problems"
+    ],
+    "home_remedy": [
+      "regular exercise, physiotherapy, balanced diet, adequate sleep, stress management, maintaining daily routine"
+    ],
+    "avoid": [
+      "exposure to toxins, physical inactivity, poor diet, unmanaged stress, sleep deprivation"
+    ],
+    "when_to_see_doctor": "presence of tremors, stiffness, slowed movement, balance issues, or noticeable changes in speech or coordination",
+    "emergency_signs": "frequent falls, severe swallowing difficulty, inability to move, confusion, sudden worsening of symptoms",
+    "prevention": [
+      "regular aerobic exercise, healthy diet, avoiding toxins, possible protective effects of caffeine and certain medications"
+    ],
+    "contagious_period": "none",
+    "special_notes": "symptoms often begin asymmetrically and worsen over time, no cure available but medications and surgery can manage symptoms, life expectancy is usually near normal with treatment"
+  },
+  "Migraine": {
+    "aliases": [
+      "migraine headache",
+      "vascular headache",
+      "migraine disorder"
+    ],
+    "description": "recurrent neurological disorder characterized by moderate to severe throbbing headaches, often one-sided, associated with sensory sensitivity and systemic symptoms",
+    "cause": "abnormal brain activity affecting nerve signals, neurotransmitters, and blood vessels, with strong genetic predisposition and multiple environmental and lifestyle triggers",
+    "transmission": "none",
+    "risk_groups": "women, individuals with family history, people with depression, anxiety, epilepsy, sleep disorders, hormonal fluctuations, and obesity",
+    "incubation_period": "none",
+    "symptoms": [
+      "throbbing or pulsing headache, usually on one side of the head, sometimes bilateral",
+      "nausea, vomiting, sensitivity to light, sound, and odors",
+      "aura symptoms such as flashing lights, zig-zag lines, numbness, tingling, or speech difficulty",
+      "confusion, dizziness, poor concentration, fatigue, and weakness",
+      "worsening pain with movement, coughing, or physical activity",
+      "post-episode exhaustion, confusion, and weakness lasting hours to a day"
+    ],
+    "progression": [
+      "prodrome phase with mood changes, cravings, yawning, or fluid retention",
+      "aura phase with visual or sensory disturbances",
+      "headache phase with increasing throbbing pain and associated symptoms",
+      "postdrome phase with fatigue, confusion, and residual discomfort"
+    ],
+    "common_locations": "head (often unilateral), may affect face and neck regions",
+    "duration": "4 hours to 72 hours per episode, with possible residual symptoms up to several days",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "medication overuse headache, chronic migraine, stroke risk, depression, anxiety, sleep disturbances"
+    ],
+    "home_remedy": [
+      "rest in dark quiet room, hydration, cold compress, stress management, regular sleep schedule, trigger avoidance"
+    ],
+    "avoid": [
+      "stress, sleep deprivation, skipped meals, excessive caffeine, alcohol, strong lights or smells, trigger foods, medication overuse"
+    ],
+    "when_to_see_doctor": "frequent or severe headaches, worsening pattern, unclear diagnosis, headaches interfering with daily activities",
+    "emergency_signs": "sudden severe worst headache, paralysis or weakness, slurred speech, seizures, high fever with stiff neck, confusion, vision loss",
+    "prevention": [
+      "regular exercise, balanced diet, adequate sleep, stress management, avoiding triggers, maintaining routine, preventive medications if frequent attacks"
+    ],
+    "contagious_period": "none",
+    "special_notes": "may occur with or without aura, more common in women due to hormonal influence, attacks can be predictable in some individuals, keeping a migraine diary helps identify triggers"
+  },
+  "Aphasia": {
+    "aliases": [
+      "post-stroke aphasia",
+      "language disorder due to brain injury",
+      "acquired language impairment"
+    ],
+    "description": "neurological communication disorder caused by brain damage (commonly stroke) affecting language production and comprehension while intelligence remains intact",
+    "cause": "damage to language-dominant brain regions (usually left hemisphere, including broca's and wernicke's areas) due to stroke or other brain injury",
+    "transmission": "none",
+    "risk_groups": "stroke patients, elderly individuals, people with brain injury, individuals with neurological disorders affecting left brain hemisphere",
+    "incubation_period": "none",
+    "symptoms": [
+      "difficulty speaking, forming sentences, or producing correct words",
+      "trouble finding words (anomia), fragmented or jumbled speech",
+      "impaired understanding of spoken language",
+      "difficulty reading, writing, or performing calculations",
+      "problems with long or complex words and sentences",
+      "frustration, confusion, and possible depression due to communication difficulties"
+    ],
+    "progression": [
+      "sudden onset after stroke or brain injury",
+      "severe communication impairment in early stage",
+      "gradual improvement with therapy in some cases",
+      "persistent language deficits depending on severity and brain damage"
+    ],
+    "common_locations": "left hemisphere of brain, especially broca's area and wernicke's area",
+    "duration": "varies from temporary (weeks to months) to permanent depending on severity of brain damage",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "depression, social isolation, communication barriers, reduced quality of life, difficulty in daily functioning"
+    ],
+    "home_remedy": [
+      "speech therapy exercises, communication practice, supportive environment, use of visual aids and assistive communication tools"
+    ],
+    "avoid": [
+      "social isolation, lack of therapy, stress, communication neglect"
+    ],
+    "when_to_see_doctor": "sudden difficulty speaking, understanding language, or reading/writing, especially after suspected stroke",
+    "emergency_signs": "sudden speech loss, confusion, weakness on one side, facial drooping, inability to understand speech (possible stroke signs)",
+    "prevention": [
+      "stroke prevention through blood pressure control, healthy diet, exercise, avoiding smoking, managing diabetes and cholesterol"
+    ],
+    "contagious_period": "none",
+    "special_notes": "does not affect intelligence, includes types such as global aphasia, broca's aphasia, and wernicke's aphasia, may coexist with apraxia, early rehabilitation improves outcomes"
+  },
+  "Multiple sclerosis": {
+    "aliases": [
+      "MS",
+      "disseminated sclerosis"
+    ],
+    "description": "chronic autoimmune neurological disorder affecting the central nervous system, causing demyelination and disruption of nerve signal transmission between brain and body",
+    "cause": "autoimmune attack on myelin sheath of nerve fibers, influenced by genetic susceptibility and environmental factors",
+    "transmission": "none",
+    "risk_groups": "women, adults aged 20-40, individuals with family history, people with autoimmune conditions",
+    "incubation_period": "none",
+    "symptoms": [
+      "visual disturbances such as blurred vision or double vision",
+      "muscle weakness and reduced strength",
+      "coordination and balance problems, difficulty walking",
+      "numbness, tingling, or pins and needles sensations",
+      "fatigue and reduced physical endurance",
+      "cognitive issues including memory and thinking difficulties"
+    ],
+    "progression": [
+      "early mild neurological symptoms and sensory disturbances",
+      "relapsing-remitting episodes with partial recovery",
+      "gradual worsening with increased disability in some cases",
+      "advanced stage with significant motor and cognitive impairment"
+    ],
+    "common_locations": "brain, spinal cord, optic nerves",
+    "duration": "lifelong condition with variable progression",
+    "severity": "mild_to_severe",
+    "complications": [
+      "mobility impairment, vision loss, cognitive decline, speech difficulties, muscle stiffness, disability"
+    ],
+    "home_remedy": [
+      "regular exercise, balanced diet, stress management, adequate rest, physical and occupational therapy"
+    ],
+    "avoid": [
+      "stress, overheating, smoking, physical inactivity"
+    ],
+    "when_to_see_doctor": "vision problems, persistent numbness, coordination issues, unexplained weakness, or neurological symptoms",
+    "emergency_signs": "sudden vision loss, severe weakness, loss of coordination, inability to walk, severe neurological deterioration",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "often follows relapsing-remitting pattern, more common in women, no cure but treatments can slow progression and manage symptoms, early diagnosis improves outcomes"
+  },
+  "Meningitis": {
+    "aliases": [
+      "meningeal infection",
+      "brain membrane inflammation"
+    ],
+    "description": "infection or inflammation of the meninges (protective membranes surrounding brain and spinal cord), causing rapid onset neurological and systemic symptoms",
+    "cause": "viral (most common), bacterial, fungal, or parasitic infections, and in some cases autoimmune conditions or medications",
+    "transmission": "respiratory droplets, saliva, nasal secretions, fecal contact, close contact such as kissing or sharing utensils",
+    "risk_groups": "infants, children, elderly, immunocompromised individuals, unvaccinated people, people in close living conditions, travelers to endemic regions",
+    "incubation_period": "typically 2-10 days for bacterial and viral forms",
+    "symptoms": [
+      "sudden fever, severe headache, nausea, vomiting",
+      "neck stiffness, sensitivity to light (photophobia), double vision",
+      "confusion, altered mental state, difficulty concentrating",
+      "seizures, drowsiness, difficulty waking",
+      "rash in some bacterial types such as meningococcal",
+      "infants: bulging fontanelle, irritability, poor feeding, lethargy"
+    ],
+    "progression": [
+      "initial flu-like symptoms (fever, malaise)",
+      "rapid onset of neurological symptoms (headache, stiff neck, confusion)",
+      "severe complications such as seizures, shock, or organ failure",
+      "recovery or progression to permanent neurological damage or death if untreated"
+    ],
+    "common_locations": "meninges surrounding brain and spinal cord",
+    "duration": "acute condition, typically days to weeks depending on type and treatment",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "brain damage, hearing loss, vision loss, seizures, stroke, kidney failure, shock, cognitive impairment, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "close contact with infected individuals, sharing utensils or personal items, poor hygiene"
+    ],
+    "when_to_see_doctor": "sudden fever, severe headache, neck stiffness, confusion, sensitivity to light, vomiting, or suspected exposure",
+    "emergency_signs": "seizures, unconsciousness, severe confusion, high fever with stiff neck, rash with fever, difficulty breathing, shock",
+    "prevention": [
+      "vaccination (pneumococcal, meningococcal, haemophilus influenzae type b), good hygiene, avoiding close contact, prophylactic antibiotics for exposed individuals"
+    ],
+    "contagious_period": "varies by cause, bacterial forms contagious during active infection until treated",
+    "special_notes": "bacterial meningitis is life-threatening and requires immediate antibiotics, viral meningitis is usually less severe, early treatment significantly improves outcomes"
+  },
+  "Encephalitis": {
+    "aliases": [
+      "brain inflammation",
+      "viral encephalitis",
+      "autoimmune encephalitis"
+    ],
+    "description": "inflammation of brain tissue caused by infections or immune-mediated processes, leading to neurological dysfunction and potential brain damage",
+    "cause": "viral infections (e.g., herpes simplex, arboviruses, enteroviruses), bacterial, fungal, or parasitic infections, or autoimmune response where immune system attacks brain cells",
+    "transmission": "varies by cause, includes respiratory droplets, saliva, contaminated surfaces, insect bites (mosquitoes, ticks), or none in autoimmune cases",
+    "risk_groups": "all age groups, immunocompromised individuals, people with HIV, individuals exposed to infected insects, travelers to endemic regions",
+    "incubation_period": "varies depending on cause, typically 4-14 days for viral forms",
+    "symptoms": [
+      "fever, headache, fatigue, body aches",
+      "confusion, altered thinking, memory loss, impaired judgment",
+      "seizures, tremors, myoclonic jerks, or abnormal movements",
+      "speech, hearing, or vision problems including double vision or loss",
+      "neck stiffness, sensitivity changes, partial paralysis",
+      "behavioral changes, hallucinations, personality changes",
+      "severe cases: loss of consciousness, coma"
+    ],
+    "progression": [
+      "initial mild flu-like symptoms or asymptomatic phase",
+      "onset of neurological symptoms such as confusion and seizures",
+      "worsening brain inflammation leading to severe dysfunction",
+      "recovery with possible residual deficits or progression to brain damage or death"
+    ],
+    "common_locations": "brain (cerebral tissue), may involve spinal cord in some cases",
+    "duration": "acute phase lasts 1-2 weeks, recovery may take weeks to months",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "brain damage, memory loss, seizures, paralysis, speech and vision loss, cognitive impairment, coma, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "exposure to infected individuals, insect bites, poor hygiene, contact with contaminated objects"
+    ],
+    "when_to_see_doctor": "fever with neurological symptoms such as confusion, seizures, speech difficulty, or behavioral changes",
+    "emergency_signs": "seizures, loss of consciousness, paralysis, severe confusion, breathing difficulty, sudden vision or speech loss",
+    "prevention": [
+      "vaccination (measles, mumps, rubella, rabies, varicella), mosquito and tick protection, hygiene, avoiding contact with infected individuals"
+    ],
+    "contagious_period": "varies by infectious cause, contagious during active infection in some viral types",
+    "special_notes": "can be infectious or autoimmune, rapid progression requires immediate medical care, early treatment improves survival, rehabilitation may be needed for recovery"
+  },
+  "Bell's palsy": {
+    "aliases": [
+      "acute peripheral facial palsy",
+      "idiopathic facial nerve paralysis"
+    ],
+    "description": "sudden onset neurological condition causing temporary weakness or paralysis of facial muscles on one side due to facial nerve dysfunction",
+    "cause": "inflammation and swelling of the facial nerve (cranial nerve VII), often linked to viral infections such as herpes simplex, varicella-zoster, or other respiratory viruses",
+    "transmission": "none",
+    "risk_groups": "pregnant women, individuals with diabetes, hypertension, obesity, people with recent viral or respiratory infections, family history of recurrence",
+    "incubation_period": "none",
+    "symptoms": [
+      "sudden weakness or paralysis on one side of the face developing within hours to days",
+      "facial drooping, difficulty smiling, closing eye, or making expressions",
+      "drooling and difficulty controlling saliva",
+      "pain around jaw or behind ear on affected side",
+      "increased sensitivity to sound (hyperacusis)",
+      "headache and loss of taste",
+      "changes in tear and saliva production"
+    ],
+    "progression": [
+      "sudden onset of facial weakness or paralysis",
+      "peak severity within 48-72 hours",
+      "gradual improvement over weeks",
+      "recovery within months, though some may have residual symptoms"
+    ],
+    "common_locations": "facial nerve (cranial nerve VII), affecting one side of face",
+    "duration": "weeks to months, typically resolves within 3-6 months",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "permanent facial weakness, synkinesis (involuntary muscle movements), eye dryness, corneal damage, partial or complete vision loss in severe cases"
+    ],
+    "home_remedy": [
+      "facial exercises, eye protection (lubricating drops, eye patch), rest, maintaining facial muscle activity"
+    ],
+    "avoid": [
+      "eye exposure without protection, delayed treatment, stress, untreated infections"
+    ],
+    "when_to_see_doctor": "sudden facial weakness or drooping, difficulty speaking or closing eye, to rule out stroke",
+    "emergency_signs": "sudden paralysis with limb weakness, speech difficulty, confusion (possible stroke), inability to close eye leading to injury",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "not caused by stroke but may mimic stroke symptoms, most cases recover fully, recurrence is rare but possible, early treatment improves recovery outcomes"
+  },
+  "Diabetic neuropathy": {
+    "aliases": [
+      "diabetic nerve damage",
+      "diabetic peripheral neuropathy",
+      "diabetic autonomic neuropathy"
+    ],
+    "description": "complication of diabetes causing progressive nerve damage due to prolonged high blood sugar levels, affecting sensory, motor, and autonomic functions",
+    "cause": "chronic hyperglycemia and elevated blood lipids (triglycerides) leading to nerve fiber damage and impaired blood supply to nerves",
+    "transmission": "none",
+    "risk_groups": "individuals with diabetes (type 1 or type 2), long-standing uncontrolled blood sugar, obese individuals, people with high triglycerides",
+    "incubation_period": "none",
+    "symptoms": [
+      "numbness, tingling, burning, or pain in feet and legs, sometimes hands and arms",
+      "reduced sensation leading to unnoticed injuries or ulcers",
+      "muscle weakness and loss of coordination",
+      "digestive problems such as nausea, constipation, or diarrhea",
+      "bladder dysfunction and urinary issues",
+      "sexual dysfunction including erectile problems",
+      "abnormal sweating and temperature regulation",
+      "dizziness due to blood pressure changes"
+    ],
+    "progression": [
+      "early nerve damage with mild tingling or numbness",
+      "increasing sensory loss and pain in extremities",
+      "spread to autonomic or focal nerve dysfunction",
+      "severe nerve damage causing disability and organ dysfunction"
+    ],
+    "common_locations": "peripheral nerves (feet, legs, hands), autonomic nerves (heart, digestive system, bladder), focal nerves (single nerve areas)",
+    "duration": "chronic and progressive condition",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "foot ulcers, infections, amputations, gastroparesis, erectile dysfunction, bladder issues, cardiovascular instability, hypoglycemia unawareness"
+    ],
+    "home_remedy": [
+      "strict blood sugar control, healthy diet, regular exercise, foot care, proper hydration"
+    ],
+    "avoid": [
+      "poor glucose control, smoking, alcohol, sedentary lifestyle, untreated injuries"
+    ],
+    "when_to_see_doctor": "numbness, pain, burning sensation, digestive or urinary issues, or unexplained weakness in diabetic patients",
+    "emergency_signs": "severe infections, non-healing wounds, sudden dizziness or fainting, loss of sensation leading to injury",
+    "prevention": [
+      "good blood sugar control, regular monitoring, healthy lifestyle, routine foot and nerve checkups"
+    ],
+    "contagious_period": "none",
+    "special_notes": "most common complication of diabetes, peripheral neuropathy is most prevalent type, early management can slow progression and prevent severe complications"
+  },
+  "Sciatica": {
+    "aliases": [
+      "sciatic nerve pain",
+      "radicular pain",
+      "nerve root pain"
+    ],
+    "description": "condition characterized by pain radiating along the sciatic nerve from the lower back through the buttock and down the leg due to nerve irritation or compression",
+    "cause": "compression or irritation of spinal nerve roots, commonly from herniated disc, bone spurs, spinal degeneration, or inflammation",
+    "transmission": "none",
+    "risk_groups": "adults aged 20-50, individuals with obesity, sedentary lifestyle, diabetes, occupations involving heavy lifting or prolonged sitting",
+    "incubation_period": "none",
+    "symptoms": [
+      "lower back pain radiating to buttock, thigh, and leg (usually one side)",
+      "sharp, burning, or electric shock-like pain along nerve pathway",
+      "numbness, tingling, or pins and needles in leg or foot",
+      "muscle weakness in leg or foot",
+      "pain worsened by sitting, coughing, sneezing, or movement",
+      "altered sensations such as hot, cold, or shooting pain"
+    ],
+    "progression": [
+      "initial lower back discomfort or nerve irritation",
+      "radiating leg pain with sensory changes",
+      "possible muscle weakness and reduced mobility",
+      "gradual improvement in most cases, or chronic symptoms if untreated"
+    ],
+    "common_locations": "lower back (lumbar spine), buttocks, back of thigh, calf, foot along sciatic nerve",
+    "duration": "typically resolves within 6-12 weeks, but may persist longer or recur",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "chronic pain, nerve damage, muscle weakness, mobility issues, cauda equina syndrome"
+    ],
+    "home_remedy": [
+      "gentle exercise, maintaining activity, posture correction, heat or cold therapy, gradual return to normal activities"
+    ],
+    "avoid": [
+      "prolonged sitting, heavy lifting, poor posture, sudden movements, inactivity"
+    ],
+    "when_to_see_doctor": "persistent pain beyond a few weeks, worsening symptoms, significant weakness, or interference with daily activities",
+    "emergency_signs": "loss of bowel or bladder control, severe leg weakness, numbness in groin area (cauda equina syndrome), sudden severe pain after trauma",
+    "prevention": [
+      "regular exercise, proper posture, weight management, safe lifting techniques, avoiding prolonged inactivity"
+    ],
+    "contagious_period": "none",
+    "special_notes": "usually improves without surgery, often caused by disc-related changes, symptoms may fluctuate and recur, imaging not always required in early stages"
+  },
+  "Cerebral palsy": {
+    "aliases": [
+      "CP",
+      "congenital motor disorder",
+      "non-progressive neurological disorder"
+    ],
+    "description": "group of permanent neurological disorders affecting movement, posture, and muscle coordination due to abnormal brain development or early brain damage",
+    "cause": "brain damage or abnormal brain development occurring before birth, during birth, or early childhood, including oxygen deprivation, infections, genetic factors, or injury",
+    "transmission": "none",
+    "risk_groups": "premature infants, low birth weight babies, multiple births, infants with birth complications, maternal infections, children with early brain injury",
+    "incubation_period": "none",
+    "symptoms": [
+      "abnormal muscle tone (spasticity, rigidity, or floppiness)",
+      "difficulty with movement, balance, and coordination",
+      "delayed developmental milestones (sitting, crawling, walking)",
+      "speech and communication difficulties",
+      "swallowing and feeding problems",
+      "vision impairments and sensory processing issues",
+      "seizures (epilepsy) and learning disabilities",
+      "fatigue, sleep disturbances, and behavioral problems"
+    ],
+    "progression": [
+      "early developmental delays in infancy",
+      "identification of abnormal muscle tone and movement patterns",
+      "persistent motor impairment with possible associated conditions",
+      "stable neurological condition with functional changes over time"
+    ],
+    "common_locations": "brain (motor control regions), affecting muscles throughout body",
+    "duration": "lifelong condition (non-progressive but symptoms may change over time)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "joint deformities, muscle contractures, dislocations, chronic pain, communication difficulties, feeding issues, epilepsy"
+    ],
+    "home_remedy": [
+      "physical therapy, assistive devices, regular exercise, supportive care, speech and occupational therapy"
+    ],
+    "avoid": [
+      "untreated complications, lack of therapy, physical inactivity, poor posture support"
+    ],
+    "when_to_see_doctor": "delayed development, abnormal muscle tone, difficulty in movement, speech, or coordination in infants or children",
+    "emergency_signs": "seizures, severe feeding difficulty, breathing problems, sudden worsening of neurological symptoms",
+    "prevention": [
+      "prenatal care, vaccination during pregnancy, avoiding infections, safe childbirth practices, prevention of head injuries in infants"
+    ],
+    "contagious_period": "none",
+    "special_notes": "not progressive but symptoms may evolve with age, early intervention improves outcomes, includes types such as spastic, dyskinetic, ataxic, and mixed cerebral palsy"
+  },
+  "Dementia": {
+    "aliases": [
+      "cognitive decline syndrome",
+      "neurocognitive disorder"
+    ],
+    "description": "group of symptoms caused by brain cell damage leading to decline in memory, thinking, behavior, and ability to perform daily activities",
+    "cause": "damage or loss of brain cells due to conditions such as alzheimer's disease, stroke, brain injury, or tumors",
+    "transmission": "none",
+    "risk_groups": "older adults, individuals with family history, people with brain injury, stroke, or neurological diseases",
+    "incubation_period": "none",
+    "symptoms": [
+      "memory loss, especially recent events, forgetting tasks or conversations",
+      "difficulty performing familiar tasks such as dressing or cooking",
+      "language problems, forgetting words or using incorrect words",
+      "disorientation in time and place, getting lost easily",
+      "poor judgment and difficulty with abstract thinking",
+      "misplacing objects in unusual places",
+      "personality and mood changes such as depression, irritability, or anxiety",
+      "loss of initiative, reduced interest in activities"
+    ],
+    "progression": [
+      "mild cognitive impairment and memory lapses",
+      "increasing confusion and difficulty with daily tasks",
+      "significant behavioral and personality changes",
+      "severe cognitive decline with complete dependence"
+    ],
+    "common_locations": "brain (areas responsible for memory, reasoning, and behavior)",
+    "duration": "chronic and progressive condition",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "inability to perform daily activities, behavioral disturbances, depression, caregiver burden, increased risk of injury"
+    ],
+    "home_remedy": [
+      "cognitive stimulation, structured routine, supportive environment, social engagement"
+    ],
+    "avoid": [
+      "social isolation, unmanaged medical conditions, head injuries, stress"
+    ],
+    "when_to_see_doctor": "memory loss affecting daily life, confusion, behavioral changes, difficulty performing routine tasks",
+    "emergency_signs": "sudden confusion, severe behavioral changes, inability to recognize people, possible stroke-like symptoms",
+    "prevention": [
+      "healthy lifestyle, mental stimulation, managing cardiovascular risk factors, avoiding head injuries"
+    ],
+    "contagious_period": "none",
+    "special_notes": "not a normal part of aging, alzheimer's disease is most common cause, symptoms worsen over time, early diagnosis helps manage progression"
+  },
+  "Type 1 diabetes": {
+    "aliases": [
+      "insulin-dependent diabetes",
+      "juvenile diabetes",
+      "autoimmune diabetes"
+    ],
+    "description": "chronic autoimmune disease in which the pancreas produces little or no insulin, leading to high blood glucose levels and impaired energy utilization",
+    "cause": "autoimmune destruction of insulin-producing beta cells in the pancreas triggered by genetic and environmental factors",
+    "transmission": "none",
+    "risk_groups": "children and young adults, individuals with family history, people with genetic predisposition, individuals with certain environmental triggers",
+    "incubation_period": "none",
+    "symptoms": [
+      "frequent urination (polyuria)",
+      "excessive thirst (polydipsia)",
+      "increased hunger despite eating (polyphagia)",
+      "unexplained weight loss",
+      "fatigue and weakness",
+      "blurred vision",
+      "slow-healing sores and frequent infections",
+      "symptoms of diabetic ketoacidosis such as nausea, vomiting, abdominal pain, fruity breath, and difficulty breathing"
+    ],
+    "progression": [
+      "autoimmune destruction of pancreatic beta cells",
+      "gradual insulin deficiency leading to rising blood glucose levels",
+      "onset of symptoms over days to weeks",
+      "lifelong insulin dependence with risk of acute and chronic complications"
+    ],
+    "common_locations": "pancreas (beta cells), systemic effects on blood, nerves, kidneys, eyes, heart",
+    "duration": "lifelong condition",
+    "severity": "severe",
+    "complications": [
+      "diabetic ketoacidosis, hypoglycemia, nerve damage, kidney disease, cardiovascular disease, vision loss, infections"
+    ],
+    "home_remedy": [
+      "blood glucose monitoring, healthy diet, regular physical activity, hydration, adherence to insulin therapy"
+    ],
+    "avoid": [
+      "missed insulin doses, poor diet, sedentary lifestyle, unmanaged stress, infections"
+    ],
+    "when_to_see_doctor": "symptoms of excessive thirst, urination, weight loss, fatigue, or suspected diabetes",
+    "emergency_signs": "diabetic ketoacidosis symptoms (vomiting, abdominal pain, rapid breathing, confusion), severe hypoglycemia, loss of consciousness",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "requires lifelong insulin therapy, symptoms often develop rapidly, careful management prevents complications, may be associated with other autoimmune diseases"
+  },
+  "Type 2 diabetes": {
+    "aliases": [
+      "non-insulin-dependent diabetes",
+      "adult-onset diabetes",
+      "insulin resistance diabetes"
+    ],
+    "description": "chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency, leading to elevated blood glucose levels",
+    "cause": "combination of insulin resistance in body cells and reduced insulin production by the pancreas, influenced by genetic, lifestyle, and environmental factors",
+    "transmission": "none",
+    "risk_groups": "overweight or obese individuals, sedentary lifestyle, adults over 35, people with family history, certain ethnic groups, individuals with prediabetes or gestational diabetes",
+    "incubation_period": "none",
+    "symptoms": [
+      "increased thirst (polydipsia)",
+      "frequent urination (polyuria), especially at night",
+      "increased hunger (polyphagia)",
+      "fatigue and weakness",
+      "blurred vision",
+      "slow-healing wounds or sores",
+      "frequent infections (skin, urinary, fungal)",
+      "numbness or tingling in hands and feet",
+      "darkened skin patches (acanthosis nigricans)"
+    ],
+    "progression": [
+      "development of insulin resistance and mild blood sugar elevation (prediabetes)",
+      "gradual rise in blood glucose with few or no symptoms",
+      "onset of noticeable symptoms and diagnosis",
+      "long-term complications affecting organs if uncontrolled"
+    ],
+    "common_locations": "pancreas, blood, and systemic effects on heart, kidneys, nerves, eyes, and blood vessels",
+    "duration": "lifelong condition",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "cardiovascular disease, stroke, neuropathy, kidney disease, retinopathy, infections, amputations, cognitive decline"
+    ],
+    "home_remedy": [
+      "healthy diet, weight management, regular physical activity, blood glucose monitoring"
+    ],
+    "avoid": [
+      "sedentary lifestyle, high sugar intake, smoking, excessive alcohol, poor diet"
+    ],
+    "when_to_see_doctor": "symptoms of high blood sugar, risk factors, or routine screening for early detection",
+    "emergency_signs": "severe hyperglycemia, confusion, dehydration, hypoglycemia (if on medication), loss of consciousness",
+    "prevention": [
+      "healthy weight, balanced diet, regular exercise, avoiding smoking, managing prediabetes"
+    ],
+    "contagious_period": "none",
+    "special_notes": "often asymptomatic in early stages, lifestyle changes can delay or prevent onset, may require oral medications or insulin over time"
+  },
+  "Hypothyroidism": {
+    "aliases": [
+      "underactive thyroid",
+      "thyroid hormone deficiency"
+    ],
+    "description": "chronic endocrine disorder in which the thyroid gland fails to produce sufficient thyroid hormones, leading to a generalized slowing of metabolic processes affecting multiple organ systems",
+    "cause": "autoimmune destruction (most commonly Hashimoto's disease), thyroid inflammation, congenital absence or dysfunction of thyroid gland, surgical removal of thyroid, radiation therapy, certain medications, iodine imbalance, or disorders of pituitary or hypothalamus",
+    "transmission": "none",
+    "risk_groups": "women, individuals over 60 years, people with family history of thyroid disease, postpartum women, patients with autoimmune diseases, individuals with prior thyroid surgery or radiation exposure",
+    "incubation_period": "gradual onset over months to years",
+    "symptoms": [
+      "fatigue and lethargy",
+      "unexplained weight gain",
+      "intolerance to cold temperatures",
+      "dry skin and thinning hair",
+      "joint and muscle pain",
+      "slow heart rate (bradycardia)",
+      "depression or low mood",
+      "heavy or irregular menstrual cycles",
+      "infertility issues",
+      "constipation",
+      "slowed thinking or memory problems"
+    ],
+    "progression": [
+      "early mild hormone deficiency with subtle or no symptoms",
+      "gradual worsening of metabolic slowdown and symptom development",
+      "systemic involvement affecting multiple organs",
+      "severe untreated cases may lead to life-threatening complications such as myxedema coma"
+    ],
+    "common_locations": "thyroid gland (primary), systemic effects on heart, brain, skin, muscles, and metabolism",
+    "duration": "lifelong (chronic condition requiring long-term management)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "high cholesterol, cardiovascular disease, infertility, depression, peripheral neuropathy, goiter, and severe cases such as myxedema coma"
+    ],
+    "home_remedy": [
+      "balanced diet, adequate iodine intake, regular exercise, stress management, adherence to medication"
+    ],
+    "avoid": [
+      "iodine excess, skipping medication, untreated thyroid disorders, certain interfering medications without supervision"
+    ],
+    "when_to_see_doctor": "persistent fatigue, unexplained weight gain, menstrual irregularities, depression, or suspected thyroid dysfunction",
+    "emergency_signs": "extreme drowsiness, confusion, hypothermia, slow breathing, or unconsciousness (possible myxedema coma)",
+    "prevention": [
+      "not always preventable; early screening in high-risk individuals, managing autoimmune conditions, and appropriate iodine intake"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis is confirmed via thyroid function blood tests (TSH, T3, T4); treatment typically involves lifelong hormone replacement therapy with levothyroxine"
+  },
+  "Hyperthyroidism": {
+    "aliases": [
+      "overactive thyroid",
+      "thyrotoxicosis"
+    ],
+    "description": "endocrine disorder in which the thyroid gland produces and releases excessive thyroid hormones, leading to an increased metabolic rate that affects multiple body systems",
+    "cause": "autoimmune stimulation of the thyroid (most commonly Graves' disease), overactive thyroid nodules, thyroid inflammation, excessive iodine intake, or rarely pituitary gland tumors",
+    "transmission": "none",
+    "risk_groups": "women, individuals under 40 or over 60, people with family history of thyroid disease, patients with autoimmune conditions, individuals consuming excess iodine",
+    "incubation_period": "gradual onset over weeks to months",
+    "symptoms": [
+      "unexplained weight loss despite normal or increased appetite",
+      "rapid or irregular heartbeat (palpitations)",
+      "nervousness, anxiety, irritability",
+      "tremors (shaking hands or fingers)",
+      "increased sweating and heat intolerance",
+      "fatigue and muscle weakness",
+      "difficulty sleeping (insomnia)",
+      "changes in menstrual cycles (lighter or irregular periods)",
+      "frequent bowel movements",
+      "enlarged thyroid gland (goiter)",
+      "eye symptoms (bulging eyes, dryness, double vision) in Graves' disease"
+    ],
+    "progression": [
+      "early mild increase in thyroid hormone levels with subtle symptoms",
+      "progressive metabolic acceleration affecting multiple systems",
+      "complications involving heart, bones, and nervous system",
+      "severe untreated cases may lead to thyrotoxic crisis (life-threatening emergency)"
+    ],
+    "common_locations": "thyroid gland (primary), systemic effects on heart, eyes, bones, muscles, and metabolism",
+    "duration": "variable; may be temporary or chronic",
+    "severity": "mild_to_severe",
+    "complications": [
+      "atrial fibrillation, heart failure, osteoporosis, infertility, eye complications, and thyroid storm"
+    ],
+    "home_remedy": [
+      "stress management, balanced diet, avoiding excess iodine, regular medical follow-up"
+    ],
+    "avoid": [
+      "excessive iodine intake, untreated symptoms, self-medication without supervision"
+    ],
+    "when_to_see_doctor": "persistent rapid heartbeat, unexplained weight loss, anxiety, tremors, or swelling in the neck",
+    "emergency_signs": "high fever, severe tachycardia, confusion, delirium (possible thyroid storm)",
+    "prevention": [
+      "not fully preventable; early screening in high-risk individuals and avoiding excess iodine intake"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis is confirmed with thyroid function blood tests (TSH, T3, T4) and imaging; treatment options include anti-thyroid medications, radioactive iodine therapy, beta blockers, or surgery"
+  },
+  "Goiter": {
+    "aliases": [
+      "thyroid enlargement"
+    ],
+    "description": "abnormal enlargement of the thyroid gland, which may occur with normal, increased, or decreased thyroid hormone production; often visible as swelling at the front of the neck",
+    "cause": "iodine deficiency (most common), autoimmune disorders such as Graves' disease and Hashimoto's disease, thyroid nodules, inflammation, certain medications, or genetic factors",
+    "transmission": "none",
+    "risk_groups": "women, people over 40 years, individuals with iodine deficiency, those with family history of thyroid disease, patients with autoimmune conditions",
+    "incubation_period": "gradual development over months to years",
+    "symptoms": [
+      "swelling at the front of the neck",
+      "tightness in throat",
+      "difficulty swallowing or breathing (large goiter)",
+      "hoarseness",
+      "cough",
+      "symptoms of hypothyroidism or hyperthyroidism depending on cause"
+    ],
+    "progression": [
+      "initial mild thyroid enlargement",
+      "gradual increase in size",
+      "possible hormonal imbalance",
+      "compression of nearby structures in severe cases"
+    ],
+    "common_locations": "thyroid gland (neck)",
+    "duration": "variable; may be temporary or chronic",
+    "severity": "mild_to_severe",
+    "complications": [
+      "airway obstruction, swallowing difficulty, thyroid dysfunction, nodules, rarely malignancy"
+    ],
+    "home_remedy": [
+      "adequate iodine intake, balanced diet, regular monitoring"
+    ],
+    "avoid": [
+      "iodine deficiency or excess, smoking, untreated thyroid conditions"
+    ],
+    "when_to_see_doctor": "visible neck swelling, breathing or swallowing difficulty, or symptoms of thyroid imbalance",
+    "emergency_signs": "severe breathing difficulty or rapid swelling",
+    "prevention": [
+      "use of iodized salt, maintaining proper iodine intake"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis involves thyroid function tests and imaging; treatment depends on underlying cause and may include observation, medication, radioactive iodine, or surgery"
+  },
+  "Cushing's Syndrome": {
+    "aliases": [
+      "hypercortisolism",
+      "Cushing syndrome"
+    ],
+    "description": "a hormonal disorder caused by prolonged exposure to high levels of cortisol, leading to characteristic physical changes, metabolic disturbances, and increased risk of serious health complications",
+    "cause": "long-term use of glucocorticoid medications (most common), pituitary tumors (Cushing's disease), adrenal tumors, ectopic ACTH-producing tumors, or abnormal cortisol regulation",
+    "transmission": "none",
+    "risk_groups": "adults aged 30-50, women (higher prevalence), individuals using long-term corticosteroids, people with conditions like Type 2 diabetes or high blood pressure",
+    "incubation_period": "gradual development over months to years",
+    "symptoms": [
+      "weight gain (especially around abdomen, face, and upper back)",
+      "moon face (round face)",
+      "fat accumulation between shoulders (buffalo hump)",
+      "thin arms and legs",
+      "easy bruising",
+      "purple stretch marks (abdomen, thighs, breasts)",
+      "muscle weakness",
+      "fatigue",
+      "high blood pressure",
+      "high blood sugar",
+      "mood changes (depression, anxiety)",
+      "irregular menstrual cycles (in women)",
+      "decreased libido or fertility issues"
+    ],
+    "progression": [
+      "prolonged cortisol elevation",
+      "metabolic and hormonal imbalance",
+      "visible physical changes and systemic symptoms",
+      "complications affecting cardiovascular, metabolic, and bone health"
+    ],
+    "common_locations": "systemic (affects endocrine system, metabolism, skin, muscles, cardiovascular system)",
+    "duration": "chronic (until treated)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "heart attack and stroke, blood clots, infections, osteoporosis and fractures, hypertension, insulin resistance and Type 2 diabetes, depression and cognitive issues"
+    ],
+    "home_remedy": [
+      "not sufficient alone; supportive lifestyle changes include healthy diet, stress management, and regular monitoring"
+    ],
+    "avoid": [
+      "prolonged unnecessary use of corticosteroids, unmanaged stress, high-sugar and high-fat diets"
+    ],
+    "when_to_see_doctor": "if experiencing rapid weight gain, unusual fat distribution, muscle weakness, or hormonal symptoms",
+    "emergency_signs": "severe infection, breathing difficulty, chest pain, or signs of stroke",
+    "prevention": [
+      "careful use of steroid medications under medical supervision, early detection of hormonal imbalances"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis often requires multiple tests (urine, saliva, blood cortisol levels); treatment depends on the cause and may include surgery, medication, or radiation"
+  },
+  "Vitamin D Deficiency": {
+    "aliases": [
+      "hypovitaminosis D"
+    ],
+    "description": "a condition in which the body does not have enough vitamin D to maintain healthy bones and normal body functions, leading to impaired calcium absorption, weakened bones, and potential systemic effects",
+    "cause": "inadequate dietary intake of vitamin D, insufficient sunlight exposure, malabsorption disorders, liver or kidney disease affecting vitamin D activation, medications interfering with vitamin D metabolism, obesity (vitamin D sequestration in fat tissue)",
+    "transmission": "none",
+    "risk_groups": "infants (especially breastfed without supplementation), older adults, people with dark skin, individuals with limited sun exposure, people with obesity, patients with chronic kidney or liver disease, individuals with gastrointestinal disorders affecting absorption",
+    "incubation_period": "gradual onset over months to years",
+    "symptoms": [
+      "often mild or no early symptoms",
+      "fatigue",
+      "bone pain",
+      "muscle weakness",
+      "frequent fractures",
+      "delayed growth or bone deformities in children"
+    ],
+    "progression": [
+      "low vitamin D levels",
+      "reduced calcium absorption",
+      "decreased bone mineralization",
+      "development of bone disorders"
+    ],
+    "common_locations": "bones, muscles, immune and nervous systems",
+    "duration": "chronic (until corrected)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "Osteoporosis, fractures, Rickets (in children), Osteomalacia (in adults)"
+    ],
+    "home_remedy": [
+      "safe sunlight exposure, vitamin D-rich diet (milk, milk products, fortified foods), supplements (as prescribed)"
+    ],
+    "avoid": [
+      "prolonged lack of sun exposure, poor diet lacking vitamin D, excessive reliance on unverified supplements"
+    ],
+    "when_to_see_doctor": "persistent fatigue or bone pain, frequent fractures, high-risk individuals (elderly, chronic illness)",
+    "emergency_signs": "severe bone weakness leading to fractures, symptoms of vitamin D toxicity (nausea, confusion, irregular heartbeat)",
+    "prevention": [
+      "adequate sunlight exposure, balanced diet with vitamin D, supplementation for high-risk groups"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosed through blood tests measuring vitamin D levels; both deficiency and excess (toxicity) can be harmful, so proper dosing is important"
+  },
+  "Vitamin B12 Deficiency Anemia": {
+    "aliases": [
+      "cobalamin deficiency anemia",
+      "megaloblastic anemia B12-related"
+    ],
+    "description": "a condition in which the body cannot produce enough healthy red blood cells due to a lack of vitamin B12, leading to impaired oxygen transport and potential damage to the nervous system",
+    "cause": "inadequate intake of vitamin B12 (strict vegan or poor diet), impaired absorption due to Pernicious anemia (lack of intrinsic factor), gastrointestinal disorders such as Crohn's disease, Ulcerative colitis, stomach or intestinal surgery, chronic alcohol consumption, medications (e.g., metformin, proton pump inhibitors), infections such as Helicobacter pylori infection",
+    "transmission": "none",
+    "risk_groups": "older adults, vegetarians and vegans, people with autoimmune diseases, individuals with gastrointestinal disorders, patients with history of stomach or intestinal surgery, people with chronic alcohol use",
+    "incubation_period": "gradual onset over months to years",
+    "symptoms": [
+      "fatigue, weakness",
+      "pale skin",
+      "shortness of breath",
+      "dizziness, headaches",
+      "tingling or numbness (paresthesia)",
+      "difficulty walking",
+      "confusion, memory loss",
+      "depression or irritability",
+      "vision problems",
+      "diarrhea and weight loss",
+      "glossitis (smooth, red tongue)"
+    ],
+    "progression": [
+      "vitamin B12 deficiency",
+      "abnormal red blood cell formation (megaloblastic changes)",
+      "anemia develops",
+      "neurological complications may occur if untreated"
+    ],
+    "common_locations": "blood, bone marrow, nervous system",
+    "duration": "chronic if untreated",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "neurological damage (may be permanent), cognitive decline or dementia-like symptoms, infertility, increased risk of infections and bleeding, developmental issues in infants, increased risk of stomach cancer (with pernicious anemia)"
+    ],
+    "home_remedy": [
+      "vitamin B12-rich diet (meat, fish, eggs, dairy, fortified foods), supplementation (oral or injectable as prescribed)"
+    ],
+    "avoid": [
+      "prolonged poor diet lacking B12, excessive alcohol consumption, ignoring early neurological symptoms"
+    ],
+    "when_to_see_doctor": "persistent fatigue or weakness, numbness or tingling, memory or mood changes, unexplained anemia",
+    "emergency_signs": "severe neurological symptoms (loss of coordination, confusion), extreme weakness or breathlessness",
+    "prevention": [
+      "balanced diet with adequate vitamin B12, supplements for high-risk groups (vegans, elderly), regular screening in at-risk individuals"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosed via blood tests (hemoglobin, vitamin B12 levels); early treatment is crucial to prevent irreversible nerve damage; treatment may require lifelong supplementation in some cases"
+  },
+  "Irritable Bowel Syndrome": {
+    "aliases": [
+      "IBS",
+      "spastic colon",
+      "irritable colon"
+    ],
+    "description": "a common, long-term disorder affecting the digestive system, characterized by recurring abdominal discomfort and changes in bowel habits without any visible structural damage",
+    "cause": "exact cause unknown; possible factors include abnormal gut-brain interaction, intestinal muscle spasms, stress and psychological factors, food sensitivities or intolerances, changes in gut bacteria, previous infections (post-infectious IBS)",
+    "transmission": "not contagious",
+    "risk_groups": "young adults (especially under 50), women (more commonly affected), people with stress, anxiety, or depression, individuals with family history of IBS",
+    "incubation_period": "none (chronic condition)",
+    "symptoms": [
+      "abdominal pain or cramping (often relieved after bowel movement)",
+      "diarrhoea, constipation, or both (alternating)",
+      "bloating and abdominal swelling",
+      "excess gas (flatulence)",
+      "urgency to pass stool",
+      "fatigue (less common)",
+      "nausea (less common)",
+      "heartburn (less common)"
+    ],
+    "progression": [
+      "intermittent digestive discomfort",
+      "recurring bowel habit changes",
+      "chronic symptom cycles (flare-ups and remission)",
+      "symptoms triggered by stress or diet"
+    ],
+    "common_locations": "large intestine (colon), small intestine",
+    "duration": "lifelong condition; symptoms fluctuate over time",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "reduced quality of life, anxiety and depression, social and lifestyle limitations, does not cause cancer or permanent bowel damage"
+    ],
+    "home_remedy": [
+      "manage stress (yoga, meditation), follow a balanced fiber-controlled diet, identify and avoid trigger foods, eat smaller regular meals, stay hydrated"
+    ],
+    "avoid": [
+      "high-fat or spicy foods, caffeine and alcohol, large meals, stress triggers"
+    ],
+    "when_to_see_doctor": "persistent symptoms affecting daily life, uncertainty about diagnosis, need for symptom management",
+    "emergency_signs": "unexplained weight loss, blood in stool, persistent vomiting, symptoms starting after age 50",
+    "prevention": [
+      "no definite prevention; can be managed with diet, stress control, and healthy lifestyle"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis is based on symptoms and ruling out other conditions; treatment focuses on symptom control (diet changes, medications, stress management); common triggers include stress and certain foods"
+  },
+  "Gallstones": {
+    "aliases": [
+      "cholelithiasis",
+      "gallstone disease"
+    ],
+    "description": "a condition where hardened deposits (stones), usually made of cholesterol or bilirubin, form in the gallbladder; often asymptomatic but can cause severe pain and complications if they block bile ducts",
+    "cause": "imbalance in bile composition (excess cholesterol in bile, excess bilirubin production), poor gallbladder emptying (bile becomes concentrated), associated conditions (Cirrhosis, certain blood disorders), lifestyle factors (obesity, high-fat diet, rapid weight loss)",
+    "transmission": "not contagious",
+    "risk_groups": "women (especially after pregnancy), people over 40 years, overweight or obese individuals, people with diabetes, those with family history of gallstones, individuals on estrogen therapy",
+    "incubation_period": "varies (develops gradually over time)",
+    "symptoms": [
+      "many people are asymptomatic",
+      "sudden severe pain in upper right abdomen (biliary colic)",
+      "pain lasting 1-5 hours",
+      "pain radiating to back or right shoulder",
+      "nausea and vomiting",
+      "persistent abdominal pain (complication symptom)",
+      "fever (complication symptom)",
+      "jaundice (complication symptom)"
+    ],
+    "progression": [
+      "imbalance in bile composition",
+      "crystal formation",
+      "stone development in gallbladder",
+      "blockage of bile duct (symptoms begin)",
+      "complications if untreated"
+    ],
+    "common_locations": "gallbladder, bile ducts",
+    "duration": "chronic condition; symptoms occur in episodes (flares)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "Cholecystitis, bile duct blockage, Pancreatitis, jaundice, rare: gallbladder cancer"
+    ],
+    "home_remedy": [
+      "maintain healthy weight, eat balanced low-fat diet, regular meals (avoid fasting), increase fiber intake"
+    ],
+    "avoid": [
+      "high-fat and high-cholesterol foods, rapid weight loss, skipping meals"
+    ],
+    "when_to_see_doctor": "repeated abdominal pain episodes, nausea with pain, symptoms interfering with daily life",
+    "emergency_signs": "severe abdominal pain that doesn't go away, fever with chills, yellowing of skin or eyes, persistent vomiting",
+    "prevention": [
+      "maintain healthy weight, gradual weight loss if needed, high-fiber diet, regular physical activity"
+    ],
+    "contagious_period": "none",
+    "special_notes": "many cases require no treatment if asymptomatic; symptomatic cases often treated with gallbladder removal (laparoscopic cholecystectomy); life without a gallbladder is generally normal"
+  },
+  "Appendicitis": {
+    "aliases": [
+      "inflamed appendix",
+      "acute appendicitis",
+      "appendix inflammation"
+    ],
+    "description": "a condition where the appendix (a small pouch attached to the large intestine) becomes inflamed, swollen, and filled with pus; it is a medical emergency that usually requires surgical removal",
+    "cause": "blockage of the appendix (most common): hardened stool, swollen lymph tissue; bacterial infection leading to inflammation; less common triggers: parasites or tumors",
+    "transmission": "not contagious",
+    "risk_groups": "most common in ages 10-30, slightly more common in males, can occur at any age",
+    "incubation_period": "rapid onset (symptoms develop within hours to 1-2 days)",
+    "symptoms": [
+      "pain around the belly button (early symptom)",
+      "mild cramp-like pain (early symptom)",
+      "sharp pain in lower right abdomen (later classic sign)",
+      "pain worsening with movement, coughing, or walking",
+      "nausea and vomiting",
+      "loss of appetite",
+      "low-grade fever",
+      "constipation or diarrhea"
+    ],
+    "progression": [
+      "blockage of appendix",
+      "bacterial growth and inflammation",
+      "swelling and increasing pain",
+      "possible rupture (burst appendix) if untreated"
+    ],
+    "common_locations": "appendix (lower right abdomen)",
+    "duration": "acute condition (progresses quickly over hours to days)",
+    "severity": "severe",
+    "complications": [
+      "rupture (burst appendix), Peritonitis, abscess formation (pus collection), widespread infection (sepsis)"
+    ],
+    "home_remedy": [
+      "none (requires urgent medical care)"
+    ],
+    "avoid": [
+      "delaying medical treatment, self-medicating severe abdominal pain"
+    ],
+    "when_to_see_doctor": "worsening abdominal pain, pain shifting to lower right abdomen, nausea, fever, or loss of appetite",
+    "emergency_signs": "sudden severe pain spreading across abdomen, high fever, persistent vomiting, inability to move due to pain",
+    "prevention": [
+      "no guaranteed prevention"
+    ],
+    "contagious_period": "none",
+    "special_notes": "treated with antibiotics and usually surgery (appendectomy); laparoscopic (keyhole) surgery is most common; recovery is usually quick (1-2 weeks for mild cases); untreated appendicitis can be life-threatening due to rupture"
+  },
+  "Hemorrhoids": {
+    "aliases": [
+      "piles"
+    ],
+    "description": "a condition in which veins in the rectum or around the anus become swollen and inflamed, leading to discomfort, bleeding, or lumps",
+    "cause": "increased pressure in rectal or anal veins, straining during bowel movements (constipation or diarrhea), prolonged sitting on the toilet, obesity, pregnancy, heavy lifting",
+    "transmission": "not contagious",
+    "risk_groups": "pregnant women, people with chronic constipation or diarrhea, overweight or obese individuals, people with low-fiber diets, individuals who sit for long periods",
+    "incubation_period": "none (develops gradually with pressure over time)",
+    "symptoms": [
+      "bleeding during bowel movements (bright red blood)",
+      "itching or irritation around anus",
+      "pain or discomfort, especially during bowel movements",
+      "swelling or lump near the anus",
+      "internal hemorrhoids: painless bleeding",
+      "external hemorrhoids: pain, itching, swelling",
+      "prolapsed hemorrhoids: lump protruding from anus",
+      "thrombosed hemorrhoids: severe pain due to clot"
+    ],
+    "progression": [
+      "increased pressure in veins",
+      "swelling and inflammation",
+      "formation of internal or external hemorrhoids",
+      "possible prolapse or clot formation"
+    ],
+    "common_locations": "inside rectum (internal hemorrhoids), around anus (external hemorrhoids)",
+    "duration": "mild cases (a few days to weeks); recurrent if risk factors persist",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "thrombosis (painful blood clot), chronic bleeding leading to anemia, prolapse (hemorrhoid protrusion)"
+    ],
+    "home_remedy": [
+      "warm sitz baths, high-fiber diet (fruits, vegetables, whole grains), increased fluid intake, cold compress or ice packs, topical creams (e.g., witch hazel, hydrocortisone)"
+    ],
+    "avoid": [
+      "straining during bowel movements, sitting too long on the toilet, low-fiber diet, heavy lifting"
+    ],
+    "when_to_see_doctor": "persistent pain or swelling, bleeding that continues or worsens, symptoms not improving within a week",
+    "emergency_signs": "heavy rectal bleeding, severe pain (possible thrombosed hemorrhoid), signs of anemia (fatigue, dizziness)",
+    "prevention": [
+      "eat a high-fiber diet, drink plenty of water, exercise regularly, avoid straining, respond promptly to bowel urges"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosed via physical exam, anoscopy, or sigmoidoscopy; most cases resolve with lifestyle changes; procedures like rubber band ligation or surgery may be needed for severe cases"
+  },
+  "Constipation": {
+    "aliases": [
+      "chronic constipation (when long-term)"
+    ],
+    "description": "a condition in which bowel movements become infrequent, difficult, or incomplete, often involving hard, dry stools due to slow movement through the colon",
+    "cause": "low dietary fiber intake, inadequate fluid intake, lack of physical activity, ignoring the urge to pass stool, medications (opioids, antidepressants, antacids, iron supplements), hormonal or metabolic conditions (e.g., diabetes, thyroid disorders), pelvic floor dysfunction, neurological disorders",
+    "transmission": "not contagious",
+    "risk_groups": "older adults, women (especially during pregnancy), people with sedentary lifestyles, individuals with low-fiber diets, patients on certain medications, people with mental health conditions",
+    "incubation_period": "none (develops gradually over time)",
+    "symptoms": [
+      "fewer than 3 bowel movements per week",
+      "hard, dry, or lumpy stools",
+      "straining or pain during bowel movements",
+      "feeling of incomplete evacuation",
+      "bloating and abdominal discomfort",
+      "need for manual assistance to pass stool in severe cases",
+      "persistent abdominal pain in severe cases",
+      "nausea or loss of appetite in severe cases"
+    ],
+    "progression": [
+      "slowed movement of stool in colon",
+      "excess water absorption leading to hard stool",
+      "difficulty passing stool",
+      "chronic constipation if untreated"
+    ],
+    "common_locations": "colon (large intestine), rectum",
+    "duration": "acute (days to weeks); chronic (3 months or more)",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "hemorrhoids (swollen veins in anus), anal fissures (tears in anus), fecal impaction, rectal prolapse"
+    ],
+    "home_remedy": [
+      "increase fiber intake (fruits, vegetables, whole grains), drink plenty of water, regular physical activity, establish a regular toilet routine, respond promptly to bowel urges"
+    ],
+    "avoid": [
+      "low-fiber processed foods, dehydration, prolonged sitting or inactivity, ignoring the urge to pass stool, excessive use of stimulant laxatives"
+    ],
+    "when_to_see_doctor": "constipation lasting more than 2-3 weeks, severe pain or difficulty in daily activities, unexplained weight loss, blood in stool or rectal bleeding",
+    "emergency_signs": "black or bloody stools, severe abdominal pain, inability to pass stool or gas (possible obstruction)",
+    "prevention": [
+      "high-fiber diet (25-30g per day), adequate hydration, regular exercise, healthy bowel habits"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis usually based on symptoms and history; may require tests (blood tests, colonoscopy) if persistent; treatment includes lifestyle changes, laxatives, and addressing underlying causes"
+  },
+  "Brucellosis": {
+    "aliases": [
+      "undulant fever",
+      "Malta fever",
+      "Mediterranean fever",
+      "Gibraltar fever",
+      "Cyprus fever"
+    ],
+    "description": "a zoonotic bacterial infection transmitted from animals to humans, characterized by recurrent fever, sweating, fatigue, and systemic involvement; often acquired through contact with infected animals or consumption of unpasteurized animal products",
+    "cause": "bacteria of genus Brucella (commonly Brucella melitensis); infection in livestock such as cattle, goats, camels, pigs, and dogs",
+    "transmission": "direct contact with infected animals, tissues, or placenta; consumption of unpasteurized milk or dairy products; ingestion of contaminated meat; inhalation of bacteria in occupational settings",
+    "risk_groups": "farmers, veterinarians, slaughterhouse workers, people consuming unpasteurized dairy, travelers to endemic regions (Middle East, Mediterranean, parts of Africa, Latin America)",
+    "incubation_period": "typically 1-4 weeks (can vary from days to months)",
+    "symptoms": [
+      "fever with characteristic rising and falling pattern (undulant fever)",
+      "chills and excessive sweating",
+      "fatigue and weakness",
+      "headache",
+      "muscle and joint pain",
+      "loss of appetite",
+      "weight loss",
+      "abdominal pain (other symptom)",
+      "back pain (other symptom)",
+      "swollen lymph nodes (other symptom)",
+      "recurrent fever episodes in chronic cases",
+      "long-term fatigue in chronic cases",
+      "persistent joint pain in chronic cases"
+    ],
+    "progression": [
+      "bacteria enter body (ingestion, contact, or inhalation)",
+      "spread through bloodstream",
+      "infect organs (liver, spleen, bone marrow)",
+      "may become chronic if untreated"
+    ],
+    "common_locations": "bloodstream, liver and spleen, bones and joints, central nervous system (in severe cases)",
+    "duration": "acute (weeks to months); chronic (months to years if untreated or relapsing)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "bone and joint infections, Encephalitis, Meningitis, Infective endocarditis (most serious complication)"
+    ],
+    "home_remedy": [
+      "none (requires antibiotic treatment)"
+    ],
+    "avoid": [
+      "unpasteurized milk and dairy products, direct contact with infected animals without protection"
+    ],
+    "when_to_see_doctor": "persistent fever with sweating, joint pain and fatigue, history of animal exposure or raw dairy consumption",
+    "emergency_signs": "severe headache or neurological symptoms, chest pain or heart-related symptoms, high persistent fever",
+    "prevention": [
+      "consume only pasteurized dairy products, wear protective gear when handling animals or meat, proper cooking of meat, control and vaccination of livestock"
+    ],
+    "contagious_period": "not typically spread from person to person",
+    "special_notes": "commonly seen in developing regions; relapse can occur even after treatment; requires prolonged antibiotic therapy (often 6 weeks or more)"
+  },
+  "Addison's Disease": {
+    "aliases": [
+      "primary adrenal insufficiency",
+      "chronic adrenal insufficiency"
+    ],
+    "description": "endocrine disorder characterized by inadequate production of cortisol and often aldosterone due to adrenal gland dysfunction",
+    "cause": "autoimmune destruction of adrenal cortex, infections (e.g., tuberculosis), genetic disorders, adrenal hemorrhage, metastasis",
+    "transmission": "none",
+    "risk_groups": "individuals with autoimmune diseases, genetic predisposition, history of adrenal infections, middle-aged adults",
+    "incubation_period": "none",
+    "symptoms": [
+      "chronic fatigue and muscle weakness",
+      "weight loss and decreased appetite",
+      "low blood pressure and dizziness",
+      "hyperpigmentation of skin (darkening)",
+      "salt craving",
+      "nausea, vomiting, abdominal pain"
+    ],
+    "progression": [
+      "gradual destruction of adrenal cortex",
+      "declining production of cortisol and aldosterone",
+      "worsening symptoms over time",
+      "risk of acute adrenal crisis under stress"
+    ],
+    "common_locations": "adrenal glands (above kidneys), systemic hormonal effects",
+    "duration": "lifelong condition requiring management",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "adrenal crisis, severe hypotension, electrolyte imbalance, shock, death if untreated"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "abrupt discontinuation of steroid medication, unmanaged stress, dehydration"
+    ],
+    "when_to_see_doctor": "persistent fatigue, unexplained weight loss, skin darkening, low blood pressure symptoms",
+    "emergency_signs": "severe weakness, confusion, vomiting, low blood pressure, loss of consciousness (adrenal crisis)",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "requires lifelong hormone replacement therapy, stress dosing needed during illness or surgery, early diagnosis prevents life-threatening crises"
+  },
+  "Alcohol-Related Liver Disease": {
+    "aliases": [
+      "ARLD",
+      "alcoholic liver disease"
+    ],
+    "description": "progressive liver damage caused by excessive alcohol consumption ranging from fatty liver to hepatitis and cirrhosis",
+    "cause": "chronic alcohol intake leading to liver inflammation, fat accumulation, oxidative stress, and cellular injury",
+    "transmission": "none",
+    "risk_groups": "heavy alcohol users, long-term drinkers, males, individuals with poor nutrition, genetic susceptibility",
+    "incubation_period": "none",
+    "symptoms": [
+      "fatigue and weakness",
+      "loss of appetite and weight loss",
+      "nausea and vomiting",
+      "abdominal pain and swelling",
+      "jaundice (yellowing of skin and eyes)",
+      "confusion in advanced stages (hepatic encephalopathy)"
+    ],
+    "progression": [
+      "fatty liver (steatosis) due to alcohol accumulation",
+      "alcoholic hepatitis with inflammation",
+      "fibrosis and scarring of liver tissue",
+      "cirrhosis leading to liver failure"
+    ],
+    "common_locations": "liver",
+    "duration": "months to years depending on alcohol exposure and stage",
+    "severity": "mild_to_severe",
+    "complications": [
+      "cirrhosis, liver failure, portal hypertension, ascites, variceal bleeding, hepatic encephalopathy, liver cancer"
+    ],
+    "home_remedy": [
+      "alcohol cessation, balanced nutrition, hydration, rest"
+    ],
+    "avoid": [
+      "alcohol consumption, hepatotoxic drugs, poor diet, delaying medical care"
+    ],
+    "when_to_see_doctor": "jaundice, persistent abdominal pain, swelling, unexplained fatigue, history of heavy drinking",
+    "emergency_signs": "vomiting blood, severe confusion, abdominal swelling, difficulty breathing, loss of consciousness",
+    "prevention": [
+      "limit or avoid alcohol, healthy diet, regular medical check-ups, early intervention in alcohol misuse"
+    ],
+    "contagious_period": "none",
+    "special_notes": "early stages may be reversible with abstinence, advanced cirrhosis is irreversible, liver transplantation may be required in severe cases"
+  },
+  "Angina": {
+    "aliases": [
+      "angina pectoris",
+      "chest pain due to ischemia"
+    ],
+    "description": "clinical syndrome characterized by chest discomfort caused by reduced blood flow to the heart muscle (myocardial ischemia)",
+    "cause": "coronary artery disease due to atherosclerosis, coronary artery spasm, reduced oxygen supply to myocardium",
+    "transmission": "none",
+    "risk_groups": "older adults, smokers, individuals with hypertension, diabetes, high cholesterol, obesity, sedentary lifestyle",
+    "incubation_period": "none",
+    "symptoms": [
+      "chest pain or pressure (tightness, squeezing sensation)",
+      "pain radiating to arms, neck, jaw, shoulder, or back",
+      "shortness of breath",
+      "fatigue or weakness",
+      "nausea or sweating"
+    ],
+    "progression": [
+      "narrowing of coronary arteries",
+      "reduced blood flow during exertion or stress",
+      "onset of chest pain (stable angina)",
+      "possible progression to unstable angina or myocardial infarction"
+    ],
+    "common_locations": "chest (retrosternal area), may radiate to upper body",
+    "duration": "minutes (typically relieved by rest or medication)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "myocardial infarction (heart attack), arrhythmias, heart failure, sudden cardiac death"
+    ],
+    "home_remedy": [
+      "rest, stress reduction, lifestyle modification, prescribed medications adherence"
+    ],
+    "avoid": [
+      "physical overexertion, smoking, high-fat diet, unmanaged stress, skipping medications"
+    ],
+    "when_to_see_doctor": "new or worsening chest pain, pain at rest, reduced response to medication",
+    "emergency_signs": "severe or prolonged chest pain, pain not relieved by rest, breathing difficulty, fainting",
+    "prevention": [
+      "healthy diet, regular exercise, smoking cessation, control of blood pressure, cholesterol, and diabetes"
+    ],
+    "contagious_period": "none",
+    "special_notes": "types include stable, unstable, and variant angina, requires medical evaluation to prevent heart attack"
+  },
+  "Angioedema": {
+    "aliases": [
+      "angioneurotic edema",
+      "Quincke's edema"
+    ],
+    "description": "sudden swelling of deeper layers of skin and mucous membranes due to fluid leakage from blood vessels, often associated with allergic or non-allergic mechanisms",
+    "cause": "allergic reactions (foods, medications), hereditary C1 esterase inhibitor deficiency, ACE inhibitor drugs, infections, unknown factors",
+    "transmission": "none",
+    "risk_groups": "individuals with allergies, family history of hereditary angioedema, those taking ACE inhibitors, asthma patients",
+    "incubation_period": "minutes to hours after trigger exposure",
+    "symptoms": [
+      "swelling of face, lips, eyelids, or tongue",
+      "swelling of throat causing difficulty breathing",
+      "abdominal pain, nausea, or vomiting (intestinal involvement)",
+      "skin may feel tight or painful without itching",
+      "hoarseness or difficulty swallowing"
+    ],
+    "progression": [
+      "exposure to trigger or genetic activation",
+      "release of inflammatory mediators or bradykinin",
+      "increased vascular permeability",
+      "localized swelling that may resolve or worsen"
+    ],
+    "common_locations": "face, lips, eyelids, tongue, throat, hands, feet, gastrointestinal tract",
+    "duration": "hours to a few days depending on type",
+    "severity": "mild_to_severe",
+    "complications": [
+      "airway obstruction, severe abdominal symptoms, recurrence, life-threatening respiratory compromise"
+    ],
+    "home_remedy": [
+      "cold compress, avoidance of triggers, antihistamines (if allergic type)"
+    ],
+    "avoid": [
+      "known triggers, ACE inhibitors (if related), delaying treatment for severe symptoms"
+    ],
+    "when_to_see_doctor": "recurrent swelling, unknown cause, associated abdominal pain, breathing discomfort",
+    "emergency_signs": "throat swelling, difficulty breathing, voice changes, severe abdominal pain",
+    "prevention": [
+      "avoid triggers, genetic counseling for hereditary cases, appropriate medication management"
+    ],
+    "contagious_period": "none",
+    "special_notes": "may be allergic (histamine-mediated) or non-allergic (bradykinin-mediated), hereditary form does not respond to antihistamines, emergency care needed if airway involved"
+  },
+  "Ankylosing Spondylitis": {
+    "aliases": [
+      "AS",
+      "axial spondyloarthritis",
+      "radiographic axial spondyloarthritis",
+      "Bechterew disease"
+    ],
+    "description": "chronic inflammatory autoimmune disease primarily affecting the spine and sacroiliac joints leading to pain and progressive stiffness",
+    "cause": "autoimmune inflammation associated with HLA-B27 genetic marker, environmental triggers, immune dysregulation",
+    "transmission": "none",
+    "risk_groups": "young adults (especially males), individuals with HLA-B27 gene, family history, onset typically before age 40",
+    "incubation_period": "none",
+    "symptoms": [
+      "chronic lower back pain and stiffness (worse in morning)",
+      "reduced spinal flexibility",
+      "pain improving with exercise but not rest",
+      "fatigue",
+      "inflammation in other joints or eyes (uveitis)",
+      "pain and swelling in hips, knees, shoulders, ribs, feet",
+      "enthesitis causing heel, rib, or elbow pain where tendons attach",
+      "waking during night due to back pain"
+    ],
+    "progression": [
+      "inflammation of sacroiliac joints",
+      "spread of inflammation to spine",
+      "formation of new bone and fusion of vertebrae",
+      "reduced mobility and spinal deformity (kyphosis)"
+    ],
+    "common_locations": "spine, sacroiliac joints, hips, shoulders, eyes",
+    "duration": "lifelong progressive condition",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "spinal fusion, reduced mobility, osteoporosis, fractures, uveitis, cardiovascular issues"
+    ],
+    "home_remedy": [
+      "regular exercise, posture correction, stretching, heat therapy"
+    ],
+    "avoid": [
+      "prolonged inactivity, poor posture, smoking, delayed treatment"
+    ],
+    "when_to_see_doctor": "persistent back pain in young adults, stiffness lasting more than 3 months, reduced mobility",
+    "emergency_signs": "sudden severe pain with fracture, neurological deficits, severe eye pain or vision changes",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "early diagnosis improves outcomes, biologic therapies can slow progression, physical therapy is essential"
+  },
+  "Anxiety Disorders in Children and Young People": {
+    "aliases": [
+      "pediatric anxiety disorders",
+      "childhood anxiety",
+      "adolescent anxiety disorders"
+    ],
+    "description": "group of mental health conditions in children and adolescents characterized by excessive fear, worry, or nervousness interfering with daily functioning",
+    "cause": "combination of genetic predisposition, environmental stressors, brain chemistry imbalance, traumatic experiences, parenting or social factors",
+    "transmission": "none",
+    "risk_groups": "children with family history of anxiety or mental illness, exposure to trauma or stress, chronic illness, academic or social pressure",
+    "incubation_period": "none",
+    "symptoms": [
+      "excessive worry or fear disproportionate to situation",
+      "irritability or restlessness",
+      "difficulty concentrating or sleep disturbances",
+      "physical symptoms like headaches, stomach aches, or fatigue",
+      "avoidance of social or school activities"
+    ],
+    "progression": [
+      "early signs of fear or worry in specific situations",
+      "increasing frequency and intensity of anxiety symptoms",
+      "interference with school, relationships, and daily life",
+      "potential development of chronic anxiety or other mental disorders"
+    ],
+    "common_locations": "brain (emotional regulation centers), systemic behavioral impact",
+    "duration": "months to years, may be episodic or chronic",
+    "severity": "mild_to_severe",
+    "complications": [
+      "depression, academic difficulties, social withdrawal, substance misuse in later life, reduced quality of life"
+    ],
+    "home_remedy": [
+      "supportive environment, relaxation techniques, routine establishment, parental reassurance"
+    ],
+    "avoid": [
+      "ignoring symptoms, excessive pressure, negative reinforcement, lack of support"
+    ],
+    "when_to_see_doctor": "persistent anxiety, impact on school or social life, physical symptoms without clear cause",
+    "emergency_signs": "panic attacks with severe distress, self-harm thoughts, inability to function",
+    "prevention": [
+      "early emotional support, healthy coping skills, stable environment, open communication"
+    ],
+    "contagious_period": "none",
+    "special_notes": "early intervention with therapy (e.g., CBT) is effective, family involvement is important, may coexist with other disorders like ADHD or depression"
+  },
+  "Asbestosis": {
+    "aliases": [
+      "pulmonary asbestosis",
+      "asbestos-related lung fibrosis"
+    ],
+    "description": "chronic lung disease caused by inhalation of asbestos fibers leading to lung scarring and reduced respiratory function",
+    "cause": "prolonged inhalation of asbestos fibers causing inflammation and fibrosis in lung tissue",
+    "transmission": "none",
+    "risk_groups": "construction workers, shipyard workers, miners, individuals exposed to asbestos in occupational settings, long-term exposure cases",
+    "incubation_period": "none",
+    "symptoms": [
+      "shortness of breath, especially on exertion",
+      "persistent dry cough",
+      "chest tightness or pain",
+      "fatigue and weakness",
+      "clubbing of fingers in advanced stages"
+    ],
+    "progression": [
+      "inhalation of asbestos fibers",
+      "fibers lodge in lung tissue causing inflammation",
+      "gradual fibrosis and thickening of lung tissue",
+      "progressive decline in lung function"
+    ],
+    "common_locations": "lungs (interstitial tissue)",
+    "duration": "chronic, develops over years to decades after exposure",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "respiratory failure, pulmonary hypertension, lung cancer, mesothelioma"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "further asbestos exposure, smoking, delaying medical evaluation"
+    ],
+    "when_to_see_doctor": "persistent cough, breathing difficulty, history of asbestos exposure",
+    "emergency_signs": "severe breathing difficulty, cyanosis, respiratory distress",
+    "prevention": [
+      "avoiding asbestos exposure, use of protective equipment, workplace safety regulations"
+    ],
+    "contagious_period": "none",
+    "special_notes": "no cure, management focuses on symptom relief and preventing progression, smoking increases risk of complications"
+  },
+  "Asthma": {
+    "aliases": [
+      "bronchial asthma",
+      "reactive airway disease"
+    ],
+    "description": "chronic inflammatory airway disease characterized by reversible airway obstruction, bronchospasm, and increased mucus production causing breathing difficulty",
+    "cause": "airway inflammation triggered by allergens, infections, exercise, cold air, pollution, genetic predisposition",
+    "transmission": "none",
+    "risk_groups": "children, individuals with allergies, family history of asthma, smokers, exposure to environmental pollutants",
+    "incubation_period": "none",
+    "symptoms": [
+      "wheezing (whistling sound while breathing)",
+      "shortness of breath",
+      "chest tightness or pain",
+      "persistent cough (especially at night or early morning)",
+      "difficulty breathing during triggers"
+    ],
+    "progression": [
+      "exposure to trigger",
+      "airway inflammation and bronchoconstriction",
+      "narrowing of airways with mucus production",
+      "symptoms worsen or resolve with treatment"
+    ],
+    "common_locations": "lungs, bronchial airways",
+    "duration": "chronic condition with episodic flare-ups",
+    "severity": "mild_to_severe",
+    "complications": [
+      "severe asthma attacks, respiratory failure, reduced quality of life, frequent hospitalizations"
+    ],
+    "home_remedy": [
+      "avoid triggers, use prescribed inhalers, breathing exercises, maintain clean environment"
+    ],
+    "avoid": [
+      "allergens, smoke, cold air, pollution, skipping medications"
+    ],
+    "when_to_see_doctor": "frequent symptoms, worsening control, limited daily activities, poor response to treatment",
+    "emergency_signs": "severe breathlessness, inability to speak, bluish lips or face, no relief from inhaler",
+    "prevention": [
+      "trigger avoidance, regular medication use, vaccination, monitoring lung function"
+    ],
+    "contagious_period": "none",
+    "special_notes": "reversible airway obstruction, proper management allows normal life, requires long-term monitoring"
+  },
+  "Ataxia": {
+    "aliases": [
+      "cerebellar ataxia",
+      "coordination disorder"
+    ],
+    "description": "neurological condition characterized by impaired coordination, balance, and speech due to dysfunction of the cerebellum or related pathways",
+    "cause": "genetic disorders, cerebellar degeneration, stroke, multiple sclerosis, alcohol abuse, infections, vitamin deficiencies",
+    "transmission": "none",
+    "risk_groups": "individuals with family history (genetic forms), elderly, alcohol users, patients with neurological disorders, vitamin deficiency",
+    "incubation_period": "none",
+    "symptoms": [
+      "unsteady gait and difficulty walking",
+      "poor coordination of hands and limbs",
+      "slurred speech (dysarthria)",
+      "difficulty with fine motor tasks",
+      "abnormal eye movements (nystagmus)"
+    ],
+    "progression": [
+      "damage or dysfunction of cerebellum",
+      "onset of coordination and balance problems",
+      "worsening motor control and speech difficulties",
+      "possible disability depending on cause"
+    ],
+    "common_locations": "cerebellum, brainstem, peripheral nerves",
+    "duration": "variable, acute or chronic depending on cause",
+    "severity": "mild_to_severe",
+    "complications": [
+      "falls, injury, disability, difficulty performing daily activities"
+    ],
+    "home_remedy": [
+      "physical therapy, balance exercises, supportive care"
+    ],
+    "avoid": [
+      "alcohol consumption, unsafe environments, delaying medical evaluation"
+    ],
+    "when_to_see_doctor": "persistent coordination issues, difficulty walking, speech changes",
+    "emergency_signs": "sudden onset ataxia, severe headache, weakness, vision changes (possible stroke)",
+    "prevention": [
+      "managing underlying conditions, proper nutrition, avoiding toxins"
+    ],
+    "contagious_period": "none",
+    "special_notes": "may be hereditary or acquired, treatment focuses on underlying cause and rehabilitation"
+  },
+  "Autism": {
+    "aliases": [
+      "autism spectrum disorder",
+      "ASD"
+    ],
+    "description": "neurodevelopmental disorder characterized by difficulties in social communication, restricted interests, and repetitive behaviors with varying severity",
+    "cause": "genetic factors, brain development differences, prenatal influences, environmental factors (not fully understood)",
+    "transmission": "none",
+    "risk_groups": "children, males, family history, genetic conditions (e.g., fragile X syndrome), premature birth",
+    "incubation_period": "none",
+    "symptoms": [
+      "difficulty with social interaction and communication",
+      "delayed speech or language development",
+      "repetitive behaviors or movements",
+      "restricted or intense interests",
+      "sensitivity to sensory stimuli (sound, light, touch)"
+    ],
+    "progression": [
+      "early developmental differences in infancy or toddler years",
+      "noticeable delays in communication and social skills",
+      "persistent behavioral patterns",
+      "lifelong condition with varying levels of independence"
+    ],
+    "common_locations": "brain (neurodevelopmental pathways)",
+    "duration": "lifelong",
+    "severity": "mild_to_severe",
+    "complications": [
+      "learning difficulties, social challenges, anxiety, behavioral issues, need for support services"
+    ],
+    "home_remedy": [
+      "structured environment, behavioral therapy, communication support, parental involvement"
+    ],
+    "avoid": [
+      "lack of early intervention, overstimulation, inconsistent routines, ignoring developmental concerns"
+    ],
+    "when_to_see_doctor": "delayed milestones, lack of eye contact, communication difficulties, behavioral concerns",
+    "emergency_signs": "none",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "spectrum condition with wide variability, early diagnosis and intervention improve outcomes, individualized therapy plans are essential"
+  },
+  "Tuberculosis": {
+    "aliases": [
+      "TB",
+      "pulmonary tuberculosis",
+      "extrapulmonary tuberculosis"
+    ],
+    "description": "infectious bacterial disease primarily affecting the lungs but can involve other organs such as kidneys, spine, and brain",
+    "cause": "Mycobacterium tuberculosis bacteria causing infection and tissue damage",
+    "transmission": "airborne droplets from coughing, sneezing, talking, or singing by infected individuals",
+    "risk_groups": "people in close contact with infected individuals, healthcare workers, immunocompromised individuals, elderly, children, people in crowded living conditions",
+    "incubation_period": "weeks to years (latent phase possible before active disease develops)",
+    "symptoms": [
+      "persistent cough lasting more than 3 weeks",
+      "coughing up blood or sputum",
+      "fever and chills",
+      "night sweats",
+      "weight loss and loss of appetite",
+      "fatigue and weakness",
+      "chest pain or breathlessness"
+    ],
+    "progression": [
+      "inhalation of TB bacteria",
+      "latent infection where bacteria remain inactive",
+      "activation of bacteria when immunity weakens",
+      "active disease with symptoms and potential spread"
+    ],
+    "common_locations": "lungs (most common), lymph nodes, spine, kidneys, brain",
+    "duration": "months to years depending on treatment and disease stage",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "lung damage, meningitis, organ failure, respiratory failure, death if untreated"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "close contact with infected individuals, incomplete antibiotic treatment, poor ventilation environments"
+    ],
+    "when_to_see_doctor": "persistent cough, weight loss, fever, night sweats, coughing blood",
+    "emergency_signs": "severe breathing difficulty, confusion, seizures, coughing significant blood",
+    "prevention": [
+      "BCG vaccination, good ventilation, covering mouth when coughing, early diagnosis and treatment"
+    ],
+    "contagious_period": "active pulmonary TB until effective treatment reduces infectivity (usually 2-3 weeks after starting treatment)",
+    "special_notes": "latent TB is not contagious but can become active, long-term antibiotic treatment required, drug-resistant TB requires extended therapy"
+  },
+  "Influenza": {
+    "aliases": [
+      "flu",
+      "influenza A",
+      "influenza B"
+    ],
+    "description": "contagious viral respiratory illness affecting the nose, throat, and lungs with sudden onset of systemic and respiratory symptoms",
+    "cause": "influenza viruses (types A and B) infecting the respiratory tract",
+    "transmission": "airborne droplets from coughing or sneezing, contact with contaminated surfaces followed by touching face",
+    "risk_groups": "elderly, young children, pregnant women, individuals with chronic diseases, immunocompromised individuals",
+    "incubation_period": "1-4 days (commonly 2-3 days)",
+    "symptoms": [
+      "sudden fever and chills",
+      "body aches and headache",
+      "fatigue and weakness",
+      "cough and sore throat",
+      "runny or stuffy nose",
+      "nausea, vomiting, or diarrhea (more common in children)"
+    ],
+    "progression": [
+      "exposure to influenza virus",
+      "rapid viral replication in respiratory tract",
+      "sudden onset of systemic and respiratory symptoms",
+      "recovery or complications in high-risk individuals"
+    ],
+    "common_locations": "nose, throat, lungs",
+    "duration": "1-2 weeks (fatigue and cough may last longer)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "pneumonia, bronchitis, sinus infection, ear infection, myocarditis, encephalitis, multi-organ failure"
+    ],
+    "home_remedy": [
+      "rest, hydration, over-the-counter medications for fever and pain relief"
+    ],
+    "avoid": [
+      "smoking, alcohol, unnecessary antibiotic use, close contact with others when infected"
+    ],
+    "when_to_see_doctor": "severe symptoms, high-risk individuals, symptoms not improving",
+    "emergency_signs": "difficulty breathing, chest pain, persistent high fever, confusion, seizures",
+    "prevention": [
+      "annual influenza vaccination, hand hygiene, mask use, avoiding close contact with infected individuals"
+    ],
+    "contagious_period": "from about 1 day before symptoms to 5-7 days after onset",
+    "special_notes": "antiviral medications may reduce severity if started early, antibiotics are ineffective against viral infection, confusion with cold and COVID-19 is common"
+  },
+  "Chikungunya": {
+    "aliases": [
+      "chikungunya fever"
+    ],
+    "description": "mosquito-borne viral infection causing sudden fever and severe joint pain, often leading to prolonged joint symptoms",
+    "cause": "chikungunya virus (an alphavirus)",
+    "transmission": "bite of infected Aedes mosquitoes, rarely from mother to newborn during birth, or via infected blood exposure",
+    "risk_groups": "people in endemic regions, travelers, newborns, elderly, individuals with chronic diseases (e.g., diabetes, hypertension, heart disease)",
+    "incubation_period": "3-7 days after mosquito bite",
+    "symptoms": [
+      "sudden high fever",
+      "severe joint pain (often in hands and feet)",
+      "headache",
+      "muscle pain",
+      "joint swelling",
+      "skin rash"
+    ],
+    "progression": [
+      "infection via mosquito bite",
+      "viral replication and onset of fever",
+      "development of joint pain and systemic symptoms",
+      "recovery or prolonged joint pain lasting months in some cases"
+    ],
+    "common_locations": "joints, muscles, blood",
+    "duration": "1-2 weeks (joint pain may persist for months)",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "chronic joint pain, neurological complications (rare), organ involvement (rare)"
+    ],
+    "home_remedy": [
+      "rest, hydration, non-aspirin pain relief, supportive care"
+    ],
+    "avoid": [
+      "mosquito exposure, aspirin (risk of bleeding), dehydration"
+    ],
+    "when_to_see_doctor": "persistent fever, severe joint pain, recent travel to endemic areas",
+    "emergency_signs": "severe weakness, neurological symptoms, signs of organ involvement",
+    "prevention": [
+      "insect repellents, protective clothing, mosquito control, vaccination in high-risk adults"
+    ],
+    "contagious_period": "none (not spread person-to-person typically)",
+    "special_notes": "similar symptoms to dengue and Zika, joint pain can be long-lasting, no specific antiviral treatment available"
+  },
+  "Typhoid Fever": {
+    "aliases": [
+      "enteric fever"
+    ],
+    "description": "bacterial infection causing prolonged fever, gastrointestinal symptoms, and systemic illness due to bloodstream spread",
+    "cause": "Salmonella typhi bacteria infecting intestines and bloodstream",
+    "transmission": "ingestion of contaminated food or water, poor sanitation, carriers shedding bacteria in stool",
+    "risk_groups": "people in developing regions, travelers to endemic areas, individuals with poor hygiene or sanitation, close contacts of infected carriers",
+    "incubation_period": "6-30 days",
+    "symptoms": [
+      "prolonged high fever",
+      "abdominal pain",
+      "diarrhea or constipation",
+      "weakness and fatigue",
+      "rash (rose spots on abdomen and chest)",
+      "headache and confusion"
+    ],
+    "progression": [
+      "ingestion of contaminated food or water",
+      "bacteria invade intestines and enter bloodstream",
+      "spread to organs such as liver, spleen, and gallbladder",
+      "worsening systemic symptoms and possible complications"
+    ],
+    "common_locations": "intestines, blood, liver, spleen, gallbladder",
+    "duration": "weeks (typically 2-4 weeks with treatment)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "intestinal bleeding, intestinal perforation, peritonitis, kidney failure, relapse"
+    ],
+    "home_remedy": [
+      "hydration, rest, supportive care"
+    ],
+    "avoid": [
+      "contaminated food or water, poor hygiene, incomplete antibiotic treatment"
+    ],
+    "when_to_see_doctor": "persistent fever, abdominal pain, recent travel to endemic area, gastrointestinal symptoms",
+    "emergency_signs": "severe abdominal pain, bleeding, confusion, reduced urine output, signs of perforation",
+    "prevention": [
+      "vaccination, safe drinking water, proper sanitation, hand hygiene, safe food practices"
+    ],
+    "contagious_period": "while bacteria are present in stool (including carrier state)",
+    "special_notes": "carriers can spread infection for years, antibiotic resistance is increasing, early treatment improves outcomes"
+  },
+  "Cholera": {
+    "aliases": [
+      "none"
+    ],
+    "description": "acute diarrheal bacterial infection causing rapid fluid loss and dehydration, potentially life-threatening if untreated",
+    "cause": "Vibrio cholerae bacteria transmitted via contaminated food or water",
+    "transmission": "ingestion of contaminated water or food, poor sanitation, fecal contamination (rarely direct person-to-person)",
+    "risk_groups": "people in areas with poor sanitation, travelers to endemic regions, disaster-affected populations, individuals with limited access to clean water",
+    "incubation_period": "2-3 days",
+    "symptoms": [
+      "watery diarrhea (rice-water stools)",
+      "vomiting",
+      "leg cramps",
+      "dehydration",
+      "weakness and rapid fluid loss"
+    ],
+    "progression": [
+      "ingestion of contaminated food or water",
+      "bacteria colonize small intestine",
+      "toxin production leads to fluid secretion",
+      "rapid dehydration and potential shock if untreated"
+    ],
+    "common_locations": "intestines (small intestine)",
+    "duration": "days (can progress rapidly within hours in severe cases)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "severe dehydration, electrolyte imbalance, shock, kidney failure, death"
+    ],
+    "home_remedy": [
+      "oral rehydration solution, fluids, rest"
+    ],
+    "avoid": [
+      "contaminated water or food, poor hygiene, delayed treatment"
+    ],
+    "when_to_see_doctor": "severe diarrhea, signs of dehydration, recent travel to affected areas",
+    "emergency_signs": "extreme dehydration, confusion, low blood pressure, minimal urine output, rapid pulse",
+    "prevention": [
+      "clean drinking water, proper sanitation, hand hygiene, safe food practices, vaccination in high-risk areas"
+    ],
+    "contagious_period": "while bacteria are present in stool",
+    "special_notes": "rapid treatment with rehydration is highly effective, severe cases may require IV fluids and antibiotics, outbreaks often linked to disasters or poor sanitation"
+  },
+  "Hepatitis A": {
+    "aliases": [
+      "HAV infection",
+      "infectious hepatitis"
+    ],
+    "description": "acute viral infection causing liver inflammation and temporary liver dysfunction, usually self-limiting",
+    "cause": "hepatitis A virus (HAV) infecting liver cells",
+    "transmission": "ingestion of contaminated food or water, contact with infected stool, close personal contact",
+    "risk_groups": "travelers to endemic regions, people with poor sanitation, drug users, men who have sex with men, close contacts of infected individuals",
+    "incubation_period": "2-7 weeks",
+    "symptoms": [
+      "fatigue and weakness",
+      "fever",
+      "nausea and vomiting",
+      "abdominal pain",
+      "loss of appetite",
+      "dark urine and pale stools",
+      "jaundice (yellowing of skin and eyes)"
+    ],
+    "progression": [
+      "ingestion of virus through contaminated sources",
+      "viral replication in liver",
+      "onset of symptoms and liver inflammation",
+      "recovery without chronic infection"
+    ],
+    "common_locations": "liver",
+    "duration": "weeks to months (usually resolves within 6 months)",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "liver failure (rare), prolonged symptoms, higher risk in older adults or those with liver disease"
+    ],
+    "home_remedy": [
+      "rest, hydration, healthy diet, avoid alcohol"
+    ],
+    "avoid": [
+      "alcohol, hepatotoxic drugs, poor hygiene, contaminated food or water"
+    ],
+    "when_to_see_doctor": "jaundice, persistent vomiting, abdominal pain, suspected exposure",
+    "emergency_signs": "confusion, severe vomiting, signs of liver failure, altered consciousness",
+    "prevention": [
+      "hepatitis A vaccination, hand hygiene, safe food and water practices"
+    ],
+    "contagious_period": "about 2 weeks before symptoms to up to 3 weeks after symptom onset",
+    "special_notes": "does not cause chronic liver disease, immunity develops after infection or vaccination, highly preventable"
+  },
+  "Hepatitis B": {
+    "aliases": [
+      "HBV infection",
+      "hep B"
+    ],
+    "description": "viral liver infection that can be acute or chronic, causing liver inflammation and potential long-term liver damage",
+    "cause": "hepatitis B virus (HBV) infecting liver cells",
+    "transmission": "contact with infected blood or body fluids, unprotected sexual contact, sharing needles, mother-to-child during childbirth",
+    "risk_groups": "healthcare workers, people with multiple sexual partners, intravenous drug users, travelers to endemic regions, infants born to infected mothers",
+    "incubation_period": "1-4 months",
+    "symptoms": [
+      "loss of appetite",
+      "nausea and vomiting",
+      "fatigue and weakness",
+      "abdominal pain (liver area)",
+      "dark urine",
+      "jaundice (yellowing of skin and eyes)",
+      "joint pain"
+    ],
+    "progression": [
+      "exposure to infected blood or body fluids",
+      "viral replication in liver",
+      "acute infection with symptoms or asymptomatic phase",
+      "recovery or progression to chronic infection and liver damage"
+    ],
+    "common_locations": "liver",
+    "duration": "weeks to lifelong (chronic cases)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "chronic hepatitis, cirrhosis, liver failure, liver cancer, hepatitis D co-infection"
+    ],
+    "home_remedy": [
+      "rest, hydration, healthy diet, avoid alcohol"
+    ],
+    "avoid": [
+      "alcohol, sharing needles, unprotected sex, hepatotoxic substances"
+    ],
+    "when_to_see_doctor": "jaundice, persistent fatigue, abdominal pain, exposure risk",
+    "emergency_signs": "severe abdominal pain, confusion, signs of liver failure, vomiting blood",
+    "prevention": [
+      "hepatitis B vaccination, safe sex practices, sterile needle use, screening of blood products"
+    ],
+    "contagious_period": "while virus is present in blood and body fluids (can be lifelong in chronic cases)",
+    "special_notes": "chronic infection risk higher in infants, antiviral therapy may be required, lifelong monitoring needed in chronic cases"
+  },
+  "Mumps": {
+    "aliases": [
+      "epidemic parotitis"
+    ],
+    "description": "contagious viral infection affecting the salivary glands, leading to swelling, fever, and systemic symptoms",
+    "cause": "mumps virus (a paramyxovirus)",
+    "transmission": "respiratory droplets, direct contact with saliva, sharing contaminated items",
+    "risk_groups": "unvaccinated individuals, children, students in close-contact settings, healthcare workers, travelers to endemic areas",
+    "incubation_period": "12-25 days (commonly 16-18 days)",
+    "symptoms": [
+      "swollen salivary glands (puffy cheeks, tender jaw)",
+      "fever",
+      "headache",
+      "muscle aches",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "progression": [
+      "exposure to virus via respiratory droplets or saliva",
+      "viral replication in upper respiratory tract",
+      "spread to salivary glands causing swelling",
+      "recovery or rare complications affecting other organs"
+    ],
+    "common_locations": "salivary glands (parotid), respiratory tract, testes, ovaries, pancreas, brain",
+    "duration": "1-2 weeks",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "meningitis, encephalitis, orchitis, oophoritis, pancreatitis, hearing loss, miscarriage"
+    ],
+    "home_remedy": [
+      "rest, hydration, pain relief, warm or cold compress on glands, soft diet"
+    ],
+    "avoid": [
+      "close contact with others, sharing utensils, public exposure during contagious period"
+    ],
+    "when_to_see_doctor": "swelling of glands, high fever, severe headache, testicular pain, persistent symptoms",
+    "emergency_signs": "seizures, stiff neck, confusion, severe headache, drowsiness",
+    "prevention": [
+      "MMR vaccination, hygiene practices, isolation during infection"
+    ],
+    "contagious_period": "a few days before swelling until about 5 days after onset",
+    "special_notes": "immunity usually lifelong after infection, vaccinated individuals may still get mild disease, no specific antiviral treatment"
+  },
+  "Rubella": {
+    "aliases": [
+      "German measles"
+    ],
+    "description": "contagious viral infection characterized by mild fever and rash, but can cause severe birth defects if contracted during pregnancy",
+    "cause": "rubella virus (a togavirus)",
+    "transmission": "airborne droplets from coughing or sneezing, direct contact, mother-to-fetus during pregnancy",
+    "risk_groups": "unvaccinated individuals, pregnant women, travelers to endemic regions, children",
+    "incubation_period": "14-21 days",
+    "symptoms": [
+      "mild fever",
+      "rash starting on face and spreading to body",
+      "sore throat",
+      "swollen lymph nodes",
+      "joint pain (especially in adult women)",
+      "fatigue"
+    ],
+    "progression": [
+      "exposure to virus via respiratory droplets",
+      "viral replication in respiratory tract",
+      "spread through bloodstream",
+      "development of rash and mild systemic symptoms"
+    ],
+    "common_locations": "skin, lymph nodes, respiratory tract, fetus (in congenital infection)",
+    "duration": "1-2 weeks",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "arthritis, encephalitis (rare), congenital rubella syndrome, miscarriage, birth defects"
+    ],
+    "home_remedy": [
+      "rest, hydration, fever management with acetaminophen"
+    ],
+    "avoid": [
+      "contact with pregnant women, skipping vaccination, crowded environments during infection"
+    ],
+    "when_to_see_doctor": "rash with fever, exposure history, pregnancy exposure",
+    "emergency_signs": "severe headache, confusion, neurological symptoms",
+    "prevention": [
+      "MMR vaccination, isolation during infection, hygiene practices"
+    ],
+    "contagious_period": "about 1 week before rash to 7 days after rash onset",
+    "special_notes": "often mild in children but dangerous in pregnancy, lifelong immunity after infection or vaccination, no specific antiviral treatment"
+  },
+  "Chickenpox": {
+    "aliases": [
+      "varicella",
+      "chicken pox"
+    ],
+    "description": "highly contagious viral infection causing itchy fluid-filled blisters, primarily affecting children but possible at any age",
+    "cause": "varicella-zoster virus (VZV) infecting skin and nerve tissue",
+    "transmission": "airborne droplets, direct contact with blister fluid, contact with shingles lesions, highly infectious before rash appears",
+    "risk_groups": "unvaccinated individuals, children, pregnant women, newborns, adolescents, adults, immunocompromised individuals",
+    "incubation_period": "10-21 days",
+    "symptoms": [
+      "fever, fatigue, headache, loss of appetite before rash",
+      "itchy red rash progressing to fluid-filled blisters",
+      "blisters that scab over within about a week",
+      "rash starting on chest, back, face and spreading across body",
+      "up to hundreds of lesions in severe cases"
+    ],
+    "progression": [
+      "initial mild fever and fatigue",
+      "appearance of red spots on skin",
+      "formation of fluid-filled blisters",
+      "blisters crust over and heal within 1-2 weeks"
+    ],
+    "common_locations": "face, chest, back, scalp, arms, legs, mouth",
+    "duration": "4-7 days (rash phase)",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "bacterial skin infection, pneumonia, encephalitis, dehydration, fetal complications, severe disease in adults"
+    ],
+    "home_remedy": [
+      "rest, hydration, soothing lotions, oatmeal baths, antihistamines for itching"
+    ],
+    "avoid": [
+      "scratching, aspirin (risk of Reye syndrome), ibuprofen in some cases, close contact with others"
+    ],
+    "when_to_see_doctor": "high fever, severe rash, breathing difficulty, immunocompromised status, pregnancy exposure",
+    "emergency_signs": "difficulty breathing, severe dehydration, neurological symptoms, persistent vomiting, altered consciousness",
+    "prevention": [
+      "varicella vaccination (2 doses), avoiding contact with infected individuals, hygiene practices"
+    ],
+    "contagious_period": "1-2 days before rash until all lesions crust over",
+    "special_notes": "virus remains dormant and can reactivate as shingles later in life, vaccination greatly reduces severity and complications"
+  },
+  "Rabies": {
+    "aliases": [
+      "hydrophobia (advanced stage)"
+    ],
+    "description": "fatal viral infection affecting the central nervous system leading to brain inflammation and death if untreated before symptom onset",
+    "cause": "rabies virus (a lyssavirus) transmitted through infected animal saliva",
+    "transmission": "bites or scratches from infected animals, saliva contact with open wounds or mucous membranes",
+    "risk_groups": "people exposed to wild animals, travelers to endemic regions, veterinarians, animal handlers, outdoor workers",
+    "incubation_period": "weeks to months (variable depending on exposure site)",
+    "symptoms": [
+      "fever, headache, weakness (early stage)",
+      "tingling or itching at bite site",
+      "anxiety, confusion, agitation",
+      "hallucinations",
+      "excessive salivation",
+      "fear of water (hydrophobia)"
+    ],
+    "progression": [
+      "virus enters body through bite or scratch",
+      "travels along nerves to central nervous system",
+      "causes brain inflammation and neurological symptoms",
+      "progression to coma and death if untreated"
+    ],
+    "common_locations": "brain, central nervous system, salivary glands",
+    "duration": "days to weeks after symptom onset (rapid progression)",
+    "severity": "severe",
+    "complications": [
+      "encephalitis, paralysis, respiratory failure, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "contact with wild or unvaccinated animals, delayed post-exposure treatment"
+    ],
+    "when_to_see_doctor": "any animal bite or suspected exposure, especially from wild animals",
+    "emergency_signs": "confusion, hallucinations, difficulty swallowing, paralysis, seizures",
+    "prevention": [
+      "rabies vaccination (pre- and post-exposure), wound cleaning, avoiding animal contact, vaccinating pets"
+    ],
+    "contagious_period": "present in saliva of infected animals, human-to-human transmission extremely rare",
+    "special_notes": "nearly 100% fatal after symptom onset, post-exposure prophylaxis (PEP) is highly effective if given early, bats are a major source in some regions"
+  },
+  "Leprosy": {
+    "aliases": [
+      "Hansen disease"
+    ],
+    "description": "chronic bacterial infection affecting skin, peripheral nerves, and mucous membranes leading to progressive damage and disability if untreated",
+    "cause": "Mycobacterium leprae bacteria infecting skin and nerves",
+    "transmission": "prolonged close contact via respiratory droplets or nasal secretions from untreated individuals",
+    "risk_groups": "people in endemic regions, close contacts of infected individuals, children, immunocompromised individuals",
+    "incubation_period": "months to years (typically 3-5 years)",
+    "symptoms": [
+      "light-colored or reddish skin lesions with reduced sensation",
+      "numbness in hands, arms, feet, or legs",
+      "muscle weakness",
+      "thickened nerves",
+      "non-healing skin sores"
+    ],
+    "progression": [
+      "infection via respiratory exposure",
+      "slow bacterial growth affecting skin and nerves",
+      "development of sensory loss and skin lesions",
+      "nerve damage and disability if untreated"
+    ],
+    "common_locations": "skin, peripheral nerves, face, hands, feet",
+    "duration": "chronic, may last years without treatment",
+    "severity": "mild_to_severe",
+    "complications": [
+      "nerve damage, loss of sensation, muscle weakness, deformities, disability"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "delayed treatment, close contact without precautions, neglect of symptoms"
+    ],
+    "when_to_see_doctor": "persistent skin lesions, numbness, weakness, contact with infected person",
+    "emergency_signs": "severe nerve damage, loss of function, secondary infections",
+    "prevention": [
+      "early diagnosis and treatment, avoiding prolonged close contact with untreated cases"
+    ],
+    "contagious_period": "low, mainly in untreated individuals (reduced after starting treatment)",
+    "special_notes": "treatable with multi-drug therapy, early treatment prevents disability, stigma associated with disease despite low infectivity"
+  },
+  "Whooping Cough": {
+    "aliases": [
+      "pertussis"
+    ],
+    "description": "highly contagious bacterial respiratory infection causing severe coughing fits and airway inflammation",
+    "cause": "Bordetella pertussis bacteria damaging respiratory cilia and releasing toxins",
+    "transmission": "airborne droplets from coughing or sneezing, close contact in shared airspace",
+    "risk_groups": "infants under 1 year, unvaccinated individuals, elderly, people with asthma or weakened immune systems",
+    "incubation_period": "5-10 days (up to 21 days)",
+    "symptoms": [
+      "mild cough and runny nose (early stage)",
+      "severe coughing fits (paroxysmal cough)",
+      "whooping sound during inhalation after coughing",
+      "vomiting after coughing",
+      "exhaustion after coughing episodes"
+    ],
+    "progression": [
+      "initial mild cold-like symptoms (catarrhal stage)",
+      "progression to severe coughing fits (paroxysmal stage)",
+      "gradual recovery with reduced coughing (convalescent stage)",
+      "prolonged cough may persist for weeks"
+    ],
+    "common_locations": "upper respiratory tract, lungs",
+    "duration": "weeks to months (often called 100-day cough)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "pneumonia, apnea (in infants), seizures, brain damage, death (especially in infants)"
+    ],
+    "home_remedy": [
+      "rest, hydration, humidified air, supportive care"
+    ],
+    "avoid": [
+      "close contact with others, exposure of infants, delayed treatment"
+    ],
+    "when_to_see_doctor": "persistent severe cough, coughing fits, vomiting after coughing, infant symptoms",
+    "emergency_signs": "difficulty breathing, apnea, bluish skin, seizures, severe exhaustion",
+    "prevention": [
+      "vaccination (DTaP/Tdap), antibiotics after exposure, hygiene practices"
+    ],
+    "contagious_period": "from early symptoms up to 2 weeks after coughing begins (shorter with antibiotics)",
+    "special_notes": "early antibiotic treatment reduces severity and spread, immunity not lifelong, infants are at highest risk"
+  },
+  "Tetanus": {
+    "aliases": [
+      "lockjaw"
+    ],
+    "description": "serious bacterial infection affecting the nervous system causing muscle stiffness and painful spasms",
+    "cause": "Clostridium tetani bacteria producing a neurotoxin that affects motor nerves",
+    "transmission": "contamination of wounds with bacterial spores from soil, dust, or animal waste (not person-to-person)",
+    "risk_groups": "unvaccinated individuals, people with deep or contaminated wounds, intravenous drug users, newborns in unsanitary conditions",
+    "incubation_period": "3-21 days (can range from days to months)",
+    "symptoms": [
+      "muscle stiffness and spasms (especially jaw - lockjaw)",
+      "difficulty swallowing",
+      "neck and back stiffness",
+      "abdominal muscle rigidity",
+      "painful muscle contractions"
+    ],
+    "progression": [
+      "spores enter body through wound",
+      "bacteria produce toxin in anaerobic conditions",
+      "toxin spreads via nerves to central nervous system",
+      "muscle rigidity and severe spasms develop"
+    ],
+    "common_locations": "nervous system, muscles, jaw, neck, back",
+    "duration": "weeks to months (recovery may be prolonged)",
+    "severity": "severe",
+    "complications": [
+      "respiratory failure, fractures from spasms, pneumonia, autonomic instability, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "untreated wounds, poor hygiene, missing vaccinations"
+    ],
+    "when_to_see_doctor": "deep or contaminated wounds, unknown vaccination status, muscle stiffness or spasms",
+    "emergency_signs": "difficulty breathing, severe spasms, inability to swallow, generalized rigidity",
+    "prevention": [
+      "vaccination (DTaP/Tdap), booster doses every 10 years, proper wound care, sterile practices"
+    ],
+    "contagious_period": "none",
+    "special_notes": "not spread person-to-person, neonatal tetanus occurs in unsanitary conditions, early vaccination is highly effective"
+  },
+  "Diphtheria": {
+    "aliases": [
+      "none"
+    ],
+    "description": "serious bacterial infection caused by toxin-producing bacteria leading to tissue damage, especially in the respiratory tract",
+    "cause": "Corynebacterium diphtheriae producing diphtheria toxin",
+    "transmission": "airborne droplets from coughing or sneezing, contact with infected wounds or contaminated objects",
+    "risk_groups": "unvaccinated individuals, close contacts of infected persons, travelers to endemic regions, people with poor immunity",
+    "incubation_period": "2-5 days",
+    "symptoms": [
+      "sore throat and difficulty swallowing",
+      "fever and weakness",
+      "thick gray membrane in throat or nose",
+      "swollen neck (bull neck appearance)",
+      "breathing difficulty"
+    ],
+    "progression": [
+      "exposure to bacteria via droplets or contact",
+      "bacterial colonization in respiratory tract or skin",
+      "toxin production causing tissue damage",
+      "systemic complications if untreated"
+    ],
+    "common_locations": "throat, nose, skin",
+    "duration": "weeks (with treatment recovery improves)",
+    "severity": "severe",
+    "complications": [
+      "airway obstruction, myocarditis, nerve damage, respiratory failure, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "close contact with infected individuals, skipping vaccination, delayed treatment"
+    ],
+    "when_to_see_doctor": "sore throat with membrane, breathing difficulty, exposure history",
+    "emergency_signs": "severe breathing difficulty, airway blockage, heart problems, neurological symptoms",
+    "prevention": [
+      "vaccination (DTaP/Tdap), antibiotics for close contacts, hygiene practices"
+    ],
+    "contagious_period": "until about 48 hours after starting antibiotics",
+    "special_notes": "toxin causes most damage rather than bacteria itself, early antitoxin treatment is critical, vaccination highly effective"
+  },
+  "Japanese Encephalitis": {
+    "aliases": [
+      "JE"
+    ],
+    "description": "mosquito-borne viral infection causing inflammation of the brain, potentially leading to severe neurological damage or death",
+    "cause": "Japanese encephalitis virus (a flavivirus)",
+    "transmission": "bite of infected mosquitoes (mainly Culex species), not spread person-to-person",
+    "risk_groups": "people living in rural Asia, long-term travelers to endemic regions, outdoor workers, laboratory personnel",
+    "incubation_period": "5-15 days",
+    "symptoms": [
+      "fever and headache (mild cases)",
+      "neck stiffness",
+      "seizures",
+      "confusion or altered consciousness",
+      "coma in severe cases"
+    ],
+    "progression": [
+      "infection via mosquito bite",
+      "viral replication in bloodstream",
+      "invasion of central nervous system",
+      "encephalitis with neurological symptoms"
+    ],
+    "common_locations": "brain, central nervous system",
+    "duration": "days to weeks (neurological recovery may take longer)",
+    "severity": "severe",
+    "complications": [
+      "brain damage, seizures, paralysis, coma, permanent disability, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "mosquito bites, travel without protection, staying in high-risk rural areas without precautions"
+    ],
+    "when_to_see_doctor": "fever with neurological symptoms, travel history to endemic areas",
+    "emergency_signs": "seizures, coma, severe confusion, inability to wake",
+    "prevention": [
+      "JE vaccination, mosquito control, insect repellents, protective clothing"
+    ],
+    "contagious_period": "none (not transmitted person-to-person)",
+    "special_notes": "most infections are asymptomatic, severe cases have high mortality, survivors may have long-term neurological deficits"
+  },
+  "Plague": {
+    "aliases": [
+      "bubonic plague",
+      "septicemic plague",
+      "pneumonic plague"
+    ],
+    "description": "severe bacterial infection transmitted from animals to humans, historically associated with epidemics and capable of causing rapid systemic illness",
+    "cause": "Yersinia pestis bacteria infecting blood and lymphatic system",
+    "transmission": "flea bites from infected rodents, contact with infected animal tissues or fluids, inhalation of infectious droplets (pneumonic form)",
+    "risk_groups": "people in rural or semi-rural areas, hunters, veterinarians, individuals exposed to rodents or fleas, people in outbreak regions",
+    "incubation_period": "1-7 days",
+    "symptoms": [
+      "fever and chills",
+      "swollen and painful lymph nodes (buboes)",
+      "weakness and fatigue",
+      "abdominal pain",
+      "cough and bloody sputum (pneumonic form)",
+      "skin turning black due to tissue death (severe cases)"
+    ],
+    "progression": [
+      "transmission via flea bite, contact, or inhalation",
+      "bacterial spread to lymph nodes or bloodstream",
+      "development of bubonic, septicemic, or pneumonic forms",
+      "rapid systemic infection and potential organ failure"
+    ],
+    "common_locations": "lymph nodes, blood, lungs",
+    "duration": "days to weeks (rapid progression if untreated)",
+    "severity": "severe",
+    "complications": [
+      "sepsis, respiratory failure, organ failure, shock, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "flea exposure, contact with infected animals, handling animals without protection"
+    ],
+    "when_to_see_doctor": "fever with swollen lymph nodes, recent exposure to rodents or fleas, respiratory symptoms after exposure",
+    "emergency_signs": "severe breathing difficulty, shock, confusion, bleeding, rapid deterioration",
+    "prevention": [
+      "flea control, avoiding rodent exposure, protective equipment when handling animals, early antibiotic treatment"
+    ],
+    "contagious_period": "pneumonic plague can spread person-to-person via droplets",
+    "special_notes": "requires urgent antibiotic treatment, pneumonic form is highly contagious, outbreaks linked to rodent populations and fleas"
+  },
+  "Zika Virus Infection": {
+    "aliases": [
+      "Zika",
+      "Zika fever"
+    ],
+    "description": "mosquito-borne viral infection usually causing mild illness but associated with serious complications during pregnancy and rare neurological disorders",
+    "cause": "Zika virus (a flavivirus)",
+    "transmission": "bite of infected Aedes mosquitoes, sexual transmission, mother-to-fetus during pregnancy, rarely via blood transfusion",
+    "risk_groups": "people in tropical and subtropical regions, travelers to endemic areas, pregnant women, sexual partners of infected individuals",
+    "incubation_period": "3-14 days",
+    "symptoms": [
+      "fever",
+      "rash",
+      "headache",
+      "joint and muscle pain",
+      "red eyes (conjunctivitis)",
+      "fatigue"
+    ],
+    "progression": [
+      "infection via mosquito bite or other transmission",
+      "viral replication in bloodstream",
+      "mild symptomatic phase or asymptomatic infection",
+      "recovery or rare complications"
+    ],
+    "common_locations": "blood, nervous system, fetus (in pregnancy)",
+    "duration": "several days to 1 week",
+    "severity": "mild",
+    "complications": [
+      "congenital birth defects (microcephaly), Guillain-Barre syndrome, neurological complications, pregnancy loss"
+    ],
+    "home_remedy": [
+      "rest, hydration, supportive care"
+    ],
+    "avoid": [
+      "mosquito exposure, unprotected sex, travel to endemic areas during pregnancy"
+    ],
+    "when_to_see_doctor": "pregnancy with exposure, persistent symptoms, neurological signs",
+    "emergency_signs": "paralysis, severe neurological symptoms, confusion, difficulty breathing",
+    "prevention": [
+      "mosquito control, insect repellents, protective clothing, safe sex practices"
+    ],
+    "contagious_period": "present in blood and bodily fluids for days to weeks (sexual transmission possible longer)",
+    "special_notes": "often asymptomatic, major concern is during pregnancy, no vaccine or specific antiviral treatment available"
+  },
+  "Amoebiasis": {
+    "aliases": [
+      "amebiasis",
+      "amoebic dysentery"
+    ],
+    "description": "parasitic intestinal infection causing diarrhea and colitis, sometimes spreading to other organs like the liver",
+    "cause": "Entamoeba histolytica protozoan parasite",
+    "transmission": "fecal-oral route via contaminated food or water, poor sanitation, person-to-person contact",
+    "risk_groups": "people in areas with poor sanitation, travelers to endemic regions, individuals with unsafe food or water exposure, immunocompromised individuals",
+    "incubation_period": "1-4 weeks",
+    "symptoms": [
+      "diarrhea (may be bloody)",
+      "abdominal pain and cramping",
+      "fever",
+      "nausea",
+      "weight loss",
+      "fatigue"
+    ],
+    "progression": [
+      "ingestion of parasite cysts via contaminated sources",
+      "cysts release active trophozoites in intestine",
+      "invasion of intestinal lining causing ulcers",
+      "possible spread to liver or other organs"
+    ],
+    "common_locations": "intestines (colon), liver",
+    "duration": "weeks to months if untreated",
+    "severity": "mild_to_severe",
+    "complications": [
+      "liver abscess, intestinal perforation, severe colitis, spread to lungs or brain (rare)"
+    ],
+    "home_remedy": [
+      "hydration, proper nutrition, hygiene practices"
+    ],
+    "avoid": [
+      "contaminated food or water, poor sanitation, delayed treatment"
+    ],
+    "when_to_see_doctor": "persistent diarrhea, blood in stool, abdominal pain, travel history",
+    "emergency_signs": "severe abdominal pain, high fever, signs of liver involvement, dehydration",
+    "prevention": [
+      "safe drinking water, proper sanitation, hand hygiene, food safety"
+    ],
+    "contagious_period": "while parasite cysts are shed in stool",
+    "special_notes": "can be asymptomatic in some individuals, requires antiparasitic treatment, common in developing regions"
+  },
+  "Hand-Foot-Mouth Disease": {
+    "aliases": [
+      "HFMD",
+      "coxsackievirus infection"
+    ],
+    "description": "common contagious viral infection primarily affecting children, characterized by sores in the mouth and rash on hands and feet",
+    "cause": "coxsackievirus A16 (most common), other enteroviruses",
+    "transmission": "respiratory droplets, contact with contaminated surfaces, contact with stool or blister fluid of infected person",
+    "risk_groups": "children under 10 years, daycare attendees, close contacts, occasionally adults",
+    "incubation_period": "3-7 days",
+    "symptoms": [
+      "fever",
+      "sore throat",
+      "loss of appetite",
+      "painful mouth ulcers",
+      "rash with small blisters on hands, feet, and diaper area",
+      "headache"
+    ],
+    "progression": [
+      "exposure to virus via droplets or contact",
+      "viral replication in throat and intestines",
+      "onset of fever and sore throat",
+      "development of mouth sores and skin rash"
+    ],
+    "common_locations": "mouth, hands, feet, throat, sometimes buttocks",
+    "duration": "5-7 days",
+    "severity": "mild",
+    "complications": [
+      "dehydration, febrile seizures, rare neurological complications"
+    ],
+    "home_remedy": [
+      "hydration, rest, pain relief (acetaminophen or ibuprofen), saltwater rinses"
+    ],
+    "avoid": [
+      "close contact with infected individuals, sharing items, poor hygiene, aspirin in children"
+    ],
+    "when_to_see_doctor": "persistent fever, difficulty swallowing, dehydration signs, worsening symptoms",
+    "emergency_signs": "seizures, severe dehydration, lethargy, inability to drink fluids",
+    "prevention": [
+      "hand hygiene, disinfecting surfaces, avoiding contact during infection"
+    ],
+    "contagious_period": "most contagious during first week, may spread for weeks via stool",
+    "special_notes": "antibiotics ineffective, usually self-limiting, common in summer and early fall"
+  },
+  "Hantavirus Infection": {
+    "aliases": [
+      "hantavirus pulmonary syndrome",
+      "HPS"
+    ],
+    "description": "rare but severe viral disease causing respiratory failure and systemic illness due to infection from rodent-borne viruses",
+    "cause": "hantavirus (family Hantaviridae) transmitted from infected rodents",
+    "transmission": "inhalation of aerosolized particles from rodent urine, droppings, or saliva, rarely through bites",
+    "risk_groups": "people exposed to rodents, rural residents, farmers, campers, construction workers, individuals cleaning rodent-infested areas",
+    "incubation_period": "1-8 weeks",
+    "symptoms": [
+      "fever and chills",
+      "muscle aches",
+      "fatigue",
+      "headache",
+      "nausea and vomiting",
+      "shortness of breath (later stage)"
+    ],
+    "progression": [
+      "exposure to contaminated rodent excreta",
+      "viral entry via respiratory tract",
+      "early flu-like symptoms",
+      "progression to severe respiratory distress and lung involvement"
+    ],
+    "common_locations": "lungs, blood vessels",
+    "duration": "days to weeks (rapid progression in severe cases)",
+    "severity": "severe",
+    "complications": [
+      "respiratory failure, shock, organ failure, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "exposure to rodent-infested environments, inhaling dust in contaminated areas, poor hygiene"
+    ],
+    "when_to_see_doctor": "flu-like symptoms after rodent exposure, breathing difficulty",
+    "emergency_signs": "severe breathlessness, low blood pressure, confusion, rapid deterioration",
+    "prevention": [
+      "rodent control, proper sanitation, protective measures when cleaning contaminated areas"
+    ],
+    "contagious_period": "none (not typically spread person-to-person)",
+    "special_notes": "high fatality rate in severe cases, early recognition critical, more common in rural settings"
+  },
+  "Scrub Typhus": {
+    "aliases": [
+      "bush typhus"
+    ],
+    "description": "bacterial infection transmitted by mite larvae causing fever, rash, and systemic illness common in rural tropical regions",
+    "cause": "Orientia tsutsugamushi bacteria infecting endothelial cells",
+    "transmission": "bite of infected chiggers (larval mites), not spread person-to-person",
+    "risk_groups": "people in rural or forested areas, farmers, outdoor workers, travelers to endemic regions (Asia-Pacific)",
+    "incubation_period": "6-21 days",
+    "symptoms": [
+      "fever and chills",
+      "headache",
+      "muscle aches",
+      "rash",
+      "eschar (black scab at bite site)",
+      "swollen lymph nodes"
+    ],
+    "progression": [
+      "bite from infected chigger",
+      "bacterial spread through bloodstream",
+      "onset of fever and systemic symptoms",
+      "possible organ involvement if untreated"
+    ],
+    "common_locations": "skin (bite site), blood vessels, lungs, liver",
+    "duration": "1-3 weeks (longer if untreated)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "pneumonia, encephalitis, organ failure, bleeding disorders, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "exposure to mite-infested areas, sitting on grass without protection, poor hygiene"
+    ],
+    "when_to_see_doctor": "fever with rash or eschar, travel or exposure history, persistent symptoms",
+    "emergency_signs": "severe breathing difficulty, confusion, organ failure signs, seizures",
+    "prevention": [
+      "protective clothing, insect repellents, avoiding dense vegetation, environmental control"
+    ],
+    "contagious_period": "none (not transmitted person-to-person)",
+    "special_notes": "early antibiotic treatment is highly effective, eschar is a key diagnostic sign, common in the tsutsugamushi triangle"
+  },
+  "Hypertension": {
+    "aliases": [
+      "high blood pressure"
+    ],
+    "description": "chronic medical condition characterized by persistently elevated arterial blood pressure increasing risk of cardiovascular diseases",
+    "cause": "multifactorial, including genetic factors, high salt intake, obesity, stress, and underlying conditions",
+    "transmission": "none",
+    "risk_groups": "older adults, obese individuals, smokers, people with family history, sedentary lifestyle, high-salt diet",
+    "incubation_period": "none",
+    "symptoms": [
+      "often asymptomatic (silent condition)",
+      "headaches (in severe cases)",
+      "dizziness",
+      "blurred vision",
+      "chest pain (in advanced cases)"
+    ],
+    "progression": [
+      "gradual increase in blood pressure",
+      "sustained elevation damages blood vessels",
+      "strain on heart and organs",
+      "development of complications over time"
+    ],
+    "common_locations": "blood vessels, heart, kidneys, brain",
+    "duration": "chronic (lifelong if unmanaged)",
+    "severity": "mild_to_severe",
+    "complications": [
+      "heart attack, stroke, kidney failure, vision loss, heart failure"
+    ],
+    "home_remedy": [
+      "lifestyle changes (low-salt diet, exercise, weight control, stress reduction)"
+    ],
+    "avoid": [
+      "high salt intake, smoking, excessive alcohol, sedentary lifestyle"
+    ],
+    "when_to_see_doctor": "consistently high blood pressure readings, headaches, dizziness, routine screening",
+    "emergency_signs": "hypertensive crisis (very high BP), chest pain, severe headache, confusion, vision changes",
+    "prevention": [
+      "healthy diet, regular exercise, maintaining healthy weight, limiting alcohol, regular monitoring"
+    ],
+    "contagious_period": "none",
+    "special_notes": "often called silent killer, requires regular monitoring, managed with lifestyle changes and medications"
+  },
+  "Heart Attack": {
+    "aliases": [
+      "myocardial infarction",
+      "MI",
+      "cardiac infarction"
+    ],
+    "description": "acute medical emergency caused by sudden blockage of blood flow to the heart muscle leading to tissue damage or death",
+    "cause": "rupture of atherosclerotic plaque with formation of a blood clot blocking a coronary artery",
+    "transmission": "none",
+    "risk_groups": "individuals with coronary artery disease, smokers, diabetics, hypertensive patients, obese individuals, elderly",
+    "incubation_period": "none",
+    "symptoms": [
+      "severe chest pain or pressure",
+      "pain radiating to arm, jaw, neck, or back",
+      "shortness of breath",
+      "sweating",
+      "nausea or vomiting",
+      "dizziness or fainting"
+    ],
+    "progression": [
+      "plaque rupture in coronary artery",
+      "formation of blood clot",
+      "blockage of blood flow to heart muscle",
+      "irreversible damage to heart tissue"
+    ],
+    "common_locations": "heart muscle (myocardium), coronary arteries",
+    "duration": "acute (minutes to hours)",
+    "severity": "severe",
+    "complications": [
+      "heart failure, arrhythmias, cardiogenic shock, sudden death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "delay in seeking treatment, smoking, unmanaged risk factors"
+    ],
+    "when_to_see_doctor": "chest pain, shortness of breath, known heart disease symptoms",
+    "emergency_signs": "severe chest pain, collapse, difficulty breathing, loss of consciousness",
+    "prevention": [
+      "healthy lifestyle, managing cholesterol and blood pressure, quitting smoking, regular exercise"
+    ],
+    "contagious_period": "none",
+    "special_notes": "requires immediate medical intervention, early treatment reduces damage, often preceded by angina"
+  },
+  "Stroke": {
+    "aliases": [
+      "cerebrovascular accident",
+      "CVA",
+      "brain attack"
+    ],
+    "description": "acute condition caused by interruption of blood flow to the brain leading to brain cell death and potential long-term disability or death",
+    "cause": "blockage of blood vessel (ischemic stroke) or rupture of blood vessel causing bleeding (hemorrhagic stroke)",
+    "transmission": "none",
+    "risk_groups": "individuals with hypertension, diabetes, heart disease, smokers, elderly, obese individuals, people with high cholesterol",
+    "incubation_period": "none",
+    "symptoms": [
+      "sudden numbness or weakness (especially one side of body)",
+      "confusion or trouble speaking",
+      "difficulty seeing in one or both eyes",
+      "dizziness, loss of balance or coordination",
+      "severe headache with no known cause"
+    ],
+    "progression": [
+      "interruption of blood supply to brain",
+      "brain cells deprived of oxygen and nutrients",
+      "rapid cell death within minutes",
+      "neurological deficits or permanent damage"
+    ],
+    "common_locations": "brain, blood vessels supplying brain",
+    "duration": "acute event with long-term effects possible",
+    "severity": "severe",
+    "complications": [
+      "paralysis, speech impairment, cognitive deficits, disability, death"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "uncontrolled blood pressure, smoking, unhealthy lifestyle, delayed treatment"
+    ],
+    "when_to_see_doctor": "any sudden neurological symptoms, suspected stroke",
+    "emergency_signs": "facial drooping, arm weakness, slurred speech, sudden severe headache, loss of consciousness",
+    "prevention": [
+      "healthy lifestyle, blood pressure control, cholesterol management, regular exercise, smoking cessation"
+    ],
+    "contagious_period": "none",
+    "special_notes": "requires immediate emergency care, early treatment improves outcomes, TIA (mini-stroke) is a warning sign"
+  },
+  "Atherosclerosis": {
+    "aliases": [
+      "arterial plaque disease",
+      "hardening of the arteries"
+    ],
+    "description": "chronic condition characterized by buildup of fatty plaques in arterial walls leading to narrowing and reduced blood flow",
+    "cause": "accumulation of cholesterol, fats, and inflammatory cells forming plaques in arteries",
+    "transmission": "none",
+    "risk_groups": "smokers, people with high cholesterol, hypertension, diabetes, obesity, sedentary lifestyle, older adults",
+    "incubation_period": "none",
+    "symptoms": [
+      "often asymptomatic early",
+      "chest pain (if coronary arteries affected)",
+      "leg pain while walking (claudication)",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "progression": [
+      "endothelial damage in arteries",
+      "buildup of fatty deposits (plaques)",
+      "narrowing and stiffening of arteries",
+      "reduced blood flow or sudden blockage due to plaque rupture"
+    ],
+    "common_locations": "arteries (coronary, carotid, peripheral)",
+    "duration": "chronic (progresses over years)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "heart attack, stroke, peripheral artery disease, organ damage"
+    ],
+    "home_remedy": [
+      "lifestyle changes (healthy diet, exercise, weight management)"
+    ],
+    "avoid": [
+      "smoking, high-fat diet, sedentary lifestyle, uncontrolled risk factors"
+    ],
+    "when_to_see_doctor": "chest pain, leg pain, risk factors present, routine screening",
+    "emergency_signs": "sudden chest pain, stroke symptoms, severe limb pain, collapse",
+    "prevention": [
+      "healthy diet, regular exercise, cholesterol control, blood pressure management"
+    ],
+    "contagious_period": "none",
+    "special_notes": "underlying cause of many cardiovascular diseases, often silent until complications occur"
+  },
+  "Varicose Veins": {
+    "aliases": [
+      "varicosities"
+    ],
+    "description": "enlarged, twisted veins caused by valve dysfunction leading to poor blood flow, commonly affecting the legs",
+    "cause": "weakened or damaged vein valves causing blood pooling and vein dilation",
+    "transmission": "none",
+    "risk_groups": "older adults, women, pregnant individuals, people with prolonged standing, obesity, family history",
+    "incubation_period": "none",
+    "symptoms": [
+      "visible twisted, bulging veins",
+      "aching or heavy legs",
+      "swelling in lower legs",
+      "itching around veins",
+      "muscle cramps"
+    ],
+    "progression": [
+      "weakening of vein valves",
+      "blood pools in veins",
+      "veins enlarge and become visible",
+      "worsening discomfort and complications"
+    ],
+    "common_locations": "legs, feet",
+    "duration": "chronic (progressive over time)",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "skin ulcers, bleeding, thrombophlebitis, chronic venous insufficiency"
+    ],
+    "home_remedy": [
+      "leg elevation, exercise, compression stockings, weight management"
+    ],
+    "avoid": [
+      "prolonged standing or sitting, tight clothing, inactivity"
+    ],
+    "when_to_see_doctor": "pain, swelling, skin changes, bleeding veins",
+    "emergency_signs": "severe swelling, redness, pain suggesting clot, bleeding",
+    "prevention": [
+      "regular exercise, weight control, avoiding long periods of standing, leg elevation"
+    ],
+    "contagious_period": "none",
+    "special_notes": "common condition, cosmetic and medical concerns, treatments include sclerotherapy and surgery"
+  },
+  "Pneumonia": {
+    "aliases": [
+      "lung infection"
+    ],
+    "description": "infection of the lungs causing inflammation of air sacs (alveoli) which may fill with fluid or pus, impairing breathing",
+    "cause": "bacteria (e.g., Streptococcus pneumoniae), viruses, fungi, or aspiration of foreign material",
+    "transmission": "respiratory droplets, inhalation of infectious agents, aspiration",
+    "risk_groups": "infants, elderly, smokers, immunocompromised individuals, people with chronic diseases",
+    "incubation_period": "1-4 days (varies by cause)",
+    "symptoms": [
+      "cough (with or without mucus)",
+      "fever and chills",
+      "shortness of breath",
+      "chest pain (worsens with breathing)",
+      "fatigue",
+      "confusion (especially in elderly)"
+    ],
+    "progression": [
+      "infection reaches lungs",
+      "inflammation of alveoli",
+      "fluid or pus accumulation",
+      "impaired oxygen exchange"
+    ],
+    "common_locations": "lungs (alveoli)",
+    "duration": "1-3 weeks (longer in severe cases)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "respiratory failure, sepsis, pleural effusion, lung abscess, death"
+    ],
+    "home_remedy": [
+      "rest, hydration, fever control, supportive care"
+    ],
+    "avoid": [
+      "smoking, delayed treatment, exposure to infections"
+    ],
+    "when_to_see_doctor": "high fever, breathing difficulty, chest pain, persistent cough",
+    "emergency_signs": "severe breathlessness, bluish lips, confusion, high fever, low oxygen levels",
+    "prevention": [
+      "vaccination (pneumococcal, flu), hand hygiene, avoiding smoking, good nutrition"
+    ],
+    "contagious_period": "varies depending on cause (bacterial or viral)",
+    "special_notes": "early treatment improves outcomes, high-risk groups need prompt care, can be life-threatening"
+  },
+  "Sinusitis": {
+    "aliases": [
+      "sinus infection",
+      "rhinosinusitis"
+    ],
+    "description": "inflammation of the sinuses causing blockage and buildup of mucus, often due to infection or allergies",
+    "cause": "viral infections (most common), bacterial or fungal infections, allergies, nasal polyps",
+    "transmission": "respiratory droplets (in infectious cases), not contagious in non-infectious cases",
+    "risk_groups": "people with allergies, asthma, frequent colds, smokers, individuals with weak immune systems",
+    "incubation_period": "1-3 days (for viral causes)",
+    "symptoms": [
+      "facial pain or pressure",
+      "nasal congestion",
+      "thick nasal discharge",
+      "headache",
+      "reduced sense of smell",
+      "fever (in some cases)"
+    ],
+    "progression": [
+      "inflammation of sinus lining",
+      "blockage of sinus drainage",
+      "mucus accumulation",
+      "infection or prolonged inflammation"
+    ],
+    "common_locations": "paranasal sinuses (frontal, maxillary, ethmoid, sphenoid)",
+    "duration": "acute (up to 4 weeks), subacute (4-12 weeks), chronic (more than 12 weeks)",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "chronic sinusitis, spread of infection to eyes or brain (rare), abscess"
+    ],
+    "home_remedy": [
+      "steam inhalation, hydration, saline nasal irrigation, rest"
+    ],
+    "avoid": [
+      "allergens, smoking, untreated infections, poor hygiene"
+    ],
+    "when_to_see_doctor": "symptoms lasting more than 10 days, severe pain, high fever, recurrent infections",
+    "emergency_signs": "vision changes, severe headache, swelling around eyes, confusion",
+    "prevention": [
+      "hand hygiene, allergy control, avoiding irritants, vaccination"
+    ],
+    "contagious_period": "varies (only if viral or bacterial cause)",
+    "special_notes": "most cases are viral and resolve without antibiotics, chronic cases may require long-term management"
+  },
+  "Pneumothorax": {
+    "aliases": [
+      "collapsed lung"
+    ],
+    "description": "condition where air enters the pleural space causing partial or complete collapse of the lung",
+    "cause": "rupture of lung blebs, chest injury, lung disease (e.g., COPD), medical procedures, spontaneous causes",
+    "transmission": "none",
+    "risk_groups": "tall thin individuals, smokers, people with lung disease, trauma patients, individuals undergoing chest procedures",
+    "incubation_period": "none",
+    "symptoms": [
+      "sudden chest pain",
+      "shortness of breath",
+      "rapid breathing",
+      "decreased breath sounds on affected side",
+      "fatigue"
+    ],
+    "progression": [
+      "air leaks into pleural space",
+      "increased pressure compresses lung",
+      "partial or complete lung collapse",
+      "worsening respiratory distress if untreated"
+    ],
+    "common_locations": "pleural space, lungs",
+    "duration": "acute (may resolve or require intervention)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "tension pneumothorax, respiratory failure, recurrence"
+    ],
+    "home_remedy": [
+      "none"
+    ],
+    "avoid": [
+      "smoking, high-altitude exposure (if prone), untreated lung disease"
+    ],
+    "when_to_see_doctor": "sudden chest pain, breathing difficulty",
+    "emergency_signs": "severe breathlessness, chest tightness, cyanosis, low blood pressure (tension pneumothorax)",
+    "prevention": [
+      "smoking cessation, managing lung diseases, avoiding risk factors"
+    ],
+    "contagious_period": "none",
+    "special_notes": "tension pneumothorax is life-threatening emergency, may require needle decompression or chest tube"
+  },
+  "Schizophrenia": {
+    "aliases": [
+      "none"
+    ],
+    "description": "serious mental health condition and psychotic illness that distorts a person's thinking, causing them to lose touch with reality",
+    "cause": "combination of genetics, differences in brain structure and chemicals, pregnancy or birth complications, and trauma",
+    "transmission": "none",
+    "risk_groups": "starts between ages 16 and 30, men (develop symptoms earlier), people with a family history, individuals who experienced childhood trauma, abuse, or neglect",
+    "incubation_period": "none",
+    "symptoms": [
+      "hallucinations (hearing voices or seeing things that are not there)",
+      "delusions (unusual false beliefs not based on reality)",
+      "muddled thoughts, disorganized speech, and trouble using information",
+      "lack of interest in things and difficulty showing emotions",
+      "strange movements, psychomotor agitation, or psychomotor retardation",
+      "difficulty concentrating, paying attention, or making decisions",
+      "feeling fearful, worried, or suspicious that others wish them harm"
+    ],
+    "progression": [
+      "symptoms may start suddenly or develop slowly over time",
+      "positive (psychotic), negative, and cognitive symptoms emerge",
+      "episodes of severe symptoms occur, sometimes followed by periods of few or no symptoms",
+      "functioning in daily life, keeping a job, and self-care become highly difficult"
+    ],
+    "common_locations": "none",
+    "duration": "lifelong (though about one third recover completely after one episode)",
+    "severity": "severe",
+    "complications": [
+      "inability to work or care for oneself, severe relapse, suicidal thoughts"
+    ],
+    "home_remedy": [
+      "establish a regular routine, get plenty of sleep, eat a healthy diet, exercise regularly"
+    ],
+    "avoid": [
+      "smoking, recreational drugs, drinking too much alcohol, severe stress"
+    ],
+    "when_to_see_doctor": "changes in thoughts or behavior that last a long time, current treatments are not helping, warning signs like hearing quiet voices or feeling suspicious appear",
+    "emergency_signs": "mental health crisis, severe psychotic episode, refusing care leading to potential harm",
+    "prevention": [
+      "chance of severe relapse reduced if well-managed, maintain healthy lifestyle and routines"
+    ],
+    "contagious_period": "none",
+    "special_notes": "treated with antipsychotic medication and psychological therapies (CBT, family therapy), advanced statements can be written to record care preferences in case of a serious episode"
+  },
+  "Obsessive-Compulsive Disorder": {
+    "aliases": [
+      "OCD"
+    ],
+    "description": "mental disorder characterized by repeated, unwanted thoughts (obsessions) and irrational, repetitive behaviors (compulsions) performed to reduce anxiety",
+    "cause": "unknown, likely a combination of genetics, brain biology and chemistry, and environmental factors",
+    "transmission": "none",
+    "risk_groups": "teens, young adults, boys (develop earlier than girls), people with a first-degree relative with OCD, individuals with childhood trauma",
+    "incubation_period": "none",
+    "symptoms": [
+      "repeated unwanted thoughts, urges, or mental images causing anxiety",
+      "intense fear of germs, contamination, or losing something",
+      "aggressive or forbidden thoughts involving sex or religion",
+      "excessive cleaning, handwashing, or ordering things precisely",
+      "repeatedly checking things (e.g., locks, ovens) or compulsive counting",
+      "sudden twitches, movements, or sounds (if co-occurring with a tic disorder)"
+    ],
+    "progression": [
+      "intrusive, distressing thought or urge enters the mind (obsession)",
+      "obsession causes a feeling of intense anxiety or distress",
+      "repetitive behavior or mental act is performed to cope (compulsion)",
+      "compulsion brings temporary relief until the anxiety returns and the cycle repeats"
+    ],
+    "common_locations": "none",
+    "duration": "lifelong chronic condition",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "depression, eating disorders, generalized anxiety disorder, hoarding disorder, Tourette syndrome, suicidal feelings"
+    ],
+    "home_remedy": [
+      "utilize self-help guides for mild to moderate symptoms, participate in online or local support groups"
+    ],
+    "avoid": [
+      "giving in to compulsions without seeking therapy"
+    ],
+    "when_to_see_doctor": "obsessive thoughts and compulsive behaviors affect daily life, unable to manage responsibilities, spending at least 1 hour a day on these thoughts or behaviors",
+    "emergency_signs": "suicidal feelings",
+    "prevention": [
+      "none"
+    ],
+    "contagious_period": "none",
+    "special_notes": "children may develop OCD symptoms following a streptococcal infection (PANDAS), primary treatments include Cognitive Behavioral Therapy (specifically Exposure and Response Prevention) and antidepressants"
+  },
+  "Post-Traumatic Stress Disorder": {
+    "aliases": [
+      "PTSD",
+      "CPTSD",
+      "complex PTSD"
+    ],
+    "description": "mental health problem developed after experiencing or witnessing a life-threatening or traumatic event, causing prolonged stress, fear, and flashbacks",
+    "cause": "severe trauma such as road accidents, assault, abuse, combat, natural disasters, or the sudden death of a loved one",
+    "transmission": "none",
+    "risk_groups": "women, people with childhood trauma, individuals lacking social support, people with a history of mental illness or substance abuse, emergency service workers, military personnel",
+    "incubation_period": "symptoms usually start soon after the event but can appear months or years later",
+    "symptoms": [
+      "nightmares, flashbacks, and intrusive frightening thoughts",
+      "physical sensations like pain, sweating, trembling, or feeling sick",
+      "feeling alert, on edge, easily startled, or jumpy (hypervigilance)",
+      "avoiding people, places, or talking about the trauma",
+      "feeling numb, detached from body, or unable to show affection",
+      "negative thoughts about self, guilt, blame, or trust issues",
+      "anger, irritability, and trouble sleeping or concentrating"
+    ],
+    "progression": [
+      "person experiences or witnesses a traumatic event",
+      "fight-or-flight response triggers intense fear and stress",
+      "fear and stress fail to subside naturally over time",
+      "re-experiencing, avoidance, arousal, and negative mood symptoms persist and interfere with daily life"
+    ],
+    "common_locations": "none",
+    "duration": "long-term (symptoms must last longer than four weeks for diagnosis, can come and go over years)",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "depression, substance use, sleep problems, chronic pain"
+    ],
+    "home_remedy": [
+      "seek support from friends and family, learn coping strategies, join a support group"
+    ],
+    "avoid": [
+      "using alcohol or drugs to cope, isolating oneself, avoiding thoughts or feelings completely"
+    ],
+    "when_to_see_doctor": "symptoms last longer than 4 weeks after the trauma, symptoms cause great distress or interfere with work and home life",
+    "emergency_signs": "severe self-destructive or reckless behavior",
+    "prevention": [
+      "seek support early, develop coping strategies, learn to respond effectively to fear (resilience factors)"
+    ],
+    "contagious_period": "none",
+    "special_notes": "treatments include trauma-focused cognitive behavioral therapy (CBT), Eye Movement Desensitization and Reprocessing (EMDR), and sometimes antidepressants"
+  },
+  "Panic Disorder": {
+    "aliases": [
+      "none"
+    ],
+    "description": "type of anxiety disorder causing repeated, sudden periods of intense fear or discomfort (panic attacks) when there is no real danger",
+    "cause": "unknown, likely a combination of genetics, brain biology, environment, and major stress",
+    "transmission": "none",
+    "risk_groups": "women, late teens or early adults, people under a lot of stress, individuals with a history of childhood trauma",
+    "incubation_period": "none",
+    "symptoms": [
+      "sudden, repeated panic attacks of overwhelming anxiety and fear",
+      "pounding or racing heart, chest pain",
+      "sweating, chills, trembling, or shaking",
+      "trouble breathing or the feeling of choking",
+      "weakness, dizziness, stomach pain, or nausea",
+      "feeling out of control or intense fear of death",
+      "avoiding places where past attacks occurred"
+    ],
+    "progression": [
+      "individual experiences a sudden panic attack without warning",
+      "physical symptoms like racing heart and shortness of breath peak within minutes",
+      "individual develops an intense worry about having another attack",
+      "individual begins avoiding places or situations associated with past attacks"
+    ],
+    "common_locations": "none",
+    "duration": "long-term, individual attacks last a few minutes to over an hour",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "depression, substance use disorders, agoraphobia"
+    ],
+    "home_remedy": [
+      "eat regular meals, get enough sleep, exercise regularly, join a support group"
+    ],
+    "avoid": [
+      "alcohol, caffeine"
+    ],
+    "when_to_see_doctor": "experiencing repeated panic attacks, anxiety about future attacks interferes with quality of life",
+    "emergency_signs": "severe chest pain or trouble breathing that mimics a heart attack",
+    "prevention": [
+      "healthy lifestyle choices, stress management"
+    ],
+    "contagious_period": "none",
+    "special_notes": "treated with talk therapy (CBT), antidepressants (SSRIs, SNRIs), and anti-anxiety medicines"
+  },
+  "Osteoarthritis": {
+    "aliases": [
+      "degenerative joint disease",
+      "OA",
+      "wear-and-tear arthritis"
+    ],
+    "description": "chronic degenerative joint disorder caused by progressive breakdown of cartilage and changes in bone, leading to pain, stiffness, reduced movement, and functional limitation",
+    "cause": "multifactorial, age-related cartilage degeneration, joint mechanical stress, prior injury, obesity, genetics, abnormal joint structure",
+    "transmission": "none",
+    "risk_groups": "older adults, women especially after age 50, overweight or obese individuals, prior joint injury or surgery, repetitive joint overuse, family history, congenital joint abnormalities",
+    "incubation_period": "none",
+    "symptoms": [
+      "joint pain worsened by activity, relieved by rest in early stages",
+      "stiffness after rest or waking, usually brief morning stiffness",
+      "swelling, tenderness, reduced range of motion, weakness around joint",
+      "grinding, crunching, crepitus, feeling of bone rubbing",
+      "bony enlargements of fingers, enlarged or gnarled joints",
+      "difficulty walking, climbing stairs, gripping objects, dressing, standing from chairs",
+      "severe persistent pain, joint instability, deformity, disability in advanced disease"
+    ],
+    "progression": [
+      "cartilage gradually thins and loses cushioning ability",
+      "intermittent pain and stiffness develop with use",
+      "joint inflammation, swelling, reduced mobility increase",
+      "bone spur formation, deformity, chronic pain, disability may occur"
+    ],
+    "common_locations": "knees, hips, hands, spine, neck, lower back, feet, thumb base, finger joints",
+    "duration": "chronic lifelong condition, progresses slowly over years",
+    "severity": "mild_to_severe",
+    "complications": [
+      "chronic pain, reduced mobility, falls risk, muscle wasting, depression, sleep disturbance, joint deformity, loss of independence, disability"
+    ],
+    "home_remedy": [
+      "regular low-impact exercise, weight reduction, heat or cold therapy, joint protection, assistive devices, stretching, rest during flare-ups"
+    ],
+    "avoid": [
+      "repetitive high-impact joint stress, prolonged inactivity, excessive weight gain, poor posture, unsafe overexertion"
+    ],
+    "when_to_see_doctor": "persistent joint pain, swelling, reduced movement, difficulty with daily tasks, worsening symptoms, uncertain diagnosis",
+    "emergency_signs": "sudden inability to bear weight, hot red swollen joint with fever, severe trauma, sudden weakness or numbness, loss of bladder or bowel control",
+    "prevention": [
+      "maintain healthy weight, regular exercise, strengthen muscles, prevent joint injuries, ergonomic movement habits, manage repetitive strain"
+    ],
+    "contagious_period": "none",
+    "special_notes": "no cure currently exists, symptoms often improve with lifestyle measures and medicines, joint replacement surgery may help severe cases, differs from autoimmune arthritis because it is primarily degenerative"
+  },
+  "Rheumatoid Arthritis": {
+    "aliases": [
+      "RA",
+      "chronic inflammatory arthritis",
+      "autoimmune rheumatoid disease"
+    ],
+    "description": "chronic autoimmune inflammatory disorder that primarily attacks joint linings, causing pain, swelling, stiffness, progressive joint damage, deformity, and possible systemic organ involvement",
+    "cause": "autoimmune reaction where the immune system attacks synovium, influenced by genetics, hormones, smoking, environmental triggers",
+    "transmission": "none",
+    "risk_groups": "women, middle-aged adults, smokers, family history, genetically predisposed individuals, people with autoimmune susceptibility",
+    "incubation_period": "none",
+    "symptoms": [
+      "symmetrical joint pain, swelling, warmth, tenderness, especially hands, wrists, feet",
+      "prolonged morning stiffness, difficulty moving joints, reduced grip strength",
+      "redness around joints, decreased range of motion",
+      "fatigue, low energy, fever, sweating, poor appetite, weight loss",
+      "rheumatoid nodules under skin near pressure points or joints",
+      "progressive deformity, weakness, impaired walking or hand use in advanced disease"
+    ],
+    "progression": [
+      "immune system inflames synovial lining of joints",
+      "persistent swelling, pain, stiffness, intermittent flares develop",
+      "cartilage, bone, tendons, ligaments become damaged",
+      "deformity, disability, extra-articular complications may occur if uncontrolled"
+    ],
+    "common_locations": "hands, wrists, fingers, feet, ankles, knees, elbows, shoulders, neck, other joints",
+    "duration": "chronic lifelong condition with relapsing and remitting flares",
+    "severity": "moderate_to_severe",
+    "complications": [
+      "joint destruction, deformity, carpal tunnel syndrome, lung inflammation, heart inflammation, cardiovascular disease, stroke, osteoporosis, depression, disability"
+    ],
+    "home_remedy": [
+      "regular gentle exercise, joint protection, balanced rest and activity, heat therapy, stress management, healthy diet, smoking cessation"
+    ],
+    "avoid": [
+      "smoking, untreated inflammation, prolonged inactivity, excessive joint strain, stopping prescribed medicines without advice"
+    ],
+    "when_to_see_doctor": "persistent joint pain or swelling, morning stiffness over several weeks, reduced function, flare symptoms, medication side effects, unexplained fatigue or weight loss",
+    "emergency_signs": "chest pain, severe shortness of breath, sudden neurological symptoms, inability to move joint after rapid swelling, high fever with severe flare, loss of bladder or bowel control",
+    "prevention": [
+      "no guaranteed prevention, avoid smoking, maintain healthy weight, early diagnosis, prompt treatment, regular monitoring"
+    ],
+    "contagious_period": "none",
+    "special_notes": "early treatment with DMARDs or biologics can slow damage significantly, symptoms often fluctuate with flares and remissions, pregnancy planning is important because some medicines are unsafe in pregnancy"
+  },
+  "Low Back Pain": {
+    "aliases": [
+      "back pain",
+      "lumbar pain",
+      "lumbago",
+      "backache",
+      "lumbar strain"
+    ],
+    "description": "common symptom involving pain or discomfort in the lower back, usually mechanical and self-limiting, but occasionally caused by nerve compression, injury, infection, cancer, or serious spinal disorders",
+    "cause": "muscle strain, ligament sprain, disc degeneration, herniated disc, poor movement patterns, prolonged sitting, awkward lifting, overuse, arthritis, spinal stenosis, trauma, less commonly infection or tumor",
+    "transmission": "none",
+    "risk_groups": "adults of all ages, sedentary individuals, heavy manual workers, obesity, poor conditioning, older adults, prior back problems, repetitive lifting occupations",
+    "incubation_period": "none",
+    "symptoms": [
+      "aching, stiffness, soreness, muscle spasm in lower back",
+      "sharp, burning, stabbing, shooting pain in back or buttock",
+      "pain radiating into one or both legs, sciatica",
+      "pins and needles, numbness, weakness from nerve irritation",
+      "pain worse with bending, lifting, prolonged sitting, certain movements",
+      "reduced mobility, difficulty standing upright, trouble walking or getting out of bed",
+      "severe constant night pain, unexplained weight loss, fever, bladder or bowel changes may indicate serious cause"
+    ],
+    "progression": [
+      "sudden or gradual onset of lumbar pain occurs",
+      "stiffness and movement limitation develop during acute phase",
+      "most mechanical cases improve within days to weeks with activity and self-care",
+      "some cases become chronic, recurrent, or reveal underlying structural disease"
+    ],
+    "common_locations": "lower back, lumbar spine, buttocks, hips, back of thigh, legs, feet when nerve-related",
+    "duration": "acute days to 6 weeks, subacute 6-12 weeks, chronic over 12 weeks",
+    "severity": "mild_to_severe",
+    "complications": [
+      "chronic pain, reduced mobility, work disability, depression, sleep disturbance, falls risk, persistent sciatica, cauda equina syndrome, neurological deficits"
+    ],
+    "home_remedy": [
+      "stay active, gentle walking, gradual exercises, heat or ice packs, posture changes, short-term pain relief medicines if appropriate, avoid prolonged bed rest"
+    ],
+    "avoid": [
+      "prolonged inactivity, excessive bed rest, awkward heavy lifting, repeated painful twisting, fear-based immobilization, unnecessary early imaging without warning signs"
+    ],
+    "when_to_see_doctor": "pain lasting over 6 weeks, worsening pain, leg weakness, numbness, night pain, pain not affected by movement, history of cancer, fever, significant trauma",
+    "emergency_signs": "loss of bladder or bowel control, urinary retention, saddle numbness, rapidly worsening leg weakness, inability to walk, severe trauma, fever with severe back pain",
+    "prevention": [
+      "regular exercise, core and back strengthening, healthy weight, ergonomic lifting, frequent movement breaks, maintain flexibility, stop smoking"
+    ],
+    "contagious_period": "none",
+    "special_notes": "most cases do not need early X-ray or MRI, imaging is usually reserved for red flags or persistent symptoms, MRI may show age-related changes that are not the true pain source"
+  },
+  "Fibromyalgia": {
+    "aliases": [
+      "fibromyalgia syndrome",
+      "FMS",
+      "chronic widespread pain syndrome"
+    ],
+    "description": "chronic pain syndrome characterized by widespread musculoskeletal pain, heightened pain sensitivity, fatigue, sleep disturbance, and cognitive symptoms without ongoing tissue damage",
+    "cause": "exact cause unknown, abnormal central pain processing, nervous system sensitization, genetic predisposition, stress-related and environmental triggers",
+    "transmission": "none",
+    "risk_groups": "women, adults aged 35-60, family history, people with anxiety or depression, chronic stress exposure, obesity, rheumatoid arthritis, lupus, trauma history",
+    "incubation_period": "none",
+    "symptoms": [
+      "widespread body pain described as aching, burning, stabbing, or mixed pain",
+      "increased sensitivity to touch, light, temperature, noise, odors, or medicines",
+      "tender points in neck, shoulders, elbows, hips, knees, back of head",
+      "fatigue despite adequate sleep, low energy, poor stamina",
+      "sleep disturbance, unrefreshing sleep, insomnia",
+      "muscle stiffness, spasms, pain that moves around body",
+      "numbness, tingling, pins and needles in hands or feet",
+      "headaches, migraines, jaw pain",
+      "memory or concentration problems, fibro fog",
+      "dizziness, balance issues, irritable bowel syndrome, restless legs syndrome",
+      "anxiety, depression, painful menstrual periods"
+    ],
+    "progression": [
+      "widespread pain and fatigue gradually or suddenly begin",
+      "symptoms fluctuate with stress, weather, activity, sleep quality, illness",
+      "recurrent flares and remissions occur over time",
+      "chronic symptoms may persist but can improve with management"
+    ],
+    "common_locations": "widespread muscles and soft tissues, neck, shoulders, back, hips, knees, elbows, head, jaw",
+    "duration": "chronic long-term condition, often months to years",
+    "severity": "mild_to_severe",
+    "complications": [
+      "reduced quality of life, sleep disorders, depression, anxiety, reduced work capacity, deconditioning, chronic fatigue, cognitive impairment"
+    ],
+    "home_remedy": [
+      "regular gentle exercise, pacing activities, sleep hygiene, stress reduction, relaxation techniques, heat therapy, balanced routine, self-management strategies"
+    ],
+    "avoid": [
+      "overexertion, prolonged inactivity, unmanaged stress, irregular sleep patterns, expecting complete bed rest to help, abrupt activity spikes"
+    ],
+    "when_to_see_doctor": "widespread pain over 3 months, persistent fatigue, poor sleep, memory issues, symptoms affecting daily life, uncertain diagnosis",
+    "emergency_signs": "severe suicidal thoughts, chest pain, sudden neurological deficits, high fever, rapidly worsening unexplained symptoms suggesting another condition",
+    "prevention": [
+      "no proven prevention, regular exercise, stress management, healthy sleep habits, healthy weight, early treatment of associated mood disorders"
+    ],
+    "contagious_period": "none",
+    "special_notes": "fibromyalgia does not damage muscles or organs and is not life-threatening, diagnosis is clinical after excluding other causes, pain medicines alone are often less effective than combined lifestyle and multidisciplinary treatment"
+  },
+  "Tendinitis": {
+    "aliases": [
+      "tendonitis",
+      "tendinopathy",
+      "tendon inflammation"
+    ],
+    "description": "painful inflammatory or degenerative condition affecting tendons around joints, commonly caused by overuse, injury, or repetitive motion",
+    "cause": "repetitive strain, sudden injury, overuse, poor biomechanics, sports activity, occupational stress, aging changes",
+    "transmission": "none",
+    "risk_groups": "athletes, manual workers, repetitive motion workers, older adults, people with poor posture, prior joint injury",
+    "incubation_period": "none",
+    "symptoms": [
+      "localized pain near a joint or tendon",
+      "tenderness to touch over tendon",
+      "pain worsened by movement or resistance",
+      "swelling, stiffness, reduced range of motion",
+      "weakness or difficulty using affected limb",
+      "sudden severe pain or popping may suggest tendon rupture"
+    ],
+    "progression": [
+      "overuse or injury irritates tendon",
+      "inflammation and pain develop with activity",
+      "persistent irritation causes weakness, stiffness, recurring pain",
+      "chronic degeneration or rupture may occur if untreated"
+    ],
+    "common_locations": "shoulder, wrist, elbow, neck, hip, knee, ankle, heel, Achilles tendon",
+    "duration": "acute days to weeks, chronic cases may last months",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "chronic pain, reduced mobility, tendon rupture, recurrent inflammation, joint stiffness, weakness, work limitation"
+    ],
+    "home_remedy": [
+      "rest, ice, compression, elevation, temporary activity reduction, gentle stretching after acute pain improves, ergonomic changes"
+    ],
+    "avoid": [
+      "repetitive painful motions, returning to activity too quickly, ignoring worsening symptoms"
+    ],
+    "when_to_see_doctor": "pain lasting more than a few weeks, recurrent swelling, reduced movement, weakness, suspected infection, uncertain diagnosis",
+    "emergency_signs": "fever with red hot swollen joint, inability to move limb, sudden tendon snap, severe swelling, rapidly worsening pain",
+    "prevention": [
+      "warm up before exercise, stretch regularly, use proper technique, take rest breaks, vary repetitive tasks, strengthen supporting muscles, maintain healthy weight"
+    ],
+    "contagious_period": "none",
+    "special_notes": "imaging such as X-ray, ultrasound, or MRI is often unnecessary initially unless symptoms persist or recur, corticosteroid injections may provide short-term relief, surgery is uncommon except ruptures or resistant cases"
+  },
+  "Bursitis": {
+    "aliases": [
+      "inflamed bursa",
+      "bursal inflammation",
+      "bursal syndrome"
+    ],
+    "description": "painful inflammation of a bursa, a small fluid-filled sac that cushions bones, tendons, muscles, or skin near joints, commonly caused by overuse or pressure",
+    "cause": "repetitive motion, prolonged pressure on joints, kneeling, leaning on elbows, acute injury, friction, infection, gout, inflammatory arthritis",
+    "transmission": "none",
+    "risk_groups": "athletes, manual workers, people who kneel often, people leaning on elbows, older adults, people with gout, rheumatoid arthritis, diabetes, prior joint injury",
+    "incubation_period": "none",
+    "symptoms": [
+      "localized joint pain",
+      "swelling over affected bursa",
+      "tenderness to touch",
+      "pain worsened by movement or pressure",
+      "warmth or redness over area",
+      "stiffness or reduced movement",
+      "pain while resting on affected side or surface",
+      "fever or marked redness may suggest infection"
+    ],
+    "progression": [
+      "repeated stress or injury irritates the bursa",
+      "fluid accumulation and inflammation develop",
+      "pain and swelling limit joint use",
+      "chronic thickening, recurrence, or infection may occur if untreated"
+    ],
+    "common_locations": "knee, elbow, shoulder, hip, heel, ankle",
+    "duration": "acute days to weeks, chronic or recurrent cases may last months",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "chronic pain, reduced mobility, recurrent bursitis, infection, surrounding tendon irritation, functional limitation"
+    ],
+    "home_remedy": [
+      "rest, ice, avoid pressure on joint, compression if appropriate, elevation, gradual return to activity, padding of affected area"
+    ],
+    "avoid": [
+      "kneeling on hard surfaces, leaning on elbows, repetitive painful movements, continuing aggravating activity"
+    ],
+    "when_to_see_doctor": "persistent swelling, severe pain, recurrent episodes, reduced movement, suspected infection, symptoms not improving with rest",
+    "emergency_signs": "fever, rapidly increasing redness, severe swelling, inability to move joint, severe pain, spreading infection signs",
+    "prevention": [
+      "use knee or elbow pads, take movement breaks, proper technique during activity, avoid prolonged pressure, strengthen supporting muscles, manage gout or arthritis"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis is often clinical, fluid aspiration may be used to rule out infection or crystals, steroid injection or surgery may be considered for persistent cases"
+  },
+  "Carpal Tunnel Syndrome": {
+    "aliases": [
+      "CTS",
+      "median nerve compression"
+    ],
+    "description": "common nerve compression disorder caused by pressure on the median nerve within the wrist carpal tunnel, leading to pain, numbness, tingling, weakness, and reduced hand function",
+    "cause": "compression of the median nerve in the carpal tunnel due to swelling of tendons, inflammation, repetitive strain, wrist anatomy changes, pregnancy, hormonal changes, or associated medical conditions",
+    "transmission": "none",
+    "risk_groups": "women, middle-aged or older adults, pregnancy, overweight individuals, repetitive hand workers, diabetes, rheumatoid arthritis, hypothyroidism, menopause, prior wrist fracture",
+    "incubation_period": "none",
+    "symptoms": [
+      "numbness, tingling, burning in thumb, index, middle, and part of ring finger",
+      "wrist or hand pain, often worse at night or early morning",
+      "weakness, clumsiness, dropping objects, reduced grip strength",
+      "difficulty with buttoning clothes, holding phone, book, or steering wheel",
+      "shaking hand for relief, sensation of swelling without visible swelling",
+      "severe cases may show thumb muscle wasting and persistent numbness"
+    ],
+    "progression": [
+      "intermittent numbness or tingling develops, especially at night",
+      "symptoms increase with gripping, bending wrist, or repetitive hand use",
+      "persistent pain, sensory loss, and hand weakness occur",
+      "untreated severe cases may cause muscle wasting and functional impairment"
+    ],
+    "common_locations": "wrist carpal tunnel, palm side of hand, thumb, index finger, middle finger, radial half of ring finger",
+    "duration": "variable, weeks to years depending on cause and treatment",
+    "severity": "mild_to_moderate",
+    "complications": [
+      "chronic pain, persistent numbness, grip weakness, thenar muscle wasting, reduced dexterity, permanent nerve damage if prolonged"
+    ],
+    "home_remedy": [
+      "nighttime wrist splinting, activity modification, ergonomic changes, rest breaks, wrist positioning neutral, gentle hand exercises"
+    ],
+    "avoid": [
+      "prolonged wrist bending, repetitive squeezing or gripping, delaying treatment when weakness develops, constant splint use without guidance"
+    ],
+    "when_to_see_doctor": "symptoms lasting more than several weeks, worsening numbness, weakness, dropping objects, sleep disruption, reduced hand function, uncertain diagnosis",
+    "emergency_signs": "sudden severe hand weakness, rapidly worsening numbness, loss of hand function, signs of trauma with deformity, severe swelling or infection",
+    "prevention": [
+      "ergonomic workplace setup, regular breaks from repetitive tasks, neutral wrist posture, weight management, diabetes control, treatment of thyroid or inflammatory disease"
+    ],
+    "contagious_period": "none",
+    "special_notes": "diagnosis is mainly clinical and may use Phalen test, Tinel sign, nerve conduction studies, ultrasound, or MRI, pregnancy-related cases often improve after delivery, surgery may be needed when conservative treatment fails"
+  }
+}

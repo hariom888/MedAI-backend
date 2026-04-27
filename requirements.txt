@@ -1,0 +1,49 @@
+# ══════════════════════════════════════════════════════════════════
+# Medical Disease Prediction Pipeline — Python Requirements
+# Python >= 3.10 required  |  Python 3.12 recommended
+#
+# Install:  pip install -r requirements.txt
+# ══════════════════════════════════════════════════════════════════
+
+# ── Core data science ─────────────────────────────────────────────
+numpy>=1.26,<3.0
+pandas>=2.1,<4.0
+scipy>=1.11
+
+# ── Machine learning ──────────────────────────────────────────────
+scikit-learn>=1.4
+xgboost>=2.0                  # XGBoost classifier + hist tree method
+shap>=0.45                    # SHAP explainability plots
+
+# ── Visualisation ─────────────────────────────────────────────────
+matplotlib>=3.8
+seaborn>=0.13
+
+# ── Document parsing (medical_pipeline.py reads .docx) ────────────
+python-docx>=1.1              # .docx parsing
+openpyxl>=3.1                 # xlsx support (optional but safe to include)
+
+# ── Utilities ─────────────────────────────────────────────────────
+tqdm>=4.66                    # progress bars
+joblib>=1.3                   # parallel processing (used by sklearn internally)
+
+# ── Optional but recommended ──────────────────────────────────────
+# lightgbm>=4.3               # uncomment if you want LightGBM comparison
+# optuna>=3.5                 # uncomment for hyperparameter search
+
+# FastAPI RAG backend
+fastapi>=0.111
+uvicorn>=0.30
+groq>=0.9
+cohere>=5.5
+qdrant-client>=1.9
+python-dotenv>=1.0
+python-multipart>=0.0.9
+pydantic>=2.7
+pydantic_settings>=2.2
+requests>=2.31
+nltk>=3.8
+pypdf>=4.2
+huggingface_hub>=0.23
+PyYAML>=6.0
+google_generativeai>=0.8.6

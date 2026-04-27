@@ -1,0 +1,123 @@
+[21:33:13 +   0.0s] ============================================================
+[21:33:13 +   0.0s]   Medical Disease Prediction — XGBoost Training
+[21:33:13 +   0.0s] ============================================================
+[21:33:13 +   0.0s]   Mode      : combined
+[21:33:13 +   0.0s]   Output dir: output
+[21:33:13 +   0.0s]   Seed      : 42
+[21:33:13 +   0.0s] [WARN] Original CSVs not found — falling back to RAG only.
+[21:33:13 +   0.0s] Loading RAG CSV         : xgboost_training_data.csv
+[21:33:16 +   2.7s]   RAG CSV shape         : (19250, 1245)
+[21:33:16 +   2.7s]   Diseases              : 77
+[21:33:16 +   3.0s]   RAG train: (15400, 1245)  |  RAG test: (3850, 1245)
+[21:33:16 +   3.0s] Encoding categorical columns…
+[21:33:16 +   3.0s]   No categorical columns found — skipping OrdinalEncoder.
+[21:33:16 +   3.0s]   Target classes        : 77
+[21:33:16 +   3.2s]   Feature columns       : 1244
+[21:33:16 +   3.2s]   X_train: (15400, 1244)  |  X_test: (3850, 1244)
+[21:33:16 +   3.2s] Model params: {'max_depth': 8, 'learning_rate': 0.05, 'subsample': 0.85, 'colsample_bytree': 0.8, 'n_jobs': -1, 'random_state': 42, 'tree_method': 'hist', 'device': 'cpu', 'num_class': 77, 'objec[21:39:24 + 552.4s]   Best iteration        : 206
+[21:39:24 + 552.8s]   Model saved   [21:41:53 + 519.5s]   Best iteration        : 206
+[21:41:53 + 519.7s]   Model saved           : output\medical_model.xgb
+[21:41:53 + 519.9s] 
+=== Classification Report ===
+[21:41:53 + 519.9s]                                                 precision    recall  f1-score   support
+[21:41:53 + 519.9s] 
+[21:41:53 + 519.9s]                              Addison's Disease      0.887     0.940     0.913        50
+[21:41:53 + 519.9s]                  Alcohol-Related Liver Disease      0.925     0.740     0.822        50
+[21:41:53 + 519.9s]                            Alzheimer's disease      1.000     1.000     1.000        50
+[21:41:53 + 519.9s]                                     Amoebiasis      0.776     0.760     0.768        50
+[21:41:53 + 519.9s]                                         Angina      0.979     0.940     0.959        50
+[21:41:53 + 519.9s]                                     Angioedema      0.882     0.900     0.891        50
+[21:41:53 + 519.9s]                         Ankylosing Spondylitis      0.620     0.620     0.620        50
+[21:41:53 + 519.9s] Anxiety Disorders in Children and Young People      0.826     0.760     0.792        50
+[21:41:53 + 519.9s]                                        Aphasia      0.962     1.000     0.980        50
+[21:41:53 + 519.9s]                                   Appendicitis      0.887     0.940     0.913        50
+[21:41:53 + 519.9s]                                     Asbestosis      0.830     0.780     0.804        50
+[21:41:53 + 519.9s]                                         Asthma      0.776     0.760     0.768        50
+[21:41:53 + 519.9s]                                         Ataxia      0.755     0.800     0.777        50
+[21:41:53 + 519.9s]                                Atherosclerosis      0.780     0.640     0.703        50
+[21:41:53 + 519.9s]                                         Autism      0.953     0.820     0.882        50
+[21:41:53 + 519.9s]                                   Bell's palsy      0.922     0.940     0.931        50
+[21:41:53 + 519.9s]                                    Brucellosis      0.784     0.800     0.792        50
+[21:41:53 + 519.9s]                                       Bursitis      0.584     0.900     0.709        50
+[21:41:53 + 519.9s]                         Carpal Tunnel Syndrome      0.870     0.800     0.833        50
+[21:41:53 + 519.9s]                                 Cerebral palsy      1.000     0.960     0.980        50
+[21:41:53 + 519.9s]                                     Chickenpox      0.667     0.640     0.653        50
+[21:41:53 + 519.9s]                                    Chikungunya      0.905     0.760     0.826        50
+[21:41:53 + 519.9s]                                        Cholera      0.738     0.900     0.811        50
+[21:41:53 + 519.9s]                                   Constipation      0.816     0.800     0.808        50
+[21:41:53 + 519.9s]                             Cushing's Syndrome      0.857     0.720     0.783        50
+[21:41:53 + 519.9s]                                       Dementia      0.959     0.940     0.949        50
+[21:41:53 + 519.9s]                            Diabetic neuropathy      0.962     1.000     0.980        50
+[21:41:53 + 519.9s]                                     Diphtheria      0.906     0.960     0.932        50
+[21:41:53 + 519.9s]                                   Encephalitis      1.000     1.000     1.000        50
+[21:41:53 + 519.9s]                                   Fibromyalgia      1.000     1.000     1.000        50
+[21:41:53 + 519.9s]                                     Gallstones      0.833     0.700     0.761        50
+[21:41:53 + 519.9s]                                         Goiter      0.824     0.840     0.832        50
+[21:41:53 + 519.9s]                        Hand-Foot-Mouth Disease      0.911     0.820     0.863        50
+[21:41:53 + 519.9s]                           Hantavirus Infection      0.809     0.760     0.784        50
+[21:41:53 + 519.9s]                                   Heart Attack      0.882     0.900     0.891        50
+[21:41:53 + 519.9s]                                    Hemorrhoids      0.639     0.780     0.703        50
+[21:41:53 + 519.9s]                                    Hepatitis A      0.884     0.760     0.817        50
+[21:41:53 + 519.9s]                                    Hepatitis B      0.587     0.740     0.655        50
+[21:41:53 + 519.9s]                                   Hypertension      0.923     0.960     0.941        50
+[21:41:53 + 519.9s]                                Hyperthyroidism      0.941     0.960     0.950        50
+[21:41:53 + 519.9s]                                 Hypothyroidism      0.942     0.980     0.961        50
+[21:41:53 + 519.9s]                                      Influenza      0.870     0.800     0.833        50
+[21:41:53 + 519.9s]                       Irritable Bowel Syndrome      0.857     0.720     0.783        50
+[21:41:53 + 519.9s]                          Japanese Encephalitis      0.961     0.980     0.970        50
+[21:41:53 + 519.9s]                                        Leprosy      0.902     0.920     0.911        50
+[21:41:53 + 519.9s]                                  Low Back Pain      0.940     0.940     0.940        50
+[21:41:53 + 519.9s]                                     Meningitis      1.000     0.980     0.990        50
+[21:41:53 + 519.9s]                                       Migraine      1.000     1.000     1.000        50
+[21:41:53 + 519.9s]                             Multiple sclerosis      0.980     0.960     0.970        50
+[21:41:53 + 519.9s]                                          Mumps      0.522     0.720     0.605        50
+[21:41:53 + 519.9s]                  Obsessive-Compulsive Disorder      0.887     0.940     0.913        50
+[21:41:53 + 519.9s]                                 Osteoarthritis      0.917     0.880     0.898        50
+[21:41:53 + 519.9s]                                 Panic Disorder      0.952     0.800     0.870        50
+[21:41:53 + 519.9s]                            Parkinson's disease      1.000     0.980     0.990        50
+[21:41:53 + 519.9s]                                         Plague      0.955     0.840     0.894        50
+[21:41:53 + 519.9s]                                      Pneumonia      0.896     0.860     0.878        50
+[21:41:53 + 519.9s]                                   Pneumothorax      0.772     0.880     0.822        50
+[21:41:53 + 519.9s]                 Post-Traumatic Stress Disorder      0.755     0.800     0.777        50
+[21:41:53 + 519.9s]                                         Rabies      0.980     0.980     0.980        50
+[21:41:53 + 519.9s]                           Rheumatoid Arthritis      0.935     0.860     0.896        50
+[21:41:53 + 519.9s]                                        Rubella      0.707     0.820     0.759        50
+[21:41:53 + 519.9s]                                  Schizophrenia      0.942     0.980     0.961        50
+[21:41:53 + 519.9s]                                       Sciatica      0.980     0.960     0.970        50
+[21:41:53 + 519.9s]                                   Scrub Typhus      0.705     0.620     0.660        50
+[21:41:53 + 519.9s]                                      Sinusitis      0.695     0.820     0.752        50
+[21:41:53 + 519.9s]                                         Stroke      1.000     0.940     0.969        50
+[21:41:53 + 519.9s]                                     Tendinitis      0.778     0.700     0.737        50
+[21:41:53 + 519.9s]                                        Tetanus      0.906     0.960     0.932        50
+[21:41:53 + 519.9s]                                   Tuberculosis      0.759     0.820     0.788        50
+[21:41:53 + 519.9s]                                Type 1 diabetes      0.889     0.800     0.842        50
+[21:41:53 + 519.9s]                                Type 2 diabetes      0.956     0.860     0.905        50
+[21:41:53 + 519.9s]                                  Typhoid Fever      0.902     0.920     0.911        50
+[21:41:53 + 519.9s]                                 Varicose Veins      0.704     0.760     0.731        50
+[21:41:53 + 519.9s]                  Vitamin B12 Deficiency Anemia      1.000     0.980     0.990        50
+[21:41:53 + 519.9s]                           Vitamin D Deficiency      0.633     0.760     0.691        50
+[21:41:53 + 519.9s]                                 Whooping Cough      0.941     0.960     0.950        50
+[21:41:53 + 519.9s]                           Zika Virus Infection      0.829     0.580     0.682        50
+[21:41:53 + 519.9s] 
+[21:41:53 + 519.9s]                                       accuracy                          0.855      3850
+[21:41:53 + 519.9s]                                      macro avg      0.862     0.855     0.856      3850
+[21:41:53 + 519.9s]                                   weighted avg      0.862     0.855     0.856      3850
+[21:41:53 + 519.9s] 
+  Report saved          : output\classification_report.txt
+[21:41:54 + 521.0s]   Confusion matrix      : output\confusion_matrix.png
+[21:41:54 + 521.4s]   Feature importance    : output\feature_importance.png
+[21:41:55 + 522.2s] Computing SHAP values (this may take 1-2 min on large datasets)…
+[21:42:11 + 538.1s]   SHAP summary          : output\shap_summary.png
+[21:42:11 + 538.1s] 
+============================================================
+[21:42:11 + 538.1s]   TRAINING COMPLETE
+[21:42:11 + 538.1s] ============================================================
+[21:42:11 + 538.1s]   Artifacts in: output/
+[21:42:11 + 538.1s]     medical_model.xgb
+[21:42:11 + 538.1s]     label_encoder.pkl
+[21:42:11 + 538.1s]     ordinal_encoder.pkl  (if categorical cols present)
+[21:42:11 + 538.1s]     classification_report.txt
+[21:42:11 + 538.1s]     confusion_matrix.png
+[21:42:11 + 538.1s]     feature_importance.png
+[21:42:11 + 538.1s]     shap_summary.png     (unless --no-shap)
+[21:42:11 + 538.1s]     training_log.txt

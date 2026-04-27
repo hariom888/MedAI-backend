@@ -1,0 +1,3089 @@
+[
+  {
+    "disease_name": "Alzheimer's disease",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "chronic lifelong condition with gradual progression over years",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "memory",
+      "confusion",
+      "disorientation",
+      "places",
+      "reading",
+      "writing",
+      "planning",
+      "anxiety",
+      "aggression",
+      "mood",
+      "hallucinations",
+      "delusions"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe confusion, inability to recognize close family, sudden behavioral changes, dehydration, injury from wandering, inability to eat or drink",
+    "risk_groups": "adults over 65, individuals with family history, people with traumatic brain injury, individuals with hearing loss, depression, or mild cognitive impairment",
+    "complications": [
+      "severe cognitive impairment, inability to perform daily activities, infections, malnutrition, dehydration, wandering, injury, caregiver stress"
+    ],
+    "all_symptoms_raw": [
+      "memory loss, especially recent events, repeating questions, forgetting names and conversations",
+      "confusion, disorientation, getting lost in familiar places",
+      "difficulty speaking, reading, writing, planning, and decision-making",
+      "behavioral changes such as anxiety, aggression, low mood, hallucinations, delusions",
+      "difficulty performing daily tasks, poor self-care, reduced mobility in later stages",
+      "progressive cognitive decline leading to complete dependence in advanced stages"
+    ],
+    "symptom_count": 12,
+    "semantic_summary": "Alzheimer's disease is a severe condition with a chronic lifelong condition with gradual progression over years course. Core symptoms include: memory, confusion, disorientation, places, reading, writing, planning, anxiety. Risk groups: a, d, u, l, t. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Alzheimer's disease",
+      "memory",
+      "confusion",
+      "disorientation"
+    ],
+    "created_at": "2026-04-27T16:02:54.311812"
+  },
+  {
+    "disease_name": "Parkinson's disease",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic lifelong condition with gradual progression over years to decades",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fingers",
+      "foot",
+      "jaw",
+      "bradykinesia",
+      "muscle",
+      "rigidity",
+      "stiffness",
+      "painful",
+      "balance",
+      "speech",
+      "movements"
+    ],
+    "secondary_symptoms": [
+      "writing",
+      "depression",
+      "constipation"
+    ],
+    "rare_symptoms": [
+      "memory",
+      "anxiety",
+      "fatigue"
+    ],
+    "emergency_signs": "frequent falls, severe swallowing difficulty, inability to move, confusion, sudden worsening of symptoms",
+    "risk_groups": "adults over 50, males, individuals with family history, people exposed to toxins or pesticides, individuals with prior head injury",
+    "complications": [
+      "dementia, depression, swallowing difficulties, malnutrition, sleep disorders, falls, infections, orthostatic hypotension, bladder problems"
+    ],
+    "all_symptoms_raw": [
+      "tremor at rest, often starting in hands, fingers, foot, or jaw",
+      "bradykinesia (slowed movement), difficulty initiating movement and performing daily tasks",
+      "muscle rigidity, stiffness, reduced arm swing, and painful muscle tension",
+      "balance problems, poor posture, increased risk of falls",
+      "speech changes, soft or slurred speech, monotone voice",
+      "loss of automatic movements such as blinking or smiling",
+      "writing changes, small and cramped handwriting",
+      "non-motor symptoms including depression, anxiety, sleep disturbances, constipation, fatigue, memory problems, loss of smell"
+    ],
+    "symptom_count": 17,
+    "semantic_summary": "Parkinson's disease is a moderate_to_severe condition with a chronic lifelong condition with gradual progression over years to decades course. Core symptoms include: fingers, foot, jaw, bradykinesia, muscle, rigidity, stiffness, painful. Secondary symptoms may include: writing, depression, constipation. Risk groups: a, d, u, l, t. Emergency warning signs: f, r, e, q, u.",
+    "chunk_overlap_keys": [
+      "Parkinson's disease",
+      "fingers",
+      "foot",
+      "jaw"
+    ],
+    "created_at": "2026-04-27T16:02:54.312018"
+  },
+  {
+    "disease_name": "Migraine",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "4 hours to 72 hours per episode, with possible residual symptoms up to several days",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "speech",
+      "fatigue",
+      "headache",
+      "nausea",
+      "vomiting",
+      "light",
+      "sound",
+      "odors",
+      "numbness",
+      "tingling",
+      "dizziness",
+      "concentration",
+      "weakness",
+      "coughing"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden severe worst headache, paralysis or weakness, slurred speech, seizures, high fever with stiff neck, confusion, vision loss",
+    "risk_groups": "women, individuals with family history, people with depression, anxiety, epilepsy, sleep disorders, hormonal fluctuations, and obesity",
+    "complications": [
+      "medication overuse headache, chronic migraine, stroke risk, depression, anxiety, sleep disturbances"
+    ],
+    "all_symptoms_raw": [
+      "throbbing or pulsing headache, usually on one side of the head, sometimes bilateral",
+      "nausea, vomiting, sensitivity to light, sound, and odors",
+      "aura symptoms such as flashing lights, zig-zag lines, numbness, tingling, or speech difficulty",
+      "confusion, dizziness, poor concentration, fatigue, and weakness",
+      "worsening pain with movement, coughing, or physical activity",
+      "post-episode exhaustion, confusion, and weakness lasting hours to a day"
+    ],
+    "symptom_count": 15,
+    "semantic_summary": "Migraine is a moderate_to_severe condition with a 4 hours to 72 hours per episode, with possible residual symptoms up to several days course. Core symptoms include: confusion, speech, fatigue, headache, nausea, vomiting, light, sound. Risk groups: w, o, m, e, n. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Migraine",
+      "confusion",
+      "speech",
+      "fatigue"
+    ],
+    "created_at": "2026-04-27T16:02:54.312063"
+  },
+  {
+    "disease_name": "Aphasia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "varies from temporary (weeks to months) to permanent depending on severity of brain damage",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "reading",
+      "writing",
+      "speech",
+      "frustration"
+    ],
+    "secondary_symptoms": [
+      "depression"
+    ],
+    "rare_symptoms": [
+      "confusion"
+    ],
+    "emergency_signs": "sudden speech loss, confusion, weakness on one side, facial drooping, inability to understand speech (possible stroke signs)",
+    "risk_groups": "stroke patients, elderly individuals, people with brain injury, individuals with neurological disorders affecting left brain hemisphere",
+    "complications": [
+      "depression, social isolation, communication barriers, reduced quality of life, difficulty in daily functioning"
+    ],
+    "all_symptoms_raw": [
+      "difficulty speaking, forming sentences, or producing correct words",
+      "trouble finding words (anomia), fragmented or jumbled speech",
+      "impaired understanding of spoken language",
+      "difficulty reading, writing, or performing calculations",
+      "problems with long or complex words and sentences",
+      "frustration, confusion, and possible depression due to communication difficulties"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Aphasia is a moderate_to_severe condition with a varies from temporary (weeks to months) to permanent depending on severity of brain damage course. Core symptoms include: reading, writing, speech, frustration. Secondary symptoms may include: depression. Risk groups: s, t, r, o, k. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Aphasia",
+      "reading",
+      "writing",
+      "speech"
+    ],
+    "created_at": "2026-04-27T16:02:54.312091"
+  },
+  {
+    "disease_name": "Multiple sclerosis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "lifelong condition with variable progression",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "balance",
+      "fatigue",
+      "numbness",
+      "tingling",
+      "weakness",
+      "vision",
+      "walking"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [
+      "memory"
+    ],
+    "emergency_signs": "sudden vision loss, severe weakness, loss of coordination, inability to walk, severe neurological deterioration",
+    "risk_groups": "women, adults aged 20-40, individuals with family history, people with autoimmune conditions",
+    "complications": [
+      "mobility impairment, vision loss, cognitive decline, speech difficulties, muscle stiffness, disability"
+    ],
+    "all_symptoms_raw": [
+      "visual disturbances such as blurred vision or double vision",
+      "muscle weakness and reduced strength",
+      "coordination and balance problems, difficulty walking",
+      "numbness, tingling, or pins and needles sensations",
+      "fatigue and reduced physical endurance",
+      "cognitive issues including memory and thinking difficulties"
+    ],
+    "symptom_count": 9,
+    "semantic_summary": "Multiple sclerosis is a mild_to_severe condition with a lifelong condition with variable progression course. Core symptoms include: muscle, balance, fatigue, numbness, tingling, weakness, vision, walking. Risk groups: w, o, m, e, n. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Multiple sclerosis",
+      "muscle",
+      "balance",
+      "fatigue"
+    ],
+    "created_at": "2026-04-27T16:02:54.312116"
+  },
+  {
+    "disease_name": "Meningitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "acute condition, typically days to weeks depending on type and treatment",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "stiffness",
+      "headache",
+      "nausea",
+      "vomiting",
+      "light",
+      "vision",
+      "sudden",
+      "fever",
+      "neck",
+      "seizures",
+      "drowsiness",
+      "rash"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [
+      "irritability",
+      "lethargy"
+    ],
+    "emergency_signs": "seizures, unconsciousness, severe confusion, high fever with stiff neck, rash with fever, difficulty breathing, shock",
+    "risk_groups": "infants, children, elderly, immunocompromised individuals, unvaccinated people, people in close living conditions, travelers to endemic regions",
+    "complications": [
+      "brain damage, hearing loss, vision loss, seizures, stroke, kidney failure, shock, cognitive impairment, death"
+    ],
+    "all_symptoms_raw": [
+      "sudden fever, severe headache, nausea, vomiting",
+      "neck stiffness, sensitivity to light (photophobia), double vision",
+      "confusion, altered mental state, difficulty concentrating",
+      "seizures, drowsiness, difficulty waking",
+      "rash in some bacterial types such as meningococcal",
+      "infants: bulging fontanelle, irritability, poor feeding, lethargy"
+    ],
+    "symptom_count": 15,
+    "semantic_summary": "Meningitis is a moderate_to_severe condition with a acute condition, typically days to weeks depending on type and treatment course. Core symptoms include: confusion, stiffness, headache, nausea, vomiting, light, vision, sudden. Risk groups: i, n, f, a, n. Emergency warning signs: s, e, i, z, u.",
+    "chunk_overlap_keys": [
+      "Meningitis",
+      "confusion",
+      "stiffness",
+      "headache"
+    ],
+    "created_at": "2026-04-27T16:02:54.312142"
+  },
+  {
+    "disease_name": "Encephalitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "acute phase lasts 1-2 weeks, recovery may take weeks to months",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "memory",
+      "confusion",
+      "stiffness",
+      "speech",
+      "movements",
+      "fatigue",
+      "headache",
+      "fever",
+      "neck",
+      "seizures",
+      "tremors"
+    ],
+    "secondary_symptoms": [
+      "hallucinations",
+      "vision"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "seizures, loss of consciousness, paralysis, severe confusion, breathing difficulty, sudden vision or speech loss",
+    "risk_groups": "all age groups, immunocompromised individuals, people with HIV, individuals exposed to infected insects, travelers to endemic regions",
+    "complications": [
+      "brain damage, memory loss, seizures, paralysis, speech and vision loss, cognitive impairment, coma, death"
+    ],
+    "all_symptoms_raw": [
+      "fever, headache, fatigue, body aches",
+      "confusion, altered thinking, memory loss, impaired judgment",
+      "seizures, tremors, myoclonic jerks, or abnormal movements",
+      "speech, hearing, or vision problems including double vision or loss",
+      "neck stiffness, sensitivity changes, partial paralysis",
+      "behavioral changes, hallucinations, personality changes",
+      "severe cases: loss of consciousness, coma"
+    ],
+    "symptom_count": 13,
+    "semantic_summary": "Encephalitis is a moderate_to_severe condition with a acute phase lasts 1-2 weeks, recovery may take weeks to months course. Core symptoms include: memory, confusion, stiffness, speech, movements, fatigue, headache, fever. Secondary symptoms may include: hallucinations, vision. Risk groups: a, l, l,  , a. Emergency warning signs: s, e, i, z, u.",
+    "chunk_overlap_keys": [
+      "Encephalitis",
+      "memory",
+      "confusion",
+      "stiffness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312168"
+  },
+  {
+    "disease_name": "Bell's palsy",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "weeks to months, typically resolves within 3-6 months",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "jaw",
+      "sound",
+      "weakness",
+      "sudden"
+    ],
+    "secondary_symptoms": [
+      "headache"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden paralysis with limb weakness, speech difficulty, confusion (possible stroke), inability to close eye leading to injury",
+    "risk_groups": "pregnant women, individuals with diabetes, hypertension, obesity, people with recent viral or respiratory infections, family history of recurrence",
+    "complications": [
+      "permanent facial weakness, synkinesis (involuntary muscle movements), eye dryness, corneal damage, partial or complete vision loss in severe cases"
+    ],
+    "all_symptoms_raw": [
+      "sudden weakness or paralysis on one side of the face developing within hours to days",
+      "facial drooping, difficulty smiling, closing eye, or making expressions",
+      "drooling and difficulty controlling saliva",
+      "pain around jaw or behind ear on affected side",
+      "increased sensitivity to sound (hyperacusis)",
+      "headache and loss of taste",
+      "changes in tear and saliva production"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Bell's palsy is a mild_to_moderate condition with a weeks to months, typically resolves within 3-6 months course. Core symptoms include: jaw, sound, weakness, sudden. Secondary symptoms may include: headache. Risk groups: p, r, e, g, n. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Bell's palsy",
+      "jaw",
+      "sound",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312188"
+  },
+  {
+    "disease_name": "Diabetic neuropathy",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic and progressive condition",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "constipation",
+      "nausea",
+      "numbness",
+      "tingling",
+      "weakness"
+    ],
+    "secondary_symptoms": [
+      "dizziness"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe infections, non-healing wounds, sudden dizziness or fainting, loss of sensation leading to injury",
+    "risk_groups": "individuals with diabetes (type 1 or type 2), long-standing uncontrolled blood sugar, obese individuals, people with high triglycerides",
+    "complications": [
+      "foot ulcers, infections, amputations, gastroparesis, erectile dysfunction, bladder issues, cardiovascular instability, hypoglycemia unawareness"
+    ],
+    "all_symptoms_raw": [
+      "numbness, tingling, burning, or pain in feet and legs, sometimes hands and arms",
+      "reduced sensation leading to unnoticed injuries or ulcers",
+      "muscle weakness and loss of coordination",
+      "digestive problems such as nausea, constipation, or diarrhea",
+      "bladder dysfunction and urinary issues",
+      "sexual dysfunction including erectile problems",
+      "abnormal sweating and temperature regulation",
+      "dizziness due to blood pressure changes"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Diabetic neuropathy is a moderate_to_severe condition with a chronic and progressive condition course. Core symptoms include: muscle, constipation, nausea, numbness, tingling, weakness. Secondary symptoms may include: dizziness. Risk groups: i, n, d, i, v. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Diabetic neuropathy",
+      "muscle",
+      "constipation",
+      "nausea"
+    ],
+    "created_at": "2026-04-27T16:02:54.312212"
+  },
+  {
+    "disease_name": "Sciatica",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "typically resolves within 6-12 weeks, but may persist longer or recur",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "foot",
+      "muscle",
+      "numbness",
+      "tingling",
+      "coughing"
+    ],
+    "secondary_symptoms": [
+      "weakness"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "loss of bowel or bladder control, severe leg weakness, numbness in groin area (cauda equina syndrome), sudden severe pain after trauma",
+    "risk_groups": "adults aged 20-50, individuals with obesity, sedentary lifestyle, diabetes, occupations involving heavy lifting or prolonged sitting",
+    "complications": [
+      "chronic pain, nerve damage, muscle weakness, mobility issues, cauda equina syndrome"
+    ],
+    "all_symptoms_raw": [
+      "lower back pain radiating to buttock, thigh, and leg (usually one side)",
+      "sharp, burning, or electric shock-like pain along nerve pathway",
+      "numbness, tingling, or pins and needles in leg or foot",
+      "muscle weakness in leg or foot",
+      "pain worsened by sitting, coughing, sneezing, or movement",
+      "altered sensations such as hot, cold, or shooting pain"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Sciatica is a mild_to_moderate condition with a typically resolves within 6-12 weeks, but may persist longer or recur course. Core symptoms include: foot, muscle, numbness, tingling, coughing. Secondary symptoms may include: weakness. Risk groups: a, d, u, l, t. Emergency warning signs: l, o, s, s, .",
+    "chunk_overlap_keys": [
+      "Sciatica",
+      "foot",
+      "muscle",
+      "numbness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312235"
+  },
+  {
+    "disease_name": "Cerebral palsy",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "lifelong condition (non-progressive but symptoms may change over time)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "rigidity",
+      "balance",
+      "speech",
+      "fatigue",
+      "vision",
+      "seizures"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "seizures, severe feeding difficulty, breathing problems, sudden worsening of neurological symptoms",
+    "risk_groups": "premature infants, low birth weight babies, multiple births, infants with birth complications, maternal infections, children with early brain injury",
+    "complications": [
+      "joint deformities, muscle contractures, dislocations, chronic pain, communication difficulties, feeding issues, epilepsy"
+    ],
+    "all_symptoms_raw": [
+      "abnormal muscle tone (spasticity, rigidity, or floppiness)",
+      "difficulty with movement, balance, and coordination",
+      "delayed developmental milestones (sitting, crawling, walking)",
+      "speech and communication difficulties",
+      "swallowing and feeding problems",
+      "vision impairments and sensory processing issues",
+      "seizures (epilepsy) and learning disabilities",
+      "fatigue, sleep disturbances, and behavioral problems"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Cerebral palsy is a mild_to_severe condition with a lifelong condition (non-progressive but symptoms may change over time) course. Core symptoms include: muscle, rigidity, balance, speech, fatigue, vision, seizures. Risk groups: p, r, e, m, a. Emergency warning signs: s, e, i, z, u.",
+    "chunk_overlap_keys": [
+      "Cerebral palsy",
+      "muscle",
+      "rigidity",
+      "balance"
+    ],
+    "created_at": "2026-04-27T16:02:54.312255"
+  },
+  {
+    "disease_name": "Dementia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic and progressive condition",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "memory",
+      "places",
+      "mood"
+    ],
+    "secondary_symptoms": [
+      "disorientation",
+      "anxiety",
+      "depression",
+      "irritability"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden confusion, severe behavioral changes, inability to recognize people, possible stroke-like symptoms",
+    "risk_groups": "older adults, individuals with family history, people with brain injury, stroke, or neurological diseases",
+    "complications": [
+      "inability to perform daily activities, behavioral disturbances, depression, caregiver burden, increased risk of injury"
+    ],
+    "all_symptoms_raw": [
+      "memory loss, especially recent events, forgetting tasks or conversations",
+      "difficulty performing familiar tasks such as dressing or cooking",
+      "language problems, forgetting words or using incorrect words",
+      "disorientation in time and place, getting lost easily",
+      "poor judgment and difficulty with abstract thinking",
+      "misplacing objects in unusual places",
+      "personality and mood changes such as depression, irritability, or anxiety",
+      "loss of initiative, reduced interest in activities"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Dementia is a moderate_to_severe condition with a chronic and progressive condition course. Core symptoms include: memory, places, mood. Secondary symptoms may include: disorientation, anxiety, depression, irritability. Risk groups: o, l, d, e, r. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Dementia",
+      "memory",
+      "places",
+      "mood"
+    ],
+    "created_at": "2026-04-27T16:02:54.312278"
+  },
+  {
+    "disease_name": "Type 1 diabetes",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "lifelong condition",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "nausea",
+      "weakness",
+      "vision"
+    ],
+    "secondary_symptoms": [
+      "vomiting"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "diabetic ketoacidosis symptoms (vomiting, abdominal pain, rapid breathing, confusion), severe hypoglycemia, loss of consciousness",
+    "risk_groups": "children and young adults, individuals with family history, people with genetic predisposition, individuals with certain environmental triggers",
+    "complications": [
+      "diabetic ketoacidosis, hypoglycemia, nerve damage, kidney disease, cardiovascular disease, vision loss, infections"
+    ],
+    "all_symptoms_raw": [
+      "frequent urination (polyuria)",
+      "excessive thirst (polydipsia)",
+      "increased hunger despite eating (polyphagia)",
+      "unexplained weight loss",
+      "fatigue and weakness",
+      "blurred vision",
+      "slow-healing sores and frequent infections",
+      "symptoms of diabetic ketoacidosis such as nausea, vomiting, abdominal pain, fruity breath, and difficulty breathing"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Type 1 diabetes is a severe condition with a lifelong condition course. Core symptoms include: fatigue, nausea, weakness, vision. Secondary symptoms may include: vomiting. Risk groups: c, h, i, l, d. Emergency warning signs: d, i, a, b, e.",
+    "chunk_overlap_keys": [
+      "Type 1 diabetes",
+      "fatigue",
+      "nausea",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312298"
+  },
+  {
+    "disease_name": "Type 2 diabetes",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "lifelong condition",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "numbness",
+      "weakness",
+      "vision"
+    ],
+    "secondary_symptoms": [
+      "tingling"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe hyperglycemia, confusion, dehydration, hypoglycemia (if on medication), loss of consciousness",
+    "risk_groups": "overweight or obese individuals, sedentary lifestyle, adults over 35, people with family history, certain ethnic groups, individuals with prediabetes or gestational diabetes",
+    "complications": [
+      "cardiovascular disease, stroke, neuropathy, kidney disease, retinopathy, infections, amputations, cognitive decline"
+    ],
+    "all_symptoms_raw": [
+      "increased thirst (polydipsia)",
+      "frequent urination (polyuria), especially at night",
+      "increased hunger (polyphagia)",
+      "fatigue and weakness",
+      "blurred vision",
+      "slow-healing wounds or sores",
+      "frequent infections (skin, urinary, fungal)",
+      "numbness or tingling in hands and feet",
+      "darkened skin patches (acanthosis nigricans)"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Type 2 diabetes is a moderate_to_severe condition with a lifelong condition course. Core symptoms include: fatigue, numbness, weakness, vision. Secondary symptoms may include: tingling. Risk groups: o, v, e, r, w. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Type 2 diabetes",
+      "fatigue",
+      "numbness",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312321"
+  },
+  {
+    "disease_name": "Hypothyroidism",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "lifelong (chronic condition requiring long-term management)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "mood",
+      "muscle",
+      "depression",
+      "constipation",
+      "fatigue",
+      "lethargy"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [
+      "memory"
+    ],
+    "emergency_signs": "extreme drowsiness, confusion, hypothermia, slow breathing, or unconsciousness (possible myxedema coma)",
+    "risk_groups": "women, individuals over 60 years, people with family history of thyroid disease, postpartum women, patients with autoimmune diseases, individuals with prior thyroid surgery or radiation exposure",
+    "complications": [
+      "high cholesterol, cardiovascular disease, infertility, depression, peripheral neuropathy, goiter, and severe cases such as myxedema coma"
+    ],
+    "all_symptoms_raw": [
+      "fatigue and lethargy",
+      "unexplained weight gain",
+      "intolerance to cold temperatures",
+      "dry skin and thinning hair",
+      "joint and muscle pain",
+      "slow heart rate (bradycardia)",
+      "depression or low mood",
+      "heavy or irregular menstrual cycles",
+      "infertility issues",
+      "constipation",
+      "slowed thinking or memory problems"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Hypothyroidism is a mild_to_severe condition with a lifelong (chronic condition requiring long-term management) course. Core symptoms include: mood, muscle, depression, constipation, fatigue, lethargy. Risk groups: w, o, m, e, n. Emergency warning signs: e, x, t, r, e.",
+    "chunk_overlap_keys": [
+      "Hypothyroidism",
+      "mood",
+      "muscle",
+      "depression"
+    ],
+    "created_at": "2026-04-27T16:02:54.312343"
+  },
+  {
+    "disease_name": "Hyperthyroidism",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "variable; may be temporary or chronic",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "anxiety",
+      "muscle",
+      "fatigue",
+      "weakness",
+      "irritability",
+      "tremors"
+    ],
+    "secondary_symptoms": [
+      "movements"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "high fever, severe tachycardia, confusion, delirium (possible thyroid storm)",
+    "risk_groups": "women, individuals under 40 or over 60, people with family history of thyroid disease, patients with autoimmune conditions, individuals consuming excess iodine",
+    "complications": [
+      "atrial fibrillation, heart failure, osteoporosis, infertility, eye complications, and thyroid storm"
+    ],
+    "all_symptoms_raw": [
+      "unexplained weight loss despite normal or increased appetite",
+      "rapid or irregular heartbeat (palpitations)",
+      "nervousness, anxiety, irritability",
+      "tremors (shaking hands or fingers)",
+      "increased sweating and heat intolerance",
+      "fatigue and muscle weakness",
+      "difficulty sleeping (insomnia)",
+      "changes in menstrual cycles (lighter or irregular periods)",
+      "frequent bowel movements",
+      "enlarged thyroid gland (goiter)",
+      "eye symptoms (bulging eyes, dryness, double vision) in Graves' disease"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Hyperthyroidism is a mild_to_severe condition with a variable; may be temporary or chronic course. Core symptoms include: anxiety, muscle, fatigue, weakness, irritability, tremors. Secondary symptoms may include: movements. Risk groups: w, o, m, e, n. Emergency warning signs: h, i, g, h, .",
+    "chunk_overlap_keys": [
+      "Hyperthyroidism",
+      "anxiety",
+      "muscle",
+      "fatigue"
+    ],
+    "created_at": "2026-04-27T16:02:54.312363"
+  },
+  {
+    "disease_name": "Goiter",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "variable; may be temporary or chronic",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "neck"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathing difficulty or rapid swelling",
+    "risk_groups": "women, people over 40 years, individuals with iodine deficiency, those with family history of thyroid disease, patients with autoimmune conditions",
+    "complications": [
+      "airway obstruction, swallowing difficulty, thyroid dysfunction, nodules, rarely malignancy"
+    ],
+    "all_symptoms_raw": [
+      "swelling at the front of the neck",
+      "tightness in throat",
+      "difficulty swallowing or breathing (large goiter)",
+      "hoarseness",
+      "cough",
+      "symptoms of hypothyroidism or hyperthyroidism depending on cause"
+    ],
+    "symptom_count": 1,
+    "semantic_summary": "Goiter is a mild_to_severe condition with a variable; may be temporary or chronic course. Core symptoms include: neck. Risk groups: w, o, m, e, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Goiter",
+      "neck"
+    ],
+    "created_at": "2026-04-27T16:02:54.312380"
+  },
+  {
+    "disease_name": "Cushing's Syndrome",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic (until treated)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "mood",
+      "muscle",
+      "fatigue",
+      "weakness"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe infection, breathing difficulty, chest pain, or signs of stroke",
+    "risk_groups": "adults aged 30-50, women (higher prevalence), individuals using long-term corticosteroids, people with conditions like Type 2 diabetes or high blood pressure",
+    "complications": [
+      "heart attack and stroke, blood clots, infections, osteoporosis and fractures, hypertension, insulin resistance and Type 2 diabetes, depression and cognitive issues"
+    ],
+    "all_symptoms_raw": [
+      "weight gain (especially around abdomen, face, and upper back)",
+      "moon face (round face)",
+      "fat accumulation between shoulders (buffalo hump)",
+      "thin arms and legs",
+      "easy bruising",
+      "purple stretch marks (abdomen, thighs, breasts)",
+      "muscle weakness",
+      "fatigue",
+      "high blood pressure",
+      "high blood sugar",
+      "mood changes (depression, anxiety)",
+      "irregular menstrual cycles (in women)",
+      "decreased libido or fertility issues"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Cushing's Syndrome is a moderate_to_severe condition with a chronic (until treated) course. Core symptoms include: mood, muscle, fatigue, weakness. Risk groups: a, d, u, l, t. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Cushing's Syndrome",
+      "mood",
+      "muscle",
+      "fatigue"
+    ],
+    "created_at": "2026-04-27T16:02:54.312401"
+  },
+  {
+    "disease_name": "Vitamin D Deficiency",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic (until corrected)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "fatigue",
+      "weakness"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe bone weakness leading to fractures, symptoms of vitamin D toxicity (nausea, confusion, irregular heartbeat)",
+    "risk_groups": "infants (especially breastfed without supplementation), older adults, people with dark skin, individuals with limited sun exposure, people with obesity, patients with chronic kidney or liver disease, individuals with gastrointestinal disorders affecting absorption",
+    "complications": [
+      "Osteoporosis, fractures, Rickets (in children), Osteomalacia (in adults)"
+    ],
+    "all_symptoms_raw": [
+      "often mild or no early symptoms",
+      "fatigue",
+      "bone pain",
+      "muscle weakness",
+      "frequent fractures",
+      "delayed growth or bone deformities in children"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Vitamin D Deficiency is a mild_to_severe condition with a chronic (until corrected) course. Core symptoms include: muscle, fatigue, weakness. Risk groups: i, n, f, a, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Vitamin D Deficiency",
+      "muscle",
+      "fatigue",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312418"
+  },
+  {
+    "disease_name": "Vitamin B12 Deficiency Anemia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic if untreated",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "memory",
+      "confusion",
+      "fatigue",
+      "numbness",
+      "tingling",
+      "dizziness",
+      "weakness",
+      "walking",
+      "irritability"
+    ],
+    "secondary_symptoms": [
+      "depression",
+      "vision"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe neurological symptoms (loss of coordination, confusion), extreme weakness or breathlessness",
+    "risk_groups": "older adults, vegetarians and vegans, people with autoimmune diseases, individuals with gastrointestinal disorders, patients with history of stomach or intestinal surgery, people with chronic alcohol use",
+    "complications": [
+      "neurological damage (may be permanent), cognitive decline or dementia-like symptoms, infertility, increased risk of infections and bleeding, developmental issues in infants, increased risk of stomach cancer (with pernicious anemia)"
+    ],
+    "all_symptoms_raw": [
+      "fatigue, weakness",
+      "pale skin",
+      "shortness of breath",
+      "dizziness, headaches",
+      "tingling or numbness (paresthesia)",
+      "difficulty walking",
+      "confusion, memory loss",
+      "depression or irritability",
+      "vision problems",
+      "diarrhea and weight loss",
+      "glossitis (smooth, red tongue)"
+    ],
+    "symptom_count": 11,
+    "semantic_summary": "Vitamin B12 Deficiency Anemia is a moderate_to_severe condition with a chronic if untreated course. Core symptoms include: memory, confusion, fatigue, numbness, tingling, dizziness, weakness, walking. Secondary symptoms may include: depression, vision. Risk groups: o, l, d, e, r. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Vitamin B12 Deficiency Anemia",
+      "memory",
+      "confusion",
+      "fatigue"
+    ],
+    "created_at": "2026-04-27T16:02:54.312440"
+  },
+  {
+    "disease_name": "Irritable Bowel Syndrome",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "lifelong condition; symptoms fluctuate over time",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "constipation",
+      "fatigue",
+      "nausea"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "unexplained weight loss, blood in stool, persistent vomiting, symptoms starting after age 50",
+    "risk_groups": "young adults (especially under 50), women (more commonly affected), people with stress, anxiety, or depression, individuals with family history of IBS",
+    "complications": [
+      "reduced quality of life, anxiety and depression, social and lifestyle limitations, does not cause cancer or permanent bowel damage"
+    ],
+    "all_symptoms_raw": [
+      "abdominal pain or cramping (often relieved after bowel movement)",
+      "diarrhoea, constipation, or both (alternating)",
+      "bloating and abdominal swelling",
+      "excess gas (flatulence)",
+      "urgency to pass stool",
+      "fatigue (less common)",
+      "nausea (less common)",
+      "heartburn (less common)"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Irritable Bowel Syndrome is a mild_to_moderate condition with a lifelong condition; symptoms fluctuate over time course. Core symptoms include: constipation, fatigue, nausea. Risk groups: y, o, u, n, g. Emergency warning signs: u, n, e, x, p.",
+    "chunk_overlap_keys": [
+      "Irritable Bowel Syndrome",
+      "constipation",
+      "fatigue",
+      "nausea"
+    ],
+    "created_at": "2026-04-27T16:02:54.312458"
+  },
+  {
+    "disease_name": "Gallstones",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic condition; symptoms occur in episodes (flares)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "nausea",
+      "sudden"
+    ],
+    "secondary_symptoms": [
+      "vomiting"
+    ],
+    "rare_symptoms": [
+      "fever"
+    ],
+    "emergency_signs": "severe abdominal pain that doesn't go away, fever with chills, yellowing of skin or eyes, persistent vomiting",
+    "risk_groups": "women (especially after pregnancy), people over 40 years, overweight or obese individuals, people with diabetes, those with family history of gallstones, individuals on estrogen therapy",
+    "complications": [
+      "Cholecystitis, bile duct blockage, Pancreatitis, jaundice, rare: gallbladder cancer"
+    ],
+    "all_symptoms_raw": [
+      "many people are asymptomatic",
+      "sudden severe pain in upper right abdomen (biliary colic)",
+      "pain lasting 1-5 hours",
+      "pain radiating to back or right shoulder",
+      "nausea and vomiting",
+      "persistent abdominal pain (complication symptom)",
+      "fever (complication symptom)",
+      "jaundice (complication symptom)"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Gallstones is a mild_to_severe condition with a chronic condition; symptoms occur in episodes (flares) course. Core symptoms include: nausea, sudden. Secondary symptoms may include: vomiting. Risk groups: w, o, m, e, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Gallstones",
+      "nausea",
+      "sudden"
+    ],
+    "created_at": "2026-04-27T16:02:54.312475"
+  },
+  {
+    "disease_name": "Appendicitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "acute condition (progresses quickly over hours to days)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "nausea",
+      "vomiting",
+      "coughing",
+      "walking"
+    ],
+    "secondary_symptoms": [
+      "constipation",
+      "fever"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden severe pain spreading across abdomen, high fever, persistent vomiting, inability to move due to pain",
+    "risk_groups": "most common in ages 10-30, slightly more common in males, can occur at any age",
+    "complications": [
+      "rupture (burst appendix), Peritonitis, abscess formation (pus collection), widespread infection (sepsis)"
+    ],
+    "all_symptoms_raw": [
+      "pain around the belly button (early symptom)",
+      "mild cramp-like pain (early symptom)",
+      "sharp pain in lower right abdomen (later classic sign)",
+      "pain worsening with movement, coughing, or walking",
+      "nausea and vomiting",
+      "loss of appetite",
+      "low-grade fever",
+      "constipation or diarrhea"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Appendicitis is a severe condition with a acute condition (progresses quickly over hours to days) course. Core symptoms include: nausea, vomiting, coughing, walking. Secondary symptoms may include: constipation, fever. Risk groups: m, o, s, t,  . Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Appendicitis",
+      "nausea",
+      "vomiting",
+      "coughing"
+    ],
+    "created_at": "2026-04-27T16:02:54.312490"
+  },
+  {
+    "disease_name": "Hemorrhoids",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "mild cases (a few days to weeks); recurrent if risk factors persist",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "movements"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "heavy rectal bleeding, severe pain (possible thrombosed hemorrhoid), signs of anemia (fatigue, dizziness)",
+    "risk_groups": "pregnant women, people with chronic constipation or diarrhea, overweight or obese individuals, people with low-fiber diets, individuals who sit for long periods",
+    "complications": [
+      "thrombosis (painful blood clot), chronic bleeding leading to anemia, prolapse (hemorrhoid protrusion)"
+    ],
+    "all_symptoms_raw": [
+      "bleeding during bowel movements (bright red blood)",
+      "itching or irritation around anus",
+      "pain or discomfort, especially during bowel movements",
+      "swelling or lump near the anus",
+      "internal hemorrhoids: painless bleeding",
+      "external hemorrhoids: pain, itching, swelling",
+      "prolapsed hemorrhoids: lump protruding from anus",
+      "thrombosed hemorrhoids: severe pain due to clot"
+    ],
+    "symptom_count": 1,
+    "semantic_summary": "Hemorrhoids is a mild_to_moderate condition with a mild cases (a few days to weeks); recurrent if risk factors persist course. Core symptoms include: movements. Risk groups: p, r, e, g, n. Emergency warning signs: h, e, a, v, y.",
+    "chunk_overlap_keys": [
+      "Hemorrhoids",
+      "movements"
+    ],
+    "created_at": "2026-04-27T16:02:54.312501"
+  },
+  {
+    "disease_name": "Constipation",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "acute (days to weeks); chronic (3 months or more)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "movements",
+      "nausea"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "black or bloody stools, severe abdominal pain, inability to pass stool or gas (possible obstruction)",
+    "risk_groups": "older adults, women (especially during pregnancy), people with sedentary lifestyles, individuals with low-fiber diets, patients on certain medications, people with mental health conditions",
+    "complications": [
+      "hemorrhoids (swollen veins in anus), anal fissures (tears in anus), fecal impaction, rectal prolapse"
+    ],
+    "all_symptoms_raw": [
+      "fewer than 3 bowel movements per week",
+      "hard, dry, or lumpy stools",
+      "straining or pain during bowel movements",
+      "feeling of incomplete evacuation",
+      "bloating and abdominal discomfort",
+      "need for manual assistance to pass stool in severe cases",
+      "persistent abdominal pain in severe cases",
+      "nausea or loss of appetite in severe cases"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Constipation is a mild_to_moderate condition with a acute (days to weeks); chronic (3 months or more) course. Core symptoms include: movements, nausea. Risk groups: o, l, d, e, r. Emergency warning signs: b, l, a, c, k.",
+    "chunk_overlap_keys": [
+      "Constipation",
+      "movements",
+      "nausea"
+    ],
+    "created_at": "2026-04-27T16:02:54.312514"
+  },
+  {
+    "disease_name": "Brucellosis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "acute (weeks to months); chronic (months to years if untreated or relapsing)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "fatigue",
+      "headache",
+      "weakness",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe headache or neurological symptoms, chest pain or heart-related symptoms, high persistent fever",
+    "risk_groups": "farmers, veterinarians, slaughterhouse workers, people consuming unpasteurized dairy, travelers to endemic regions (Middle East, Mediterranean, parts of Africa, Latin America)",
+    "complications": [
+      "bone and joint infections, Encephalitis, Meningitis, Infective endocarditis (most serious complication)"
+    ],
+    "all_symptoms_raw": [
+      "fever with characteristic rising and falling pattern (undulant fever)",
+      "chills and excessive sweating",
+      "fatigue and weakness",
+      "headache",
+      "muscle and joint pain",
+      "loss of appetite",
+      "weight loss",
+      "abdominal pain (other symptom)",
+      "back pain (other symptom)",
+      "swollen lymph nodes (other symptom)",
+      "recurrent fever episodes in chronic cases",
+      "long-term fatigue in chronic cases",
+      "persistent joint pain in chronic cases"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Brucellosis is a moderate_to_severe condition with a acute (weeks to months); chronic (months to years if untreated or relapsing) course. Core symptoms include: muscle, fatigue, headache, weakness, fever. Risk groups: f, a, r, m, e. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Brucellosis",
+      "muscle",
+      "fatigue",
+      "headache"
+    ],
+    "created_at": "2026-04-27T16:02:54.312528"
+  },
+  {
+    "disease_name": "Addison's Disease",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "lifelong condition requiring management",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "fatigue",
+      "nausea",
+      "dizziness",
+      "weakness"
+    ],
+    "secondary_symptoms": [
+      "vomiting"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe weakness, confusion, vomiting, low blood pressure, loss of consciousness (adrenal crisis)",
+    "risk_groups": "individuals with autoimmune diseases, genetic predisposition, history of adrenal infections, middle-aged adults",
+    "complications": [
+      "adrenal crisis, severe hypotension, electrolyte imbalance, shock, death if untreated"
+    ],
+    "all_symptoms_raw": [
+      "chronic fatigue and muscle weakness",
+      "weight loss and decreased appetite",
+      "low blood pressure and dizziness",
+      "hyperpigmentation of skin (darkening)",
+      "salt craving",
+      "nausea, vomiting, abdominal pain"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Addison's Disease is a moderate_to_severe condition with a lifelong condition requiring management course. Core symptoms include: muscle, fatigue, nausea, dizziness, weakness. Secondary symptoms may include: vomiting. Risk groups: i, n, d, i, v. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Addison's Disease",
+      "muscle",
+      "fatigue",
+      "nausea"
+    ],
+    "created_at": "2026-04-27T16:02:54.312543"
+  },
+  {
+    "disease_name": "Alcohol-Related Liver Disease",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "months to years depending on alcohol exposure and stage",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "fatigue",
+      "nausea",
+      "vomiting",
+      "weakness"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "vomiting blood, severe confusion, abdominal swelling, difficulty breathing, loss of consciousness",
+    "risk_groups": "heavy alcohol users, long-term drinkers, males, individuals with poor nutrition, genetic susceptibility",
+    "complications": [
+      "cirrhosis, liver failure, portal hypertension, ascites, variceal bleeding, hepatic encephalopathy, liver cancer"
+    ],
+    "all_symptoms_raw": [
+      "fatigue and weakness",
+      "loss of appetite and weight loss",
+      "nausea and vomiting",
+      "abdominal pain and swelling",
+      "jaundice (yellowing of skin and eyes)",
+      "confusion in advanced stages (hepatic encephalopathy)"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Alcohol-Related Liver Disease is a mild_to_severe condition with a months to years depending on alcohol exposure and stage course. Core symptoms include: confusion, fatigue, nausea, vomiting, weakness. Risk groups: h, e, a, v, y. Emergency warning signs: v, o, m, i, t.",
+    "chunk_overlap_keys": [
+      "Alcohol-Related Liver Disease",
+      "confusion",
+      "fatigue",
+      "nausea"
+    ],
+    "created_at": "2026-04-27T16:02:54.312555"
+  },
+  {
+    "disease_name": "Angina",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "minutes (typically relieved by rest or medication)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "jaw",
+      "fatigue",
+      "nausea",
+      "weakness",
+      "neck"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe or prolonged chest pain, pain not relieved by rest, breathing difficulty, fainting",
+    "risk_groups": "older adults, smokers, individuals with hypertension, diabetes, high cholesterol, obesity, sedentary lifestyle",
+    "complications": [
+      "myocardial infarction (heart attack), arrhythmias, heart failure, sudden cardiac death"
+    ],
+    "all_symptoms_raw": [
+      "chest pain or pressure (tightness, squeezing sensation)",
+      "pain radiating to arms, neck, jaw, shoulder, or back",
+      "shortness of breath",
+      "fatigue or weakness",
+      "nausea or sweating"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Angina is a moderate_to_severe condition with a minutes (typically relieved by rest or medication) course. Core symptoms include: jaw, fatigue, nausea, weakness, neck. Risk groups: o, l, d, e, r. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Angina",
+      "jaw",
+      "fatigue",
+      "nausea"
+    ],
+    "created_at": "2026-04-27T16:02:54.312568"
+  },
+  {
+    "disease_name": "Angioedema",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "hours to a few days depending on type",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "painful",
+      "nausea",
+      "vomiting"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "throat swelling, difficulty breathing, voice changes, severe abdominal pain",
+    "risk_groups": "individuals with allergies, family history of hereditary angioedema, those taking ACE inhibitors, asthma patients",
+    "complications": [
+      "airway obstruction, severe abdominal symptoms, recurrence, life-threatening respiratory compromise"
+    ],
+    "all_symptoms_raw": [
+      "swelling of face, lips, eyelids, or tongue",
+      "swelling of throat causing difficulty breathing",
+      "abdominal pain, nausea, or vomiting (intestinal involvement)",
+      "skin may feel tight or painful without itching",
+      "hoarseness or difficulty swallowing"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Angioedema is a mild_to_severe condition with a hours to a few days depending on type course. Core symptoms include: painful, nausea, vomiting. Risk groups: i, n, d, i, v. Emergency warning signs: t, h, r, o, a.",
+    "chunk_overlap_keys": [
+      "Angioedema",
+      "painful",
+      "nausea",
+      "vomiting"
+    ],
+    "created_at": "2026-04-27T16:02:54.312579"
+  },
+  {
+    "disease_name": "Ankylosing Spondylitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "lifelong progressive condition",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "stiffness",
+      "fatigue"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden severe pain with fracture, neurological deficits, severe eye pain or vision changes",
+    "risk_groups": "young adults (especially males), individuals with HLA-B27 gene, family history, onset typically before age 40",
+    "complications": [
+      "spinal fusion, reduced mobility, osteoporosis, fractures, uveitis, cardiovascular issues"
+    ],
+    "all_symptoms_raw": [
+      "chronic lower back pain and stiffness (worse in morning)",
+      "reduced spinal flexibility",
+      "pain improving with exercise but not rest",
+      "fatigue",
+      "inflammation in other joints or eyes (uveitis)",
+      "pain and swelling in hips, knees, shoulders, ribs, feet",
+      "enthesitis causing heel, rib, or elbow pain where tendons attach",
+      "waking during night due to back pain"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Ankylosing Spondylitis is a moderate_to_severe condition with a lifelong progressive condition course. Core symptoms include: stiffness, fatigue. Risk groups: y, o, u, n, g. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Ankylosing Spondylitis",
+      "stiffness",
+      "fatigue"
+    ],
+    "created_at": "2026-04-27T16:02:54.312589"
+  },
+  {
+    "disease_name": "Anxiety Disorders in Children and Young People",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "months to years, may be episodic or chronic",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "irritability"
+    ],
+    "secondary_symptoms": [
+      "fatigue"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "panic attacks with severe distress, self-harm thoughts, inability to function",
+    "risk_groups": "children with family history of anxiety or mental illness, exposure to trauma or stress, chronic illness, academic or social pressure",
+    "complications": [
+      "depression, academic difficulties, social withdrawal, substance misuse in later life, reduced quality of life"
+    ],
+    "all_symptoms_raw": [
+      "excessive worry or fear disproportionate to situation",
+      "irritability or restlessness",
+      "difficulty concentrating or sleep disturbances",
+      "physical symptoms like headaches, stomach aches, or fatigue",
+      "avoidance of social or school activities"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Anxiety Disorders in Children and Young People is a mild_to_severe condition with a months to years, may be episodic or chronic course. Core symptoms include: irritability. Secondary symptoms may include: fatigue. Risk groups: c, h, i, l, d. Emergency warning signs: p, a, n, i, c.",
+    "chunk_overlap_keys": [
+      "Anxiety Disorders in Children and Young People",
+      "irritability"
+    ],
+    "created_at": "2026-04-27T16:02:54.312600"
+  },
+  {
+    "disease_name": "Asbestosis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic, develops over years to decades after exposure",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fingers",
+      "fatigue",
+      "weakness"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathing difficulty, cyanosis, respiratory distress",
+    "risk_groups": "construction workers, shipyard workers, miners, individuals exposed to asbestos in occupational settings, long-term exposure cases",
+    "complications": [
+      "respiratory failure, pulmonary hypertension, lung cancer, mesothelioma"
+    ],
+    "all_symptoms_raw": [
+      "shortness of breath, especially on exertion",
+      "persistent dry cough",
+      "chest tightness or pain",
+      "fatigue and weakness",
+      "clubbing of fingers in advanced stages"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Asbestosis is a moderate_to_severe condition with a chronic, develops over years to decades after exposure course. Core symptoms include: fingers, fatigue, weakness. Risk groups: c, o, n, s, t. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Asbestosis",
+      "fingers",
+      "fatigue",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312611"
+  },
+  {
+    "disease_name": "Asthma",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic condition with episodic flare-ups",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "sound"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathlessness, inability to speak, bluish lips or face, no relief from inhaler",
+    "risk_groups": "children, individuals with allergies, family history of asthma, smokers, exposure to environmental pollutants",
+    "complications": [
+      "severe asthma attacks, respiratory failure, reduced quality of life, frequent hospitalizations"
+    ],
+    "all_symptoms_raw": [
+      "wheezing (whistling sound while breathing)",
+      "shortness of breath",
+      "chest tightness or pain",
+      "persistent cough (especially at night or early morning)",
+      "difficulty breathing during triggers"
+    ],
+    "symptom_count": 1,
+    "semantic_summary": "Asthma is a mild_to_severe condition with a chronic condition with episodic flare-ups course. Core symptoms include: sound. Risk groups: c, h, i, l, d. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Asthma",
+      "sound"
+    ],
+    "created_at": "2026-04-27T16:02:54.312620"
+  },
+  {
+    "disease_name": "Ataxia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "variable, acute or chronic depending on cause",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "walking"
+    ],
+    "secondary_symptoms": [
+      "speech"
+    ],
+    "rare_symptoms": [
+      "movements"
+    ],
+    "emergency_signs": "sudden onset ataxia, severe headache, weakness, vision changes (possible stroke)",
+    "risk_groups": "individuals with family history (genetic forms), elderly, alcohol users, patients with neurological disorders, vitamin deficiency",
+    "complications": [
+      "falls, injury, disability, difficulty performing daily activities"
+    ],
+    "all_symptoms_raw": [
+      "unsteady gait and difficulty walking",
+      "poor coordination of hands and limbs",
+      "slurred speech (dysarthria)",
+      "difficulty with fine motor tasks",
+      "abnormal eye movements (nystagmus)"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Ataxia is a mild_to_severe condition with a variable, acute or chronic depending on cause course. Core symptoms include: walking. Secondary symptoms may include: speech. Risk groups: i, n, d, i, v. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Ataxia",
+      "walking"
+    ],
+    "created_at": "2026-04-27T16:02:54.312631"
+  },
+  {
+    "disease_name": "Autism",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "lifelong",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "speech",
+      "movements"
+    ],
+    "secondary_symptoms": [
+      "light"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "none",
+    "risk_groups": "children, males, family history, genetic conditions (e.g., fragile X syndrome), premature birth",
+    "complications": [
+      "learning difficulties, social challenges, anxiety, behavioral issues, need for support services"
+    ],
+    "all_symptoms_raw": [
+      "difficulty with social interaction and communication",
+      "delayed speech or language development",
+      "repetitive behaviors or movements",
+      "restricted or intense interests",
+      "sensitivity to sensory stimuli (sound, light, touch)"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Autism is a mild_to_severe condition with a lifelong course. Core symptoms include: speech, movements. Secondary symptoms may include: light. Risk groups: c, h, i, l, d. Emergency warning signs: n, o, n, e.",
+    "chunk_overlap_keys": [
+      "Autism",
+      "speech",
+      "movements"
+    ],
+    "created_at": "2026-04-27T16:02:54.312641"
+  },
+  {
+    "disease_name": "Tuberculosis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "months to years depending on treatment and disease stage",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "coughing",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [
+      "weakness"
+    ],
+    "emergency_signs": "severe breathing difficulty, confusion, seizures, coughing significant blood",
+    "risk_groups": "people in close contact with infected individuals, healthcare workers, immunocompromised individuals, elderly, children, people in crowded living conditions",
+    "complications": [
+      "lung damage, meningitis, organ failure, respiratory failure, death if untreated"
+    ],
+    "all_symptoms_raw": [
+      "persistent cough lasting more than 3 weeks",
+      "coughing up blood or sputum",
+      "fever and chills",
+      "night sweats",
+      "weight loss and loss of appetite",
+      "fatigue and weakness",
+      "chest pain or breathlessness"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Tuberculosis is a moderate_to_severe condition with a months to years depending on treatment and disease stage course. Core symptoms include: fatigue, coughing, fever. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Tuberculosis",
+      "fatigue",
+      "coughing",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.312652"
+  },
+  {
+    "disease_name": "Influenza",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "1-2 weeks (fatigue and cough may last longer)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "headache",
+      "weakness",
+      "sudden",
+      "fever"
+    ],
+    "secondary_symptoms": [
+      "nausea",
+      "vomiting"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "difficulty breathing, chest pain, persistent high fever, confusion, seizures",
+    "risk_groups": "elderly, young children, pregnant women, individuals with chronic diseases, immunocompromised individuals",
+    "complications": [
+      "pneumonia, bronchitis, sinus infection, ear infection, myocarditis, encephalitis, multi-organ failure"
+    ],
+    "all_symptoms_raw": [
+      "sudden fever and chills",
+      "body aches and headache",
+      "fatigue and weakness",
+      "cough and sore throat",
+      "runny or stuffy nose",
+      "nausea, vomiting, or diarrhea (more common in children)"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Influenza is a mild_to_severe condition with a 1-2 weeks (fatigue and cough may last longer) course. Core symptoms include: fatigue, headache, weakness, sudden, fever. Secondary symptoms may include: nausea, vomiting. Risk groups: e, l, d, e, r. Emergency warning signs: d, i, f, f, i.",
+    "chunk_overlap_keys": [
+      "Influenza",
+      "fatigue",
+      "headache",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312665"
+  },
+  {
+    "disease_name": "Chikungunya",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "1-2 weeks (joint pain may persist for months)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "headache",
+      "sudden",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [
+      "muscle",
+      "rash"
+    ],
+    "emergency_signs": "severe weakness, neurological symptoms, signs of organ involvement",
+    "risk_groups": "people in endemic regions, travelers, newborns, elderly, individuals with chronic diseases (e.g., diabetes, hypertension, heart disease)",
+    "complications": [
+      "chronic joint pain, neurological complications (rare), organ involvement (rare)"
+    ],
+    "all_symptoms_raw": [
+      "sudden high fever",
+      "severe joint pain (often in hands and feet)",
+      "headache",
+      "muscle pain",
+      "joint swelling",
+      "skin rash"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Chikungunya is a mild_to_moderate condition with a 1-2 weeks (joint pain may persist for months) course. Core symptoms include: headache, sudden, fever. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Chikungunya",
+      "headache",
+      "sudden",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.312677"
+  },
+  {
+    "disease_name": "Typhoid Fever",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "weeks (typically 2-4 weeks with treatment)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "constipation",
+      "fatigue",
+      "weakness",
+      "fever",
+      "rash"
+    ],
+    "secondary_symptoms": [
+      "confusion",
+      "headache"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe abdominal pain, bleeding, confusion, reduced urine output, signs of perforation",
+    "risk_groups": "people in developing regions, travelers to endemic areas, individuals with poor hygiene or sanitation, close contacts of infected carriers",
+    "complications": [
+      "intestinal bleeding, intestinal perforation, peritonitis, kidney failure, relapse"
+    ],
+    "all_symptoms_raw": [
+      "prolonged high fever",
+      "abdominal pain",
+      "diarrhea or constipation",
+      "weakness and fatigue",
+      "rash (rose spots on abdomen and chest)",
+      "headache and confusion"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Typhoid Fever is a moderate_to_severe condition with a weeks (typically 2-4 weeks with treatment) course. Core symptoms include: constipation, fatigue, weakness, fever, rash. Secondary symptoms may include: confusion, headache. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Typhoid Fever",
+      "constipation",
+      "fatigue",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312690"
+  },
+  {
+    "disease_name": "Cholera",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "days (can progress rapidly within hours in severe cases)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "vomiting",
+      "weakness"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "extreme dehydration, confusion, low blood pressure, minimal urine output, rapid pulse",
+    "risk_groups": "people in areas with poor sanitation, travelers to endemic regions, disaster-affected populations, individuals with limited access to clean water",
+    "complications": [
+      "severe dehydration, electrolyte imbalance, shock, kidney failure, death"
+    ],
+    "all_symptoms_raw": [
+      "watery diarrhea (rice-water stools)",
+      "vomiting",
+      "leg cramps",
+      "dehydration",
+      "weakness and rapid fluid loss"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Cholera is a mild_to_severe condition with a days (can progress rapidly within hours in severe cases) course. Core symptoms include: vomiting, weakness. Risk groups: p, e, o, p, l. Emergency warning signs: e, x, t, r, e.",
+    "chunk_overlap_keys": [
+      "Cholera",
+      "vomiting",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312700"
+  },
+  {
+    "disease_name": "Hepatitis A",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "weeks to months (usually resolves within 6 months)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "nausea",
+      "vomiting",
+      "weakness",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "confusion, severe vomiting, signs of liver failure, altered consciousness",
+    "risk_groups": "travelers to endemic regions, people with poor sanitation, drug users, men who have sex with men, close contacts of infected individuals",
+    "complications": [
+      "liver failure (rare), prolonged symptoms, higher risk in older adults or those with liver disease"
+    ],
+    "all_symptoms_raw": [
+      "fatigue and weakness",
+      "fever",
+      "nausea and vomiting",
+      "abdominal pain",
+      "loss of appetite",
+      "dark urine and pale stools",
+      "jaundice (yellowing of skin and eyes)"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Hepatitis A is a mild_to_moderate condition with a weeks to months (usually resolves within 6 months) course. Core symptoms include: fatigue, nausea, vomiting, weakness, fever. Risk groups: t, r, a, v, e. Emergency warning signs: c, o, n, f, u.",
+    "chunk_overlap_keys": [
+      "Hepatitis A",
+      "fatigue",
+      "nausea",
+      "vomiting"
+    ],
+    "created_at": "2026-04-27T16:02:54.312712"
+  },
+  {
+    "disease_name": "Hepatitis B",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "weeks to lifelong (chronic cases)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "nausea",
+      "vomiting",
+      "weakness"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe abdominal pain, confusion, signs of liver failure, vomiting blood",
+    "risk_groups": "healthcare workers, people with multiple sexual partners, intravenous drug users, travelers to endemic regions, infants born to infected mothers",
+    "complications": [
+      "chronic hepatitis, cirrhosis, liver failure, liver cancer, hepatitis D co-infection"
+    ],
+    "all_symptoms_raw": [
+      "loss of appetite",
+      "nausea and vomiting",
+      "fatigue and weakness",
+      "abdominal pain (liver area)",
+      "dark urine",
+      "jaundice (yellowing of skin and eyes)",
+      "joint pain"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Hepatitis B is a mild_to_severe condition with a weeks to lifelong (chronic cases) course. Core symptoms include: fatigue, nausea, vomiting, weakness. Risk groups: h, e, a, l, t. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Hepatitis B",
+      "fatigue",
+      "nausea",
+      "vomiting"
+    ],
+    "created_at": "2026-04-27T16:02:54.312724"
+  },
+  {
+    "disease_name": "Mumps",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "1-2 weeks",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "fatigue",
+      "headache",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "seizures, stiff neck, confusion, severe headache, drowsiness",
+    "risk_groups": "unvaccinated individuals, children, students in close-contact settings, healthcare workers, travelers to endemic areas",
+    "complications": [
+      "meningitis, encephalitis, orchitis, oophoritis, pancreatitis, hearing loss, miscarriage"
+    ],
+    "all_symptoms_raw": [
+      "swollen salivary glands (puffy cheeks, tender jaw)",
+      "fever",
+      "headache",
+      "muscle aches",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Mumps is a mild_to_moderate condition with a 1-2 weeks course. Core symptoms include: muscle, fatigue, headache, fever. Risk groups: u, n, v, a, c. Emergency warning signs: s, e, i, z, u.",
+    "chunk_overlap_keys": [
+      "Mumps",
+      "muscle",
+      "fatigue",
+      "headache"
+    ],
+    "created_at": "2026-04-27T16:02:54.312735"
+  },
+  {
+    "disease_name": "Rubella",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "1-2 weeks",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "fever",
+      "rash"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe headache, confusion, neurological symptoms",
+    "risk_groups": "unvaccinated individuals, pregnant women, travelers to endemic regions, children",
+    "complications": [
+      "arthritis, encephalitis (rare), congenital rubella syndrome, miscarriage, birth defects"
+    ],
+    "all_symptoms_raw": [
+      "mild fever",
+      "rash starting on face and spreading to body",
+      "sore throat",
+      "swollen lymph nodes",
+      "joint pain (especially in adult women)",
+      "fatigue"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Rubella is a mild_to_moderate condition with a 1-2 weeks course. Core symptoms include: fatigue, fever, rash. Risk groups: u, n, v, a, c. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Rubella",
+      "fatigue",
+      "fever",
+      "rash"
+    ],
+    "created_at": "2026-04-27T16:02:54.312746"
+  },
+  {
+    "disease_name": "Chickenpox",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "4-7 days (rash phase)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "headache",
+      "fever",
+      "rash"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "difficulty breathing, severe dehydration, neurological symptoms, persistent vomiting, altered consciousness",
+    "risk_groups": "unvaccinated individuals, children, pregnant women, newborns, adolescents, adults, immunocompromised individuals",
+    "complications": [
+      "bacterial skin infection, pneumonia, encephalitis, dehydration, fetal complications, severe disease in adults"
+    ],
+    "all_symptoms_raw": [
+      "fever, fatigue, headache, loss of appetite before rash",
+      "itchy red rash progressing to fluid-filled blisters",
+      "blisters that scab over within about a week",
+      "rash starting on chest, back, face and spreading across body",
+      "up to hundreds of lesions in severe cases"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Chickenpox is a mild_to_moderate condition with a 4-7 days (rash phase) course. Core symptoms include: fatigue, headache, fever, rash. Risk groups: u, n, v, a, c. Emergency warning signs: d, i, f, f, i.",
+    "chunk_overlap_keys": [
+      "Chickenpox",
+      "fatigue",
+      "headache",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.312757"
+  },
+  {
+    "disease_name": "Rabies",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "days to weeks after symptom onset (rapid progression)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "anxiety",
+      "hallucinations",
+      "headache",
+      "tingling",
+      "weakness",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "confusion, hallucinations, difficulty swallowing, paralysis, seizures",
+    "risk_groups": "people exposed to wild animals, travelers to endemic regions, veterinarians, animal handlers, outdoor workers",
+    "complications": [
+      "encephalitis, paralysis, respiratory failure, death"
+    ],
+    "all_symptoms_raw": [
+      "fever, headache, weakness (early stage)",
+      "tingling or itching at bite site",
+      "anxiety, confusion, agitation",
+      "hallucinations",
+      "excessive salivation",
+      "fear of water (hydrophobia)"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Rabies is a severe condition with a days to weeks after symptom onset (rapid progression) course. Core symptoms include: confusion, anxiety, hallucinations, headache, tingling, weakness, fever. Risk groups: p, e, o, p, l. Emergency warning signs: c, o, n, f, u.",
+    "chunk_overlap_keys": [
+      "Rabies",
+      "confusion",
+      "anxiety",
+      "hallucinations"
+    ],
+    "created_at": "2026-04-27T16:02:54.312770"
+  },
+  {
+    "disease_name": "Leprosy",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic, may last years without treatment",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "light",
+      "numbness"
+    ],
+    "secondary_symptoms": [
+      "weakness"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe nerve damage, loss of function, secondary infections",
+    "risk_groups": "people in endemic regions, close contacts of infected individuals, children, immunocompromised individuals",
+    "complications": [
+      "nerve damage, loss of sensation, muscle weakness, deformities, disability"
+    ],
+    "all_symptoms_raw": [
+      "light-colored or reddish skin lesions with reduced sensation",
+      "numbness in hands, arms, feet, or legs",
+      "muscle weakness",
+      "thickened nerves",
+      "non-healing skin sores"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Leprosy is a mild_to_severe condition with a chronic, may last years without treatment course. Core symptoms include: muscle, light, numbness. Secondary symptoms may include: weakness. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Leprosy",
+      "muscle",
+      "light",
+      "numbness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312782"
+  },
+  {
+    "disease_name": "Whooping Cough",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "weeks to months (often called 100-day cough)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "vomiting",
+      "sound",
+      "coughing"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "difficulty breathing, apnea, bluish skin, seizures, severe exhaustion",
+    "risk_groups": "infants under 1 year, unvaccinated individuals, elderly, people with asthma or weakened immune systems",
+    "complications": [
+      "pneumonia, apnea (in infants), seizures, brain damage, death (especially in infants)"
+    ],
+    "all_symptoms_raw": [
+      "mild cough and runny nose (early stage)",
+      "severe coughing fits (paroxysmal cough)",
+      "whooping sound during inhalation after coughing",
+      "vomiting after coughing",
+      "exhaustion after coughing episodes"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Whooping Cough is a moderate_to_severe condition with a weeks to months (often called 100-day cough) course. Core symptoms include: vomiting, sound, coughing. Risk groups: i, n, f, a, n. Emergency warning signs: d, i, f, f, i.",
+    "chunk_overlap_keys": [
+      "Whooping Cough",
+      "vomiting",
+      "sound",
+      "coughing"
+    ],
+    "created_at": "2026-04-27T16:02:54.312791"
+  },
+  {
+    "disease_name": "Tetanus",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "weeks to months (recovery may be prolonged)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "jaw",
+      "muscle",
+      "stiffness"
+    ],
+    "secondary_symptoms": [
+      "neck"
+    ],
+    "rare_symptoms": [
+      "rigidity",
+      "painful"
+    ],
+    "emergency_signs": "difficulty breathing, severe spasms, inability to swallow, generalized rigidity",
+    "risk_groups": "unvaccinated individuals, people with deep or contaminated wounds, intravenous drug users, newborns in unsanitary conditions",
+    "complications": [
+      "respiratory failure, fractures from spasms, pneumonia, autonomic instability, death"
+    ],
+    "all_symptoms_raw": [
+      "muscle stiffness and spasms (especially jaw - lockjaw)",
+      "difficulty swallowing",
+      "neck and back stiffness",
+      "abdominal muscle rigidity",
+      "painful muscle contractions"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Tetanus is a severe condition with a weeks to months (recovery may be prolonged) course. Core symptoms include: jaw, muscle, stiffness. Secondary symptoms may include: neck. Risk groups: u, n, v, a, c. Emergency warning signs: d, i, f, f, i.",
+    "chunk_overlap_keys": [
+      "Tetanus",
+      "jaw",
+      "muscle",
+      "stiffness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312804"
+  },
+  {
+    "disease_name": "Diphtheria",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "weeks (with treatment recovery improves)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "weakness",
+      "fever",
+      "neck"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathing difficulty, airway blockage, heart problems, neurological symptoms",
+    "risk_groups": "unvaccinated individuals, close contacts of infected persons, travelers to endemic regions, people with poor immunity",
+    "complications": [
+      "airway obstruction, myocarditis, nerve damage, respiratory failure, death"
+    ],
+    "all_symptoms_raw": [
+      "sore throat and difficulty swallowing",
+      "fever and weakness",
+      "thick gray membrane in throat or nose",
+      "swollen neck (bull neck appearance)",
+      "breathing difficulty"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Diphtheria is a severe condition with a weeks (with treatment recovery improves) course. Core symptoms include: weakness, fever, neck. Risk groups: u, n, v, a, c. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Diphtheria",
+      "weakness",
+      "fever",
+      "neck"
+    ],
+    "created_at": "2026-04-27T16:02:54.312814"
+  },
+  {
+    "disease_name": "Japanese Encephalitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "days to weeks (neurological recovery may take longer)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "stiffness",
+      "headache",
+      "fever",
+      "neck",
+      "seizures"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "seizures, coma, severe confusion, inability to wake",
+    "risk_groups": "people living in rural Asia, long-term travelers to endemic regions, outdoor workers, laboratory personnel",
+    "complications": [
+      "brain damage, seizures, paralysis, coma, permanent disability, death"
+    ],
+    "all_symptoms_raw": [
+      "fever and headache (mild cases)",
+      "neck stiffness",
+      "seizures",
+      "confusion or altered consciousness",
+      "coma in severe cases"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Japanese Encephalitis is a severe condition with a days to weeks (neurological recovery may take longer) course. Core symptoms include: confusion, stiffness, headache, fever, neck, seizures. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, i, z, u.",
+    "chunk_overlap_keys": [
+      "Japanese Encephalitis",
+      "confusion",
+      "stiffness",
+      "headache"
+    ],
+    "created_at": "2026-04-27T16:02:54.312825"
+  },
+  {
+    "disease_name": "Plague",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "days to weeks (rapid progression if untreated)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "painful",
+      "fatigue",
+      "weakness",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathing difficulty, shock, confusion, bleeding, rapid deterioration",
+    "risk_groups": "people in rural or semi-rural areas, hunters, veterinarians, individuals exposed to rodents or fleas, people in outbreak regions",
+    "complications": [
+      "sepsis, respiratory failure, organ failure, shock, death"
+    ],
+    "all_symptoms_raw": [
+      "fever and chills",
+      "swollen and painful lymph nodes (buboes)",
+      "weakness and fatigue",
+      "abdominal pain",
+      "cough and bloody sputum (pneumonic form)",
+      "skin turning black due to tissue death (severe cases)"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Plague is a severe condition with a days to weeks (rapid progression if untreated) course. Core symptoms include: painful, fatigue, weakness, fever. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Plague",
+      "painful",
+      "fatigue",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312874"
+  },
+  {
+    "disease_name": "Zika Virus Infection",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild",
+    "duration": "several days to 1 week",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "fatigue",
+      "headache",
+      "fever",
+      "rash"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "paralysis, severe neurological symptoms, confusion, difficulty breathing",
+    "risk_groups": "people in tropical and subtropical regions, travelers to endemic areas, pregnant women, sexual partners of infected individuals",
+    "complications": [
+      "congenital birth defects (microcephaly), Guillain-Barre syndrome, neurological complications, pregnancy loss"
+    ],
+    "all_symptoms_raw": [
+      "fever",
+      "rash",
+      "headache",
+      "joint and muscle pain",
+      "red eyes (conjunctivitis)",
+      "fatigue"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Zika Virus Infection is a mild condition with a several days to 1 week course. Core symptoms include: muscle, fatigue, headache, fever, rash. Risk groups: p, e, o, p, l. Emergency warning signs: p, a, r, a, l.",
+    "chunk_overlap_keys": [
+      "Zika Virus Infection",
+      "muscle",
+      "fatigue",
+      "headache"
+    ],
+    "created_at": "2026-04-27T16:02:54.312888"
+  },
+  {
+    "disease_name": "Amoebiasis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "weeks to months if untreated",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "nausea",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe abdominal pain, high fever, signs of liver involvement, dehydration",
+    "risk_groups": "people in areas with poor sanitation, travelers to endemic regions, individuals with unsafe food or water exposure, immunocompromised individuals",
+    "complications": [
+      "liver abscess, intestinal perforation, severe colitis, spread to lungs or brain (rare)"
+    ],
+    "all_symptoms_raw": [
+      "diarrhea (may be bloody)",
+      "abdominal pain and cramping",
+      "fever",
+      "nausea",
+      "weight loss",
+      "fatigue"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Amoebiasis is a mild_to_severe condition with a weeks to months if untreated course. Core symptoms include: fatigue, nausea, fever. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Amoebiasis",
+      "fatigue",
+      "nausea",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.312899"
+  },
+  {
+    "disease_name": "Hand-Foot-Mouth Disease",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild",
+    "duration": "5-7 days",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "painful",
+      "fever",
+      "rash"
+    ],
+    "secondary_symptoms": [
+      "headache"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "seizures, severe dehydration, lethargy, inability to drink fluids",
+    "risk_groups": "children under 10 years, daycare attendees, close contacts, occasionally adults",
+    "complications": [
+      "dehydration, febrile seizures, rare neurological complications"
+    ],
+    "all_symptoms_raw": [
+      "fever",
+      "sore throat",
+      "loss of appetite",
+      "painful mouth ulcers",
+      "rash with small blisters on hands, feet, and diaper area",
+      "headache"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Hand-Foot-Mouth Disease is a mild condition with a 5-7 days course. Core symptoms include: painful, fever, rash. Secondary symptoms may include: headache. Risk groups: c, h, i, l, d. Emergency warning signs: s, e, i, z, u.",
+    "chunk_overlap_keys": [
+      "Hand-Foot-Mouth Disease",
+      "painful",
+      "fever",
+      "rash"
+    ],
+    "created_at": "2026-04-27T16:02:54.312910"
+  },
+  {
+    "disease_name": "Hantavirus Infection",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "days to weeks (rapid progression in severe cases)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "fatigue",
+      "headache",
+      "fever"
+    ],
+    "secondary_symptoms": [
+      "nausea",
+      "vomiting"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathlessness, low blood pressure, confusion, rapid deterioration",
+    "risk_groups": "people exposed to rodents, rural residents, farmers, campers, construction workers, individuals cleaning rodent-infested areas",
+    "complications": [
+      "respiratory failure, shock, organ failure, death"
+    ],
+    "all_symptoms_raw": [
+      "fever and chills",
+      "muscle aches",
+      "fatigue",
+      "headache",
+      "nausea and vomiting",
+      "shortness of breath (later stage)"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Hantavirus Infection is a severe condition with a days to weeks (rapid progression in severe cases) course. Core symptoms include: muscle, fatigue, headache, fever. Secondary symptoms may include: nausea, vomiting. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Hantavirus Infection",
+      "muscle",
+      "fatigue",
+      "headache"
+    ],
+    "created_at": "2026-04-27T16:02:54.312922"
+  },
+  {
+    "disease_name": "Scrub Typhus",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "1-3 weeks (longer if untreated)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "headache",
+      "fever",
+      "rash"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathing difficulty, confusion, organ failure signs, seizures",
+    "risk_groups": "people in rural or forested areas, farmers, outdoor workers, travelers to endemic regions (Asia-Pacific)",
+    "complications": [
+      "pneumonia, encephalitis, organ failure, bleeding disorders, death"
+    ],
+    "all_symptoms_raw": [
+      "fever and chills",
+      "headache",
+      "muscle aches",
+      "rash",
+      "eschar (black scab at bite site)",
+      "swollen lymph nodes"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Scrub Typhus is a moderate_to_severe condition with a 1-3 weeks (longer if untreated) course. Core symptoms include: muscle, headache, fever, rash. Risk groups: p, e, o, p, l. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Scrub Typhus",
+      "muscle",
+      "headache",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.312934"
+  },
+  {
+    "disease_name": "Hypertension",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic (lifelong if unmanaged)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "dizziness",
+      "vision"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "hypertensive crisis (very high BP), chest pain, severe headache, confusion, vision changes",
+    "risk_groups": "older adults, obese individuals, smokers, people with family history, sedentary lifestyle, high-salt diet",
+    "complications": [
+      "heart attack, stroke, kidney failure, vision loss, heart failure"
+    ],
+    "all_symptoms_raw": [
+      "often asymptomatic (silent condition)",
+      "headaches (in severe cases)",
+      "dizziness",
+      "blurred vision",
+      "chest pain (in advanced cases)"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Hypertension is a mild_to_severe condition with a chronic (lifelong if unmanaged) course. Core symptoms include: dizziness, vision. Risk groups: o, l, d, e, r. Emergency warning signs: h, y, p, e, r.",
+    "chunk_overlap_keys": [
+      "Hypertension",
+      "dizziness",
+      "vision"
+    ],
+    "created_at": "2026-04-27T16:02:54.312945"
+  },
+  {
+    "disease_name": "Heart Attack",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "acute (minutes to hours)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "jaw",
+      "neck"
+    ],
+    "secondary_symptoms": [
+      "nausea",
+      "vomiting"
+    ],
+    "rare_symptoms": [
+      "dizziness"
+    ],
+    "emergency_signs": "severe chest pain, collapse, difficulty breathing, loss of consciousness",
+    "risk_groups": "individuals with coronary artery disease, smokers, diabetics, hypertensive patients, obese individuals, elderly",
+    "complications": [
+      "heart failure, arrhythmias, cardiogenic shock, sudden death"
+    ],
+    "all_symptoms_raw": [
+      "severe chest pain or pressure",
+      "pain radiating to arm, jaw, neck, or back",
+      "shortness of breath",
+      "sweating",
+      "nausea or vomiting",
+      "dizziness or fainting"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Heart Attack is a severe condition with a acute (minutes to hours) course. Core symptoms include: jaw, neck. Secondary symptoms may include: nausea, vomiting. Risk groups: i, n, d, i, v. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Heart Attack",
+      "jaw",
+      "neck"
+    ],
+    "created_at": "2026-04-27T16:02:54.312960"
+  },
+  {
+    "disease_name": "Stroke",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "acute event with long-term effects possible",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "balance",
+      "numbness",
+      "dizziness",
+      "weakness",
+      "sudden"
+    ],
+    "secondary_symptoms": [
+      "headache"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "facial drooping, arm weakness, slurred speech, sudden severe headache, loss of consciousness",
+    "risk_groups": "individuals with hypertension, diabetes, heart disease, smokers, elderly, obese individuals, people with high cholesterol",
+    "complications": [
+      "paralysis, speech impairment, cognitive deficits, disability, death"
+    ],
+    "all_symptoms_raw": [
+      "sudden numbness or weakness (especially one side of body)",
+      "confusion or trouble speaking",
+      "difficulty seeing in one or both eyes",
+      "dizziness, loss of balance or coordination",
+      "severe headache with no known cause"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Stroke is a severe condition with a acute event with long-term effects possible course. Core symptoms include: confusion, balance, numbness, dizziness, weakness, sudden. Secondary symptoms may include: headache. Risk groups: i, n, d, i, v. Emergency warning signs: f, a, c, i, a.",
+    "chunk_overlap_keys": [
+      "Stroke",
+      "confusion",
+      "balance",
+      "numbness"
+    ],
+    "created_at": "2026-04-27T16:02:54.312973"
+  },
+  {
+    "disease_name": "Atherosclerosis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic (progresses over years)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "walking"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden chest pain, stroke symptoms, severe limb pain, collapse",
+    "risk_groups": "smokers, people with high cholesterol, hypertension, diabetes, obesity, sedentary lifestyle, older adults",
+    "complications": [
+      "heart attack, stroke, peripheral artery disease, organ damage"
+    ],
+    "all_symptoms_raw": [
+      "often asymptomatic early",
+      "chest pain (if coronary arteries affected)",
+      "leg pain while walking (claudication)",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Atherosclerosis is a moderate_to_severe condition with a chronic (progresses over years) course. Core symptoms include: fatigue, walking. Risk groups: s, m, o, k, e. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Atherosclerosis",
+      "fatigue",
+      "walking"
+    ],
+    "created_at": "2026-04-27T16:02:54.312983"
+  },
+  {
+    "disease_name": "Varicose Veins",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "chronic (progressive over time)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe swelling, redness, pain suggesting clot, bleeding",
+    "risk_groups": "older adults, women, pregnant individuals, people with prolonged standing, obesity, family history",
+    "complications": [
+      "skin ulcers, bleeding, thrombophlebitis, chronic venous insufficiency"
+    ],
+    "all_symptoms_raw": [
+      "visible twisted, bulging veins",
+      "aching or heavy legs",
+      "swelling in lower legs",
+      "itching around veins",
+      "muscle cramps"
+    ],
+    "symptom_count": 1,
+    "semantic_summary": "Varicose Veins is a mild_to_moderate condition with a chronic (progressive over time) course. Core symptoms include: muscle. Risk groups: o, l, d, e, r. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Varicose Veins",
+      "muscle"
+    ],
+    "created_at": "2026-04-27T16:02:54.312993"
+  },
+  {
+    "disease_name": "Pneumonia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "1-3 weeks (longer in severe cases)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "confusion",
+      "fatigue",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathlessness, bluish lips, confusion, high fever, low oxygen levels",
+    "risk_groups": "infants, elderly, smokers, immunocompromised individuals, people with chronic diseases",
+    "complications": [
+      "respiratory failure, sepsis, pleural effusion, lung abscess, death"
+    ],
+    "all_symptoms_raw": [
+      "cough (with or without mucus)",
+      "fever and chills",
+      "shortness of breath",
+      "chest pain (worsens with breathing)",
+      "fatigue",
+      "confusion (especially in elderly)"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Pneumonia is a moderate_to_severe condition with a 1-3 weeks (longer in severe cases) course. Core symptoms include: confusion, fatigue, fever. Risk groups: i, n, f, a, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Pneumonia",
+      "confusion",
+      "fatigue",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.313003"
+  },
+  {
+    "disease_name": "Sinusitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "acute (up to 4 weeks), subacute (4-12 weeks), chronic (more than 12 weeks)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "headache",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "vision changes, severe headache, swelling around eyes, confusion",
+    "risk_groups": "people with allergies, asthma, frequent colds, smokers, individuals with weak immune systems",
+    "complications": [
+      "chronic sinusitis, spread of infection to eyes or brain (rare), abscess"
+    ],
+    "all_symptoms_raw": [
+      "facial pain or pressure",
+      "nasal congestion",
+      "thick nasal discharge",
+      "headache",
+      "reduced sense of smell",
+      "fever (in some cases)"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Sinusitis is a mild_to_moderate condition with a acute (up to 4 weeks), subacute (4-12 weeks), chronic (more than 12 weeks) course. Core symptoms include: headache, fever. Risk groups: p, e, o, p, l. Emergency warning signs: v, i, s, i, o.",
+    "chunk_overlap_keys": [
+      "Sinusitis",
+      "headache",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.313013"
+  },
+  {
+    "disease_name": "Pneumothorax",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "acute (may resolve or require intervention)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fatigue",
+      "sudden"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "severe breathlessness, chest tightness, cyanosis, low blood pressure (tension pneumothorax)",
+    "risk_groups": "tall thin individuals, smokers, people with lung disease, trauma patients, individuals undergoing chest procedures",
+    "complications": [
+      "tension pneumothorax, respiratory failure, recurrence"
+    ],
+    "all_symptoms_raw": [
+      "sudden chest pain",
+      "shortness of breath",
+      "rapid breathing",
+      "decreased breath sounds on affected side",
+      "fatigue"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Pneumothorax is a moderate_to_severe condition with a acute (may resolve or require intervention) course. Core symptoms include: fatigue, sudden. Risk groups: t, a, l, l,  . Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Pneumothorax",
+      "fatigue",
+      "sudden"
+    ],
+    "created_at": "2026-04-27T16:02:54.313024"
+  },
+  {
+    "disease_name": "Schizophrenia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "severe",
+    "duration": "lifelong (though about one third recover completely after one episode)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "hallucinations",
+      "delusions",
+      "speech"
+    ],
+    "secondary_symptoms": [
+      "movements"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "mental health crisis, severe psychotic episode, refusing care leading to potential harm",
+    "risk_groups": "starts between ages 16 and 30, men (develop symptoms earlier), people with a family history, individuals who experienced childhood trauma, abuse, or neglect",
+    "complications": [
+      "inability to work or care for oneself, severe relapse, suicidal thoughts"
+    ],
+    "all_symptoms_raw": [
+      "hallucinations (hearing voices or seeing things that are not there)",
+      "delusions (unusual false beliefs not based on reality)",
+      "muddled thoughts, disorganized speech, and trouble using information",
+      "lack of interest in things and difficulty showing emotions",
+      "strange movements, psychomotor agitation, or psychomotor retardation",
+      "difficulty concentrating, paying attention, or making decisions",
+      "feeling fearful, worried, or suspicious that others wish them harm"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Schizophrenia is a severe condition with a lifelong (though about one third recover completely after one episode) course. Core symptoms include: hallucinations, delusions, speech. Secondary symptoms may include: movements. Risk groups: s, t, a, r, t. Emergency warning signs: m, e, n, t, a.",
+    "chunk_overlap_keys": [
+      "Schizophrenia",
+      "hallucinations",
+      "delusions",
+      "speech"
+    ],
+    "created_at": "2026-04-27T16:02:54.313036"
+  },
+  {
+    "disease_name": "Obsessive-Compulsive Disorder",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "lifelong chronic condition",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "anxiety",
+      "movements",
+      "sudden"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "suicidal feelings",
+    "risk_groups": "teens, young adults, boys (develop earlier than girls), people with a first-degree relative with OCD, individuals with childhood trauma",
+    "complications": [
+      "depression, eating disorders, generalized anxiety disorder, hoarding disorder, Tourette syndrome, suicidal feelings"
+    ],
+    "all_symptoms_raw": [
+      "repeated unwanted thoughts, urges, or mental images causing anxiety",
+      "intense fear of germs, contamination, or losing something",
+      "aggressive or forbidden thoughts involving sex or religion",
+      "excessive cleaning, handwashing, or ordering things precisely",
+      "repeatedly checking things (e.g., locks, ovens) or compulsive counting",
+      "sudden twitches, movements, or sounds (if co-occurring with a tic disorder)"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Obsessive-Compulsive Disorder is a moderate_to_severe condition with a lifelong chronic condition course. Core symptoms include: anxiety, movements, sudden. Risk groups: t, e, e, n, s. Emergency warning signs: s, u, i, c, i.",
+    "chunk_overlap_keys": [
+      "Obsessive-Compulsive Disorder",
+      "anxiety",
+      "movements",
+      "sudden"
+    ],
+    "created_at": "2026-04-27T16:02:54.313047"
+  },
+  {
+    "disease_name": "Post-Traumatic Stress Disorder",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "long-term (symptoms must last longer than four weeks for diagnosis, can come and go over years)",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "places"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [
+      "irritability"
+    ],
+    "emergency_signs": "severe self-destructive or reckless behavior",
+    "risk_groups": "women, people with childhood trauma, individuals lacking social support, people with a history of mental illness or substance abuse, emergency service workers, military personnel",
+    "complications": [
+      "depression, substance use, sleep problems, chronic pain"
+    ],
+    "all_symptoms_raw": [
+      "nightmares, flashbacks, and intrusive frightening thoughts",
+      "physical sensations like pain, sweating, trembling, or feeling sick",
+      "feeling alert, on edge, easily startled, or jumpy (hypervigilance)",
+      "avoiding people, places, or talking about the trauma",
+      "feeling numb, detached from body, or unable to show affection",
+      "negative thoughts about self, guilt, blame, or trust issues",
+      "anger, irritability, and trouble sleeping or concentrating"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Post-Traumatic Stress Disorder is a moderate_to_severe condition with a long-term (symptoms must last longer than four weeks for diagnosis, can come and go over years) course. Core symptoms include: places. Risk groups: w, o, m, e, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Post-Traumatic Stress Disorder",
+      "places"
+    ],
+    "created_at": "2026-04-27T16:02:54.313058"
+  },
+  {
+    "disease_name": "Panic Disorder",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "long-term, individual attacks last a few minutes to over an hour",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "anxiety",
+      "weakness",
+      "sudden"
+    ],
+    "secondary_symptoms": [
+      "dizziness"
+    ],
+    "rare_symptoms": [
+      "places",
+      "nausea"
+    ],
+    "emergency_signs": "severe chest pain or trouble breathing that mimics a heart attack",
+    "risk_groups": "women, late teens or early adults, people under a lot of stress, individuals with a history of childhood trauma",
+    "complications": [
+      "depression, substance use disorders, agoraphobia"
+    ],
+    "all_symptoms_raw": [
+      "sudden, repeated panic attacks of overwhelming anxiety and fear",
+      "pounding or racing heart, chest pain",
+      "sweating, chills, trembling, or shaking",
+      "trouble breathing or the feeling of choking",
+      "weakness, dizziness, stomach pain, or nausea",
+      "feeling out of control or intense fear of death",
+      "avoiding places where past attacks occurred"
+    ],
+    "symptom_count": 6,
+    "semantic_summary": "Panic Disorder is a moderate_to_severe condition with a long-term, individual attacks last a few minutes to over an hour course. Core symptoms include: anxiety, weakness, sudden. Secondary symptoms may include: dizziness. Risk groups: w, o, m, e, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Panic Disorder",
+      "anxiety",
+      "weakness",
+      "sudden"
+    ],
+    "created_at": "2026-04-27T16:02:54.313072"
+  },
+  {
+    "disease_name": "Osteoarthritis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic lifelong condition, progresses slowly over years",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "fingers",
+      "stiffness",
+      "weakness"
+    ],
+    "secondary_symptoms": [
+      "walking"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden inability to bear weight, hot red swollen joint with fever, severe trauma, sudden weakness or numbness, loss of bladder or bowel control",
+    "risk_groups": "older adults, women especially after age 50, overweight or obese individuals, prior joint injury or surgery, repetitive joint overuse, family history, congenital joint abnormalities",
+    "complications": [
+      "chronic pain, reduced mobility, falls risk, muscle wasting, depression, sleep disturbance, joint deformity, loss of independence, disability"
+    ],
+    "all_symptoms_raw": [
+      "joint pain worsened by activity, relieved by rest in early stages",
+      "stiffness after rest or waking, usually brief morning stiffness",
+      "swelling, tenderness, reduced range of motion, weakness around joint",
+      "grinding, crunching, crepitus, feeling of bone rubbing",
+      "bony enlargements of fingers, enlarged or gnarled joints",
+      "difficulty walking, climbing stairs, gripping objects, dressing, standing from chairs",
+      "severe persistent pain, joint instability, deformity, disability in advanced disease"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Osteoarthritis is a mild_to_severe condition with a chronic lifelong condition, progresses slowly over years course. Core symptoms include: fingers, stiffness, weakness. Secondary symptoms may include: walking. Risk groups: o, l, d, e, r. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Osteoarthritis",
+      "fingers",
+      "stiffness",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.313086"
+  },
+  {
+    "disease_name": "Rheumatoid Arthritis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "moderate_to_severe",
+    "duration": "chronic lifelong condition with relapsing and remitting flares",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "stiffness",
+      "fatigue",
+      "fever"
+    ],
+    "secondary_symptoms": [
+      "weakness",
+      "walking"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "chest pain, severe shortness of breath, sudden neurological symptoms, inability to move joint after rapid swelling, high fever with severe flare, loss of bladder or bowel control",
+    "risk_groups": "women, middle-aged adults, smokers, family history, genetically predisposed individuals, people with autoimmune susceptibility",
+    "complications": [
+      "joint destruction, deformity, carpal tunnel syndrome, lung inflammation, heart inflammation, cardiovascular disease, stroke, osteoporosis, depression, disability"
+    ],
+    "all_symptoms_raw": [
+      "symmetrical joint pain, swelling, warmth, tenderness, especially hands, wrists, feet",
+      "prolonged morning stiffness, difficulty moving joints, reduced grip strength",
+      "redness around joints, decreased range of motion",
+      "fatigue, low energy, fever, sweating, poor appetite, weight loss",
+      "rheumatoid nodules under skin near pressure points or joints",
+      "progressive deformity, weakness, impaired walking or hand use in advanced disease"
+    ],
+    "symptom_count": 5,
+    "semantic_summary": "Rheumatoid Arthritis is a moderate_to_severe condition with a chronic lifelong condition with relapsing and remitting flares course. Core symptoms include: stiffness, fatigue, fever. Secondary symptoms may include: weakness, walking. Risk groups: w, o, m, e, n. Emergency warning signs: c, h, e, s, t.",
+    "chunk_overlap_keys": [
+      "Rheumatoid Arthritis",
+      "stiffness",
+      "fatigue",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.313098"
+  },
+  {
+    "disease_name": "Low Back Pain",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "acute days to 6 weeks, subacute 6-12 weeks, chronic over 12 weeks",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "muscle",
+      "stiffness",
+      "movements",
+      "numbness",
+      "weakness"
+    ],
+    "secondary_symptoms": [
+      "walking",
+      "fever"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "loss of bladder or bowel control, urinary retention, saddle numbness, rapidly worsening leg weakness, inability to walk, severe trauma, fever with severe back pain",
+    "risk_groups": "adults of all ages, sedentary individuals, heavy manual workers, obesity, poor conditioning, older adults, prior back problems, repetitive lifting occupations",
+    "complications": [
+      "chronic pain, reduced mobility, work disability, depression, sleep disturbance, falls risk, persistent sciatica, cauda equina syndrome, neurological deficits"
+    ],
+    "all_symptoms_raw": [
+      "aching, stiffness, soreness, muscle spasm in lower back",
+      "sharp, burning, stabbing, shooting pain in back or buttock",
+      "pain radiating into one or both legs, sciatica",
+      "pins and needles, numbness, weakness from nerve irritation",
+      "pain worse with bending, lifting, prolonged sitting, certain movements",
+      "reduced mobility, difficulty standing upright, trouble walking or getting out of bed",
+      "severe constant night pain, unexplained weight loss, fever, bladder or bowel changes may indicate serious cause"
+    ],
+    "symptom_count": 7,
+    "semantic_summary": "Low Back Pain is a mild_to_severe condition with a acute days to 6 weeks, subacute 6-12 weeks, chronic over 12 weeks course. Core symptoms include: muscle, stiffness, movements, numbness, weakness. Secondary symptoms may include: walking, fever. Risk groups: a, d, u, l, t. Emergency warning signs: l, o, s, s, .",
+    "chunk_overlap_keys": [
+      "Low Back Pain",
+      "muscle",
+      "stiffness",
+      "movements"
+    ],
+    "created_at": "2026-04-27T16:02:54.313112"
+  },
+  {
+    "disease_name": "Fibromyalgia",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_severe",
+    "duration": "chronic long-term condition, often months to years",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "memory",
+      "jaw",
+      "muscle",
+      "stiffness",
+      "fatigue",
+      "light",
+      "odors",
+      "numbness",
+      "dizziness",
+      "concentration",
+      "neck"
+    ],
+    "secondary_symptoms": [
+      "anxiety",
+      "balance",
+      "depression",
+      "tingling"
+    ],
+    "rare_symptoms": [
+      "painful"
+    ],
+    "emergency_signs": "severe suicidal thoughts, chest pain, sudden neurological deficits, high fever, rapidly worsening unexplained symptoms suggesting another condition",
+    "risk_groups": "women, adults aged 35-60, family history, people with anxiety or depression, chronic stress exposure, obesity, rheumatoid arthritis, lupus, trauma history",
+    "complications": [
+      "reduced quality of life, sleep disorders, depression, anxiety, reduced work capacity, deconditioning, chronic fatigue, cognitive impairment"
+    ],
+    "all_symptoms_raw": [
+      "widespread body pain described as aching, burning, stabbing, or mixed pain",
+      "increased sensitivity to touch, light, temperature, noise, odors, or medicines",
+      "tender points in neck, shoulders, elbows, hips, knees, back of head",
+      "fatigue despite adequate sleep, low energy, poor stamina",
+      "sleep disturbance, unrefreshing sleep, insomnia",
+      "muscle stiffness, spasms, pain that moves around body",
+      "numbness, tingling, pins and needles in hands or feet",
+      "headaches, migraines, jaw pain",
+      "memory or concentration problems, fibro fog",
+      "dizziness, balance issues, irritable bowel syndrome, restless legs syndrome",
+      "anxiety, depression, painful menstrual periods"
+    ],
+    "symptom_count": 16,
+    "semantic_summary": "Fibromyalgia is a mild_to_severe condition with a chronic long-term condition, often months to years course. Core symptoms include: memory, jaw, muscle, stiffness, fatigue, light, odors, numbness. Secondary symptoms may include: anxiety, balance, depression, tingling. Risk groups: w, o, m, e, n. Emergency warning signs: s, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Fibromyalgia",
+      "memory",
+      "jaw",
+      "muscle"
+    ],
+    "created_at": "2026-04-27T16:02:54.313129"
+  },
+  {
+    "disease_name": "Tendinitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "acute days to weeks, chronic cases may last months",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "stiffness",
+      "weakness"
+    ],
+    "secondary_symptoms": [
+      "sudden"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "fever with red hot swollen joint, inability to move limb, sudden tendon snap, severe swelling, rapidly worsening pain",
+    "risk_groups": "athletes, manual workers, repetitive motion workers, older adults, people with poor posture, prior joint injury",
+    "complications": [
+      "chronic pain, reduced mobility, tendon rupture, recurrent inflammation, joint stiffness, weakness, work limitation"
+    ],
+    "all_symptoms_raw": [
+      "localized pain near a joint or tendon",
+      "tenderness to touch over tendon",
+      "pain worsened by movement or resistance",
+      "swelling, stiffness, reduced range of motion",
+      "weakness or difficulty using affected limb",
+      "sudden severe pain or popping may suggest tendon rupture"
+    ],
+    "symptom_count": 3,
+    "semantic_summary": "Tendinitis is a mild_to_moderate condition with a acute days to weeks, chronic cases may last months course. Core symptoms include: stiffness, weakness. Secondary symptoms may include: sudden. Risk groups: a, t, h, l, e. Emergency warning signs: f, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Tendinitis",
+      "stiffness",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.313140"
+  },
+  {
+    "disease_name": "Bursitis",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "acute days to weeks, chronic or recurrent cases may last months",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "stiffness",
+      "fever"
+    ],
+    "secondary_symptoms": [],
+    "rare_symptoms": [],
+    "emergency_signs": "fever, rapidly increasing redness, severe swelling, inability to move joint, severe pain, spreading infection signs",
+    "risk_groups": "athletes, manual workers, people who kneel often, people leaning on elbows, older adults, people with gout, rheumatoid arthritis, diabetes, prior joint injury",
+    "complications": [
+      "chronic pain, reduced mobility, recurrent bursitis, infection, surrounding tendon irritation, functional limitation"
+    ],
+    "all_symptoms_raw": [
+      "localized joint pain",
+      "swelling over affected bursa",
+      "tenderness to touch",
+      "pain worsened by movement or pressure",
+      "warmth or redness over area",
+      "stiffness or reduced movement",
+      "pain while resting on affected side or surface",
+      "fever or marked redness may suggest infection"
+    ],
+    "symptom_count": 2,
+    "semantic_summary": "Bursitis is a mild_to_moderate condition with a acute days to weeks, chronic or recurrent cases may last months course. Core symptoms include: stiffness, fever. Risk groups: a, t, h, l, e. Emergency warning signs: f, e, v, e, r.",
+    "chunk_overlap_keys": [
+      "Bursitis",
+      "stiffness",
+      "fever"
+    ],
+    "created_at": "2026-04-27T16:02:54.313150"
+  },
+  {
+    "disease_name": "Carpal Tunnel Syndrome",
+    "disease_id": -1,
+    "aliases": [],
+    "severity": "mild_to_moderate",
+    "duration": "variable, weeks to years depending on cause and treatment",
+    "onset_speed": "unknown",
+    "core_symptoms": [
+      "numbness",
+      "tingling",
+      "weakness"
+    ],
+    "secondary_symptoms": [
+      "muscle"
+    ],
+    "rare_symptoms": [],
+    "emergency_signs": "sudden severe hand weakness, rapidly worsening numbness, loss of hand function, signs of trauma with deformity, severe swelling or infection",
+    "risk_groups": "women, middle-aged or older adults, pregnancy, overweight individuals, repetitive hand workers, diabetes, rheumatoid arthritis, hypothyroidism, menopause, prior wrist fracture",
+    "complications": [
+      "chronic pain, persistent numbness, grip weakness, thenar muscle wasting, reduced dexterity, permanent nerve damage if prolonged"
+    ],
+    "all_symptoms_raw": [
+      "numbness, tingling, burning in thumb, index, middle, and part of ring finger",
+      "wrist or hand pain, often worse at night or early morning",
+      "weakness, clumsiness, dropping objects, reduced grip strength",
+      "difficulty with buttoning clothes, holding phone, book, or steering wheel",
+      "shaking hand for relief, sensation of swelling without visible swelling",
+      "severe cases may show thumb muscle wasting and persistent numbness"
+    ],
+    "symptom_count": 4,
+    "semantic_summary": "Carpal Tunnel Syndrome is a mild_to_moderate condition with a variable, weeks to years depending on cause and treatment course. Core symptoms include: numbness, tingling, weakness. Secondary symptoms may include: muscle. Risk groups: w, o, m, e, n. Emergency warning signs: s, u, d, d, e.",
+    "chunk_overlap_keys": [
+      "Carpal Tunnel Syndrome",
+      "numbness",
+      "tingling",
+      "weakness"
+    ],
+    "created_at": "2026-04-27T16:02:54.313162"
+  }
+]

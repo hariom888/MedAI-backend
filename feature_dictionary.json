@@ -1,0 +1,3827 @@
+{
+  "memory": [
+    "Alzheimer's disease",
+    "Dementia",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Hypothyroidism",
+    "Multiple sclerosis",
+    "Parkinson's disease",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "loss": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Alzheimer's disease",
+    "Amoebiasis",
+    "Appendicitis",
+    "Bell's palsy",
+    "Brucellosis",
+    "Chickenpox",
+    "Cholera",
+    "Constipation",
+    "Dementia",
+    "Diabetic neuropathy",
+    "Encephalitis",
+    "Hand-Foot-Mouth Disease",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hyperthyroidism",
+    "Low Back Pain",
+    "Mumps",
+    "Parkinson's disease",
+    "Rheumatoid Arthritis",
+    "Stroke",
+    "Tuberculosis",
+    "Type 1 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "especially": [
+    "Alzheimer's disease",
+    "Asbestosis",
+    "Asthma",
+    "Cushing's Syndrome",
+    "Dementia",
+    "Hemorrhoids",
+    "Pneumonia",
+    "Rheumatoid Arthritis",
+    "Rubella",
+    "Stroke",
+    "Tetanus",
+    "Type 2 diabetes"
+  ],
+  "recent": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "events": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "repeating": [
+    "Alzheimer's disease"
+  ],
+  "questions": [
+    "Alzheimer's disease"
+  ],
+  "forgetting": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "names": [
+    "Alzheimer's disease"
+  ],
+  "and": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Alzheimer's disease",
+    "Amoebiasis",
+    "Ankylosing Spondylitis",
+    "Aphasia",
+    "Appendicitis",
+    "Asbestosis",
+    "Ataxia",
+    "Autism",
+    "Bell's palsy",
+    "Brucellosis",
+    "Carpal Tunnel Syndrome",
+    "Cerebral palsy",
+    "Chickenpox",
+    "Chikungunya",
+    "Cholera",
+    "Constipation",
+    "Cushing's Syndrome",
+    "Dementia",
+    "Diabetic neuropathy",
+    "Diphtheria",
+    "Fibromyalgia",
+    "Gallstones",
+    "Hand-Foot-Mouth Disease",
+    "Hantavirus Infection",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Influenza",
+    "Irritable Bowel Syndrome",
+    "Japanese Encephalitis",
+    "Low Back Pain",
+    "Migraine",
+    "Multiple sclerosis",
+    "Panic Disorder",
+    "Parkinson's disease",
+    "Plague",
+    "Pneumonia",
+    "Post-Traumatic Stress Disorder",
+    "Rubella",
+    "Schizophrenia",
+    "Sciatica",
+    "Scrub Typhus",
+    "Tetanus",
+    "Tuberculosis",
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "Typhoid Fever",
+    "Vitamin B12 Deficiency Anemia",
+    "Whooping Cough",
+    "Zika Virus Infection"
+  ],
+  "conversations": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "confusion": [
+    "Alcohol-Related Liver Disease",
+    "Alzheimer's disease",
+    "Aphasia",
+    "Encephalitis",
+    "Japanese Encephalitis",
+    "Meningitis",
+    "Migraine",
+    "Pneumonia",
+    "Rabies",
+    "Stroke",
+    "Typhoid Fever",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "disorientation": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "getting": [
+    "Alzheimer's disease",
+    "Dementia",
+    "Low Back Pain"
+  ],
+  "lost": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "familiar": [
+    "Alzheimer's disease",
+    "Dementia"
+  ],
+  "places": [
+    "Alzheimer's disease",
+    "Dementia",
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "difficulty": [
+    "Alzheimer's disease",
+    "Angioedema",
+    "Anxiety Disorders in Children and Young People",
+    "Aphasia",
+    "Asthma",
+    "Ataxia",
+    "Autism",
+    "Bell's palsy",
+    "Carpal Tunnel Syndrome",
+    "Cerebral palsy",
+    "Dementia",
+    "Diphtheria",
+    "Goiter",
+    "Hyperthyroidism",
+    "Low Back Pain",
+    "Meningitis",
+    "Migraine",
+    "Multiple sclerosis",
+    "Osteoarthritis",
+    "Parkinson's disease",
+    "Rheumatoid Arthritis",
+    "Schizophrenia",
+    "Stroke",
+    "Tendinitis",
+    "Tetanus",
+    "Type 1 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "speaking": [
+    "Alzheimer's disease",
+    "Aphasia",
+    "Stroke"
+  ],
+  "reading": [
+    "Alzheimer's disease",
+    "Aphasia"
+  ],
+  "writing": [
+    "Alzheimer's disease",
+    "Aphasia",
+    "Parkinson's disease"
+  ],
+  "planning": [
+    "Alzheimer's disease"
+  ],
+  "decision": [
+    "Alzheimer's disease"
+  ],
+  "making": [
+    "Alzheimer's disease",
+    "Bell's palsy",
+    "Schizophrenia"
+  ],
+  "behavioral": [
+    "Alzheimer's disease",
+    "Cerebral palsy",
+    "Encephalitis"
+  ],
+  "changes": [
+    "Alzheimer's disease",
+    "Bell's palsy",
+    "Cushing's Syndrome",
+    "Dementia",
+    "Diabetic neuropathy",
+    "Encephalitis",
+    "Hyperthyroidism",
+    "Low Back Pain",
+    "Parkinson's disease"
+  ],
+  "such": [
+    "Alzheimer's disease",
+    "Dementia",
+    "Diabetic neuropathy",
+    "Meningitis",
+    "Migraine",
+    "Multiple sclerosis",
+    "Parkinson's disease",
+    "Sciatica",
+    "Type 1 diabetes"
+  ],
+  "anxiety": [
+    "Alzheimer's disease",
+    "Cushing's Syndrome",
+    "Dementia",
+    "Fibromyalgia",
+    "Hyperthyroidism",
+    "Obsessive-Compulsive Disorder",
+    "Panic Disorder",
+    "Parkinson's disease",
+    "Rabies"
+  ],
+  "aggression": [
+    "Alzheimer's disease"
+  ],
+  "low": [
+    "Addison's Disease",
+    "Alzheimer's disease",
+    "Appendicitis",
+    "Fibromyalgia",
+    "Hypothyroidism",
+    "Rheumatoid Arthritis"
+  ],
+  "mood": [
+    "Alzheimer's disease",
+    "Cushing's Syndrome",
+    "Dementia",
+    "Hypothyroidism"
+  ],
+  "hallucinations": [
+    "Alzheimer's disease",
+    "Encephalitis",
+    "Rabies",
+    "Schizophrenia"
+  ],
+  "delusions": [
+    "Alzheimer's disease",
+    "Schizophrenia"
+  ],
+  "performing": [
+    "Alzheimer's disease",
+    "Aphasia",
+    "Dementia",
+    "Parkinson's disease"
+  ],
+  "daily": [
+    "Alzheimer's disease",
+    "Parkinson's disease"
+  ],
+  "tasks": [
+    "Alzheimer's disease",
+    "Ataxia",
+    "Dementia",
+    "Parkinson's disease"
+  ],
+  "poor": [
+    "Alzheimer's disease",
+    "Ataxia",
+    "Dementia",
+    "Fibromyalgia",
+    "Meningitis",
+    "Migraine",
+    "Parkinson's disease",
+    "Rheumatoid Arthritis"
+  ],
+  "self": [
+    "Alzheimer's disease",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "care": [
+    "Alzheimer's disease"
+  ],
+  "reduced": [
+    "Alzheimer's disease",
+    "Ankylosing Spondylitis",
+    "Bursitis",
+    "Carpal Tunnel Syndrome",
+    "Dementia",
+    "Diabetic neuropathy",
+    "Leprosy",
+    "Low Back Pain",
+    "Multiple sclerosis",
+    "Osteoarthritis",
+    "Parkinson's disease",
+    "Rheumatoid Arthritis",
+    "Sinusitis",
+    "Tendinitis"
+  ],
+  "mobility": [
+    "Alzheimer's disease",
+    "Low Back Pain"
+  ],
+  "later": [
+    "Alzheimer's disease",
+    "Appendicitis",
+    "Hantavirus Infection"
+  ],
+  "stages": [
+    "Alcohol-Related Liver Disease",
+    "Alzheimer's disease",
+    "Asbestosis",
+    "Osteoarthritis"
+  ],
+  "progressive": [
+    "Alzheimer's disease",
+    "Rheumatoid Arthritis"
+  ],
+  "cognitive": [
+    "Alzheimer's disease",
+    "Multiple sclerosis"
+  ],
+  "decline": [
+    "Alzheimer's disease"
+  ],
+  "leading": [
+    "Alzheimer's disease",
+    "Diabetic neuropathy"
+  ],
+  "complete": [
+    "Alzheimer's disease"
+  ],
+  "dependence": [
+    "Alzheimer's disease"
+  ],
+  "advanced": [
+    "Alcohol-Related Liver Disease",
+    "Alzheimer's disease",
+    "Asbestosis",
+    "Hypertension",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis"
+  ],
+  "tremor": [
+    "Parkinson's disease"
+  ],
+  "rest": [
+    "Ankylosing Spondylitis",
+    "Osteoarthritis",
+    "Parkinson's disease"
+  ],
+  "often": [
+    "Atherosclerosis",
+    "Carpal Tunnel Syndrome",
+    "Chikungunya",
+    "Hypertension",
+    "Irritable Bowel Syndrome",
+    "Parkinson's disease",
+    "Vitamin D Deficiency"
+  ],
+  "starting": [
+    "Chickenpox",
+    "Parkinson's disease",
+    "Rubella"
+  ],
+  "hands": [
+    "Ataxia",
+    "Chikungunya",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Hand-Foot-Mouth Disease",
+    "Hyperthyroidism",
+    "Leprosy",
+    "Parkinson's disease",
+    "Rheumatoid Arthritis",
+    "Type 2 diabetes"
+  ],
+  "fingers": [
+    "Asbestosis",
+    "Hyperthyroidism",
+    "Osteoarthritis",
+    "Parkinson's disease"
+  ],
+  "foot": [
+    "Parkinson's disease",
+    "Sciatica"
+  ],
+  "jaw": [
+    "Angina",
+    "Bell's palsy",
+    "Fibromyalgia",
+    "Heart Attack",
+    "Mumps",
+    "Parkinson's disease",
+    "Tetanus"
+  ],
+  "bradykinesia": [
+    "Parkinson's disease"
+  ],
+  "slowed": [
+    "Hypothyroidism",
+    "Parkinson's disease"
+  ],
+  "movement": [
+    "Appendicitis",
+    "Bursitis",
+    "Cerebral palsy",
+    "Irritable Bowel Syndrome",
+    "Migraine",
+    "Parkinson's disease",
+    "Sciatica",
+    "Tendinitis"
+  ],
+  "initiating": [
+    "Parkinson's disease"
+  ],
+  "muscle": [
+    "Addison's Disease",
+    "Brucellosis",
+    "Carpal Tunnel Syndrome",
+    "Cerebral palsy",
+    "Chikungunya",
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Hantavirus Infection",
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Leprosy",
+    "Low Back Pain",
+    "Multiple sclerosis",
+    "Mumps",
+    "Parkinson's disease",
+    "Sciatica",
+    "Scrub Typhus",
+    "Tetanus",
+    "Varicose Veins",
+    "Vitamin D Deficiency",
+    "Zika Virus Infection"
+  ],
+  "rigidity": [
+    "Cerebral palsy",
+    "Parkinson's disease",
+    "Tetanus"
+  ],
+  "stiffness": [
+    "Ankylosing Spondylitis",
+    "Bursitis",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Japanese Encephalitis",
+    "Low Back Pain",
+    "Meningitis",
+    "Osteoarthritis",
+    "Parkinson's disease",
+    "Rheumatoid Arthritis",
+    "Tendinitis",
+    "Tetanus"
+  ],
+  "arm": [
+    "Heart Attack",
+    "Parkinson's disease"
+  ],
+  "swing": [
+    "Parkinson's disease"
+  ],
+  "painful": [
+    "Angioedema",
+    "Fibromyalgia",
+    "Hand-Foot-Mouth Disease",
+    "Parkinson's disease",
+    "Plague",
+    "Tetanus"
+  ],
+  "tension": [
+    "Parkinson's disease"
+  ],
+  "balance": [
+    "Cerebral palsy",
+    "Fibromyalgia",
+    "Multiple sclerosis",
+    "Parkinson's disease",
+    "Stroke"
+  ],
+  "problems": [
+    "Aphasia",
+    "Cerebral palsy",
+    "Dementia",
+    "Diabetic neuropathy",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Hypothyroidism",
+    "Multiple sclerosis",
+    "Parkinson's disease",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "posture": [
+    "Parkinson's disease"
+  ],
+  "increased": [
+    "Bell's palsy",
+    "Fibromyalgia",
+    "Hyperthyroidism",
+    "Parkinson's disease",
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "risk": [
+    "Parkinson's disease"
+  ],
+  "falls": [
+    "Parkinson's disease"
+  ],
+  "speech": [
+    "Aphasia",
+    "Ataxia",
+    "Autism",
+    "Cerebral palsy",
+    "Encephalitis",
+    "Migraine",
+    "Parkinson's disease",
+    "Schizophrenia"
+  ],
+  "soft": [
+    "Parkinson's disease"
+  ],
+  "slurred": [
+    "Ataxia",
+    "Parkinson's disease"
+  ],
+  "monotone": [
+    "Parkinson's disease"
+  ],
+  "voice": [
+    "Parkinson's disease"
+  ],
+  "automatic": [
+    "Parkinson's disease"
+  ],
+  "movements": [
+    "Ataxia",
+    "Autism",
+    "Constipation",
+    "Encephalitis",
+    "Hemorrhoids",
+    "Hyperthyroidism",
+    "Low Back Pain",
+    "Obsessive-Compulsive Disorder",
+    "Parkinson's disease",
+    "Schizophrenia"
+  ],
+  "blinking": [
+    "Parkinson's disease"
+  ],
+  "smiling": [
+    "Bell's palsy",
+    "Parkinson's disease"
+  ],
+  "small": [
+    "Hand-Foot-Mouth Disease",
+    "Parkinson's disease"
+  ],
+  "cramped": [
+    "Parkinson's disease"
+  ],
+  "handwriting": [
+    "Parkinson's disease"
+  ],
+  "non": [
+    "Leprosy",
+    "Parkinson's disease"
+  ],
+  "motor": [
+    "Ataxia",
+    "Parkinson's disease"
+  ],
+  "symptoms": [
+    "Anxiety Disorders in Children and Young People",
+    "Goiter",
+    "Hyperthyroidism",
+    "Migraine",
+    "Parkinson's disease",
+    "Type 1 diabetes",
+    "Vitamin D Deficiency"
+  ],
+  "including": [
+    "Diabetic neuropathy",
+    "Encephalitis",
+    "Multiple sclerosis",
+    "Parkinson's disease"
+  ],
+  "depression": [
+    "Aphasia",
+    "Cushing's Syndrome",
+    "Dementia",
+    "Fibromyalgia",
+    "Hypothyroidism",
+    "Parkinson's disease",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "sleep": [
+    "Anxiety Disorders in Children and Young People",
+    "Cerebral palsy",
+    "Fibromyalgia",
+    "Parkinson's disease"
+  ],
+  "disturbances": [
+    "Anxiety Disorders in Children and Young People",
+    "Cerebral palsy",
+    "Multiple sclerosis",
+    "Parkinson's disease"
+  ],
+  "constipation": [
+    "Appendicitis",
+    "Diabetic neuropathy",
+    "Hypothyroidism",
+    "Irritable Bowel Syndrome",
+    "Parkinson's disease",
+    "Typhoid Fever"
+  ],
+  "fatigue": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Amoebiasis",
+    "Angina",
+    "Ankylosing Spondylitis",
+    "Anxiety Disorders in Children and Young People",
+    "Asbestosis",
+    "Atherosclerosis",
+    "Brucellosis",
+    "Cerebral palsy",
+    "Chickenpox",
+    "Cushing's Syndrome",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Hantavirus Infection",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Influenza",
+    "Irritable Bowel Syndrome",
+    "Migraine",
+    "Multiple sclerosis",
+    "Mumps",
+    "Parkinson's disease",
+    "Plague",
+    "Pneumonia",
+    "Pneumothorax",
+    "Rheumatoid Arthritis",
+    "Rubella",
+    "Tuberculosis",
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "Typhoid Fever",
+    "Vitamin B12 Deficiency Anemia",
+    "Vitamin D Deficiency",
+    "Zika Virus Infection"
+  ],
+  "smell": [
+    "Parkinson's disease",
+    "Sinusitis"
+  ],
+  "throbbing": [
+    "Migraine"
+  ],
+  "pulsing": [
+    "Migraine"
+  ],
+  "headache": [
+    "Bell's palsy",
+    "Brucellosis",
+    "Chickenpox",
+    "Chikungunya",
+    "Encephalitis",
+    "Hand-Foot-Mouth Disease",
+    "Hantavirus Infection",
+    "Influenza",
+    "Japanese Encephalitis",
+    "Meningitis",
+    "Migraine",
+    "Mumps",
+    "Rabies",
+    "Scrub Typhus",
+    "Sinusitis",
+    "Stroke",
+    "Typhoid Fever",
+    "Zika Virus Infection"
+  ],
+  "usually": [
+    "Migraine",
+    "Osteoarthritis",
+    "Sciatica"
+  ],
+  "one": [
+    "Bell's palsy",
+    "Low Back Pain",
+    "Migraine",
+    "Sciatica",
+    "Stroke"
+  ],
+  "side": [
+    "Bell's palsy",
+    "Bursitis",
+    "Migraine",
+    "Pneumothorax",
+    "Sciatica",
+    "Stroke"
+  ],
+  "the": [
+    "Appendicitis",
+    "Bell's palsy",
+    "Goiter",
+    "Hemorrhoids",
+    "Migraine",
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "head": [
+    "Fibromyalgia",
+    "Migraine"
+  ],
+  "sometimes": [
+    "Diabetic neuropathy",
+    "Migraine"
+  ],
+  "bilateral": [
+    "Migraine"
+  ],
+  "nausea": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Amoebiasis",
+    "Angina",
+    "Angioedema",
+    "Appendicitis",
+    "Constipation",
+    "Diabetic neuropathy",
+    "Gallstones",
+    "Hantavirus Infection",
+    "Heart Attack",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Influenza",
+    "Irritable Bowel Syndrome",
+    "Meningitis",
+    "Migraine",
+    "Panic Disorder",
+    "Type 1 diabetes"
+  ],
+  "vomiting": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Angioedema",
+    "Appendicitis",
+    "Cholera",
+    "Gallstones",
+    "Hantavirus Infection",
+    "Heart Attack",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Influenza",
+    "Meningitis",
+    "Migraine",
+    "Type 1 diabetes",
+    "Whooping Cough"
+  ],
+  "sensitivity": [
+    "Autism",
+    "Bell's palsy",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Meningitis",
+    "Migraine"
+  ],
+  "light": [
+    "Autism",
+    "Fibromyalgia",
+    "Leprosy",
+    "Meningitis",
+    "Migraine"
+  ],
+  "sound": [
+    "Asthma",
+    "Autism",
+    "Bell's palsy",
+    "Migraine",
+    "Whooping Cough"
+  ],
+  "odors": [
+    "Fibromyalgia",
+    "Migraine"
+  ],
+  "aura": [
+    "Migraine"
+  ],
+  "flashing": [
+    "Migraine"
+  ],
+  "lights": [
+    "Migraine"
+  ],
+  "zig": [
+    "Migraine"
+  ],
+  "zag": [
+    "Migraine"
+  ],
+  "lines": [
+    "Migraine"
+  ],
+  "numbness": [
+    "Carpal Tunnel Syndrome",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Leprosy",
+    "Low Back Pain",
+    "Migraine",
+    "Multiple sclerosis",
+    "Sciatica",
+    "Stroke",
+    "Type 2 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "tingling": [
+    "Carpal Tunnel Syndrome",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Migraine",
+    "Multiple sclerosis",
+    "Rabies",
+    "Sciatica",
+    "Type 2 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "dizziness": [
+    "Addison's Disease",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Heart Attack",
+    "Hypertension",
+    "Migraine",
+    "Panic Disorder",
+    "Stroke",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "concentration": [
+    "Fibromyalgia",
+    "Migraine"
+  ],
+  "weakness": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Angina",
+    "Asbestosis",
+    "Bell's palsy",
+    "Brucellosis",
+    "Carpal Tunnel Syndrome",
+    "Cholera",
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Diphtheria",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hyperthyroidism",
+    "Influenza",
+    "Leprosy",
+    "Low Back Pain",
+    "Migraine",
+    "Multiple sclerosis",
+    "Osteoarthritis",
+    "Panic Disorder",
+    "Plague",
+    "Rabies",
+    "Rheumatoid Arthritis",
+    "Sciatica",
+    "Stroke",
+    "Tendinitis",
+    "Tuberculosis",
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "Typhoid Fever",
+    "Vitamin B12 Deficiency Anemia",
+    "Vitamin D Deficiency"
+  ],
+  "worsening": [
+    "Appendicitis",
+    "Migraine"
+  ],
+  "pain": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Amoebiasis",
+    "Angina",
+    "Angioedema",
+    "Ankylosing Spondylitis",
+    "Appendicitis",
+    "Asbestosis",
+    "Asthma",
+    "Atherosclerosis",
+    "Bell's palsy",
+    "Brucellosis",
+    "Bursitis",
+    "Carpal Tunnel Syndrome",
+    "Chikungunya",
+    "Constipation",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Gallstones",
+    "Heart Attack",
+    "Hemorrhoids",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hypertension",
+    "Hypothyroidism",
+    "Irritable Bowel Syndrome",
+    "Low Back Pain",
+    "Migraine",
+    "Osteoarthritis",
+    "Panic Disorder",
+    "Plague",
+    "Pneumonia",
+    "Pneumothorax",
+    "Post-Traumatic Stress Disorder",
+    "Rheumatoid Arthritis",
+    "Rubella",
+    "Sciatica",
+    "Sinusitis",
+    "Tendinitis",
+    "Tuberculosis",
+    "Type 1 diabetes",
+    "Typhoid Fever",
+    "Vitamin D Deficiency",
+    "Zika Virus Infection"
+  ],
+  "with": [
+    "Ankylosing Spondylitis",
+    "Aphasia",
+    "Appendicitis",
+    "Ataxia",
+    "Autism",
+    "Brucellosis",
+    "Carpal Tunnel Syndrome",
+    "Cerebral palsy",
+    "Dementia",
+    "Hand-Foot-Mouth Disease",
+    "Leprosy",
+    "Low Back Pain",
+    "Migraine",
+    "Obsessive-Compulsive Disorder",
+    "Pneumonia",
+    "Stroke"
+  ],
+  "coughing": [
+    "Appendicitis",
+    "Migraine",
+    "Sciatica",
+    "Tuberculosis",
+    "Whooping Cough"
+  ],
+  "physical": [
+    "Anxiety Disorders in Children and Young People",
+    "Migraine",
+    "Multiple sclerosis",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "activity": [
+    "Migraine",
+    "Osteoarthritis"
+  ],
+  "post": [
+    "Migraine"
+  ],
+  "episode": [
+    "Migraine"
+  ],
+  "exhaustion": [
+    "Migraine",
+    "Whooping Cough"
+  ],
+  "lasting": [
+    "Gallstones",
+    "Migraine",
+    "Tuberculosis"
+  ],
+  "hours": [
+    "Bell's palsy",
+    "Gallstones",
+    "Migraine"
+  ],
+  "day": [
+    "Migraine"
+  ],
+  "forming": [
+    "Aphasia"
+  ],
+  "sentences": [
+    "Aphasia"
+  ],
+  "producing": [
+    "Aphasia"
+  ],
+  "correct": [
+    "Aphasia"
+  ],
+  "words": [
+    "Aphasia",
+    "Dementia"
+  ],
+  "trouble": [
+    "Aphasia",
+    "Low Back Pain",
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder",
+    "Schizophrenia",
+    "Stroke"
+  ],
+  "finding": [
+    "Aphasia"
+  ],
+  "anomia": [
+    "Aphasia"
+  ],
+  "fragmented": [
+    "Aphasia"
+  ],
+  "jumbled": [
+    "Aphasia"
+  ],
+  "impaired": [
+    "Aphasia",
+    "Encephalitis",
+    "Rheumatoid Arthritis"
+  ],
+  "understanding": [
+    "Aphasia"
+  ],
+  "spoken": [
+    "Aphasia"
+  ],
+  "language": [
+    "Aphasia",
+    "Autism",
+    "Dementia"
+  ],
+  "calculations": [
+    "Aphasia"
+  ],
+  "long": [
+    "Aphasia",
+    "Brucellosis"
+  ],
+  "complex": [
+    "Aphasia"
+  ],
+  "frustration": [
+    "Aphasia"
+  ],
+  "possible": [
+    "Aphasia"
+  ],
+  "due": [
+    "Ankylosing Spondylitis",
+    "Aphasia",
+    "Diabetic neuropathy",
+    "Hemorrhoids",
+    "Plague"
+  ],
+  "communication": [
+    "Aphasia",
+    "Autism",
+    "Cerebral palsy"
+  ],
+  "difficulties": [
+    "Aphasia",
+    "Cerebral palsy",
+    "Multiple sclerosis"
+  ],
+  "visual": [
+    "Multiple sclerosis"
+  ],
+  "blurred": [
+    "Hypertension",
+    "Multiple sclerosis",
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "vision": [
+    "Cerebral palsy",
+    "Encephalitis",
+    "Hypertension",
+    "Hyperthyroidism",
+    "Meningitis",
+    "Multiple sclerosis",
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "double": [
+    "Encephalitis",
+    "Hyperthyroidism",
+    "Meningitis",
+    "Multiple sclerosis"
+  ],
+  "strength": [
+    "Carpal Tunnel Syndrome",
+    "Multiple sclerosis",
+    "Rheumatoid Arthritis"
+  ],
+  "coordination": [
+    "Ataxia",
+    "Cerebral palsy",
+    "Diabetic neuropathy",
+    "Multiple sclerosis",
+    "Stroke"
+  ],
+  "walking": [
+    "Appendicitis",
+    "Ataxia",
+    "Atherosclerosis",
+    "Cerebral palsy",
+    "Low Back Pain",
+    "Multiple sclerosis",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "pins": [
+    "Fibromyalgia",
+    "Low Back Pain",
+    "Multiple sclerosis",
+    "Sciatica"
+  ],
+  "needles": [
+    "Fibromyalgia",
+    "Low Back Pain",
+    "Multiple sclerosis",
+    "Sciatica"
+  ],
+  "sensations": [
+    "Multiple sclerosis",
+    "Post-Traumatic Stress Disorder",
+    "Sciatica"
+  ],
+  "endurance": [
+    "Multiple sclerosis"
+  ],
+  "issues": [
+    "Cerebral palsy",
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Hypothyroidism",
+    "Multiple sclerosis",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "thinking": [
+    "Dementia",
+    "Encephalitis",
+    "Hypothyroidism",
+    "Multiple sclerosis"
+  ],
+  "sudden": [
+    "Bell's palsy",
+    "Chikungunya",
+    "Gallstones",
+    "Influenza",
+    "Meningitis",
+    "Obsessive-Compulsive Disorder",
+    "Panic Disorder",
+    "Pneumothorax",
+    "Stroke",
+    "Tendinitis"
+  ],
+  "fever": [
+    "Amoebiasis",
+    "Appendicitis",
+    "Brucellosis",
+    "Bursitis",
+    "Chickenpox",
+    "Chikungunya",
+    "Diphtheria",
+    "Encephalitis",
+    "Gallstones",
+    "Hand-Foot-Mouth Disease",
+    "Hantavirus Infection",
+    "Hepatitis A",
+    "Influenza",
+    "Japanese Encephalitis",
+    "Low Back Pain",
+    "Meningitis",
+    "Mumps",
+    "Plague",
+    "Pneumonia",
+    "Rabies",
+    "Rheumatoid Arthritis",
+    "Rubella",
+    "Scrub Typhus",
+    "Sinusitis",
+    "Tuberculosis",
+    "Typhoid Fever",
+    "Zika Virus Infection"
+  ],
+  "severe": [
+    "Carpal Tunnel Syndrome",
+    "Chickenpox",
+    "Chikungunya",
+    "Constipation",
+    "Encephalitis",
+    "Gallstones",
+    "Heart Attack",
+    "Hemorrhoids",
+    "Hypertension",
+    "Japanese Encephalitis",
+    "Low Back Pain",
+    "Meningitis",
+    "Osteoarthritis",
+    "Plague",
+    "Stroke",
+    "Tendinitis",
+    "Whooping Cough"
+  ],
+  "neck": [
+    "Angina",
+    "Diphtheria",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Goiter",
+    "Heart Attack",
+    "Japanese Encephalitis",
+    "Meningitis",
+    "Tetanus"
+  ],
+  "photophobia": [
+    "Meningitis"
+  ],
+  "altered": [
+    "Encephalitis",
+    "Japanese Encephalitis",
+    "Meningitis",
+    "Sciatica"
+  ],
+  "mental": [
+    "Meningitis",
+    "Obsessive-Compulsive Disorder"
+  ],
+  "state": [
+    "Meningitis"
+  ],
+  "concentrating": [
+    "Anxiety Disorders in Children and Young People",
+    "Meningitis",
+    "Post-Traumatic Stress Disorder",
+    "Schizophrenia"
+  ],
+  "seizures": [
+    "Cerebral palsy",
+    "Encephalitis",
+    "Japanese Encephalitis",
+    "Meningitis"
+  ],
+  "drowsiness": [
+    "Meningitis"
+  ],
+  "waking": [
+    "Ankylosing Spondylitis",
+    "Meningitis",
+    "Osteoarthritis"
+  ],
+  "rash": [
+    "Chickenpox",
+    "Chikungunya",
+    "Hand-Foot-Mouth Disease",
+    "Meningitis",
+    "Rubella",
+    "Scrub Typhus",
+    "Typhoid Fever",
+    "Zika Virus Infection"
+  ],
+  "some": [
+    "Meningitis",
+    "Sinusitis"
+  ],
+  "bacterial": [
+    "Meningitis"
+  ],
+  "types": [
+    "Meningitis"
+  ],
+  "meningococcal": [
+    "Meningitis"
+  ],
+  "infants": [
+    "Meningitis"
+  ],
+  "bulging": [
+    "Hyperthyroidism",
+    "Meningitis",
+    "Varicose Veins"
+  ],
+  "fontanelle": [
+    "Meningitis"
+  ],
+  "irritability": [
+    "Anxiety Disorders in Children and Young People",
+    "Dementia",
+    "Hyperthyroidism",
+    "Meningitis",
+    "Post-Traumatic Stress Disorder",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "feeding": [
+    "Cerebral palsy",
+    "Meningitis"
+  ],
+  "lethargy": [
+    "Hypothyroidism",
+    "Meningitis"
+  ],
+  "body": [
+    "Chickenpox",
+    "Encephalitis",
+    "Fibromyalgia",
+    "Influenza",
+    "Post-Traumatic Stress Disorder",
+    "Rubella",
+    "Stroke"
+  ],
+  "aches": [
+    "Anxiety Disorders in Children and Young People",
+    "Encephalitis",
+    "Hantavirus Infection",
+    "Influenza",
+    "Mumps",
+    "Scrub Typhus"
+  ],
+  "judgment": [
+    "Dementia",
+    "Encephalitis"
+  ],
+  "tremors": [
+    "Encephalitis",
+    "Hyperthyroidism"
+  ],
+  "myoclonic": [
+    "Encephalitis"
+  ],
+  "jerks": [
+    "Encephalitis"
+  ],
+  "abnormal": [
+    "Ataxia",
+    "Cerebral palsy",
+    "Diabetic neuropathy",
+    "Encephalitis"
+  ],
+  "hearing": [
+    "Encephalitis",
+    "Schizophrenia"
+  ],
+  "partial": [
+    "Encephalitis"
+  ],
+  "paralysis": [
+    "Bell's palsy",
+    "Encephalitis"
+  ],
+  "personality": [
+    "Dementia",
+    "Encephalitis"
+  ],
+  "cases": [
+    "Brucellosis",
+    "Carpal Tunnel Syndrome",
+    "Chickenpox",
+    "Constipation",
+    "Encephalitis",
+    "Hypertension",
+    "Japanese Encephalitis",
+    "Plague",
+    "Sinusitis"
+  ],
+  "consciousness": [
+    "Encephalitis",
+    "Japanese Encephalitis"
+  ],
+  "coma": [
+    "Encephalitis",
+    "Japanese Encephalitis"
+  ],
+  "persistent": [
+    "Asbestosis",
+    "Asthma",
+    "Brucellosis",
+    "Carpal Tunnel Syndrome",
+    "Constipation",
+    "Gallstones",
+    "Osteoarthritis",
+    "Tuberculosis"
+  ],
+  "morning": [
+    "Ankylosing Spondylitis",
+    "Asthma",
+    "Carpal Tunnel Syndrome",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis"
+  ],
+  "headaches": [
+    "Anxiety Disorders in Children and Young People",
+    "Fibromyalgia",
+    "Hypertension",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "relieved": [
+    "Irritable Bowel Syndrome",
+    "Osteoarthritis"
+  ],
+  "after": [
+    "Irritable Bowel Syndrome",
+    "Osteoarthritis",
+    "Whooping Cough"
+  ],
+  "appetite": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Appendicitis",
+    "Brucellosis",
+    "Chickenpox",
+    "Constipation",
+    "Hand-Foot-Mouth Disease",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hyperthyroidism",
+    "Mumps",
+    "Rheumatoid Arthritis",
+    "Tuberculosis"
+  ],
+  "limbs": [
+    "Ataxia"
+  ],
+  "spinal": [
+    "Ankylosing Spondylitis"
+  ],
+  "back": [
+    "Angina",
+    "Ankylosing Spondylitis",
+    "Brucellosis",
+    "Chickenpox",
+    "Cushing's Syndrome",
+    "Fibromyalgia",
+    "Gallstones",
+    "Heart Attack",
+    "Low Back Pain",
+    "Sciatica",
+    "Tetanus"
+  ],
+  "bowel": [
+    "Constipation",
+    "Fibromyalgia",
+    "Hemorrhoids",
+    "Hyperthyroidism",
+    "Irritable Bowel Syndrome",
+    "Low Back Pain"
+  ],
+  "bladder": [
+    "Diabetic neuropathy",
+    "Low Back Pain"
+  ],
+  "dysfunction": [
+    "Diabetic neuropathy"
+  ],
+  "face": [
+    "Angioedema",
+    "Bell's palsy",
+    "Chickenpox",
+    "Cushing's Syndrome",
+    "Rubella"
+  ],
+  "developing": [
+    "Bell's palsy"
+  ],
+  "within": [
+    "Bell's palsy",
+    "Chickenpox"
+  ],
+  "days": [
+    "Bell's palsy"
+  ],
+  "facial": [
+    "Bell's palsy",
+    "Sinusitis"
+  ],
+  "drooping": [
+    "Bell's palsy"
+  ],
+  "closing": [
+    "Bell's palsy"
+  ],
+  "eye": [
+    "Ataxia",
+    "Bell's palsy",
+    "Hyperthyroidism"
+  ],
+  "expressions": [
+    "Bell's palsy"
+  ],
+  "drooling": [
+    "Bell's palsy"
+  ],
+  "controlling": [
+    "Bell's palsy"
+  ],
+  "saliva": [
+    "Bell's palsy"
+  ],
+  "around": [
+    "Appendicitis",
+    "Bell's palsy",
+    "Cushing's Syndrome",
+    "Fibromyalgia",
+    "Hemorrhoids",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Varicose Veins"
+  ],
+  "behind": [
+    "Bell's palsy"
+  ],
+  "ear": [
+    "Bell's palsy"
+  ],
+  "affected": [
+    "Atherosclerosis",
+    "Bell's palsy",
+    "Bursitis",
+    "Pneumothorax",
+    "Tendinitis"
+  ],
+  "hyperacusis": [
+    "Bell's palsy"
+  ],
+  "taste": [
+    "Bell's palsy"
+  ],
+  "tear": [
+    "Bell's palsy"
+  ],
+  "production": [
+    "Bell's palsy"
+  ],
+  "burning": [
+    "Carpal Tunnel Syndrome",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "feet": [
+    "Ankylosing Spondylitis",
+    "Chikungunya",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Hand-Foot-Mouth Disease",
+    "Leprosy",
+    "Rheumatoid Arthritis",
+    "Type 2 diabetes"
+  ],
+  "legs": [
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Fibromyalgia",
+    "Leprosy",
+    "Low Back Pain",
+    "Varicose Veins"
+  ],
+  "arms": [
+    "Angina",
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Leprosy"
+  ],
+  "sensation": [
+    "Angina",
+    "Carpal Tunnel Syndrome",
+    "Diabetic neuropathy",
+    "Leprosy"
+  ],
+  "unnoticed": [
+    "Diabetic neuropathy"
+  ],
+  "injuries": [
+    "Diabetic neuropathy"
+  ],
+  "ulcers": [
+    "Diabetic neuropathy",
+    "Hand-Foot-Mouth Disease"
+  ],
+  "digestive": [
+    "Diabetic neuropathy"
+  ],
+  "diarrhea": [
+    "Amoebiasis",
+    "Appendicitis",
+    "Cholera",
+    "Diabetic neuropathy",
+    "Influenza",
+    "Typhoid Fever",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "urinary": [
+    "Diabetic neuropathy",
+    "Type 2 diabetes"
+  ],
+  "sexual": [
+    "Diabetic neuropathy"
+  ],
+  "erectile": [
+    "Diabetic neuropathy"
+  ],
+  "sweating": [
+    "Angina",
+    "Brucellosis",
+    "Diabetic neuropathy",
+    "Heart Attack",
+    "Hyperthyroidism",
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder",
+    "Rheumatoid Arthritis"
+  ],
+  "temperature": [
+    "Diabetic neuropathy",
+    "Fibromyalgia"
+  ],
+  "regulation": [
+    "Diabetic neuropathy"
+  ],
+  "blood": [
+    "Addison's Disease",
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Hemorrhoids",
+    "Tuberculosis"
+  ],
+  "pressure": [
+    "Addison's Disease",
+    "Angina",
+    "Bursitis",
+    "Cushing's Syndrome",
+    "Diabetic neuropathy",
+    "Heart Attack",
+    "Rheumatoid Arthritis",
+    "Sinusitis"
+  ],
+  "lower": [
+    "Ankylosing Spondylitis",
+    "Appendicitis",
+    "Low Back Pain",
+    "Sciatica",
+    "Varicose Veins"
+  ],
+  "radiating": [
+    "Angina",
+    "Gallstones",
+    "Heart Attack",
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "buttock": [
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "thigh": [
+    "Sciatica"
+  ],
+  "leg": [
+    "Atherosclerosis",
+    "Cholera",
+    "Sciatica"
+  ],
+  "sharp": [
+    "Appendicitis",
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "electric": [
+    "Sciatica"
+  ],
+  "shock": [
+    "Sciatica"
+  ],
+  "like": [
+    "Anxiety Disorders in Children and Young People",
+    "Appendicitis",
+    "Post-Traumatic Stress Disorder",
+    "Sciatica"
+  ],
+  "along": [
+    "Sciatica"
+  ],
+  "nerve": [
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "pathway": [
+    "Sciatica"
+  ],
+  "worsened": [
+    "Bursitis",
+    "Osteoarthritis",
+    "Sciatica",
+    "Tendinitis"
+  ],
+  "sitting": [
+    "Cerebral palsy",
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "sneezing": [
+    "Sciatica"
+  ],
+  "hot": [
+    "Sciatica"
+  ],
+  "cold": [
+    "Hypothyroidism",
+    "Sciatica"
+  ],
+  "shooting": [
+    "Low Back Pain",
+    "Sciatica"
+  ],
+  "tone": [
+    "Cerebral palsy"
+  ],
+  "spasticity": [
+    "Cerebral palsy"
+  ],
+  "floppiness": [
+    "Cerebral palsy"
+  ],
+  "delayed": [
+    "Autism",
+    "Cerebral palsy",
+    "Vitamin D Deficiency"
+  ],
+  "developmental": [
+    "Cerebral palsy"
+  ],
+  "milestones": [
+    "Cerebral palsy"
+  ],
+  "crawling": [
+    "Cerebral palsy"
+  ],
+  "swallowing": [
+    "Angioedema",
+    "Cerebral palsy",
+    "Diphtheria",
+    "Goiter",
+    "Tetanus"
+  ],
+  "impairments": [
+    "Cerebral palsy"
+  ],
+  "sensory": [
+    "Autism",
+    "Cerebral palsy"
+  ],
+  "processing": [
+    "Cerebral palsy"
+  ],
+  "epilepsy": [
+    "Cerebral palsy"
+  ],
+  "learning": [
+    "Cerebral palsy"
+  ],
+  "disabilities": [
+    "Cerebral palsy"
+  ],
+  "dressing": [
+    "Dementia",
+    "Osteoarthritis"
+  ],
+  "cooking": [
+    "Dementia"
+  ],
+  "using": [
+    "Dementia",
+    "Schizophrenia",
+    "Tendinitis"
+  ],
+  "incorrect": [
+    "Dementia"
+  ],
+  "time": [
+    "Dementia"
+  ],
+  "place": [
+    "Dementia"
+  ],
+  "easily": [
+    "Dementia",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "abstract": [
+    "Dementia"
+  ],
+  "misplacing": [
+    "Dementia"
+  ],
+  "objects": [
+    "Carpal Tunnel Syndrome",
+    "Dementia",
+    "Osteoarthritis"
+  ],
+  "unusual": [
+    "Dementia",
+    "Schizophrenia"
+  ],
+  "initiative": [
+    "Dementia"
+  ],
+  "interest": [
+    "Dementia",
+    "Schizophrenia"
+  ],
+  "activities": [
+    "Anxiety Disorders in Children and Young People",
+    "Dementia"
+  ],
+  "frequent": [
+    "Hyperthyroidism",
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "Vitamin D Deficiency"
+  ],
+  "urination": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "polyuria": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "excessive": [
+    "Anxiety Disorders in Children and Young People",
+    "Brucellosis",
+    "Obsessive-Compulsive Disorder",
+    "Rabies",
+    "Type 1 diabetes"
+  ],
+  "thirst": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "polydipsia": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "hunger": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "despite": [
+    "Fibromyalgia",
+    "Hyperthyroidism",
+    "Type 1 diabetes"
+  ],
+  "eating": [
+    "Type 1 diabetes"
+  ],
+  "polyphagia": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "unexplained": [
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Low Back Pain",
+    "Type 1 diabetes"
+  ],
+  "weight": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Amoebiasis",
+    "Brucellosis",
+    "Cushing's Syndrome",
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Low Back Pain",
+    "Rheumatoid Arthritis",
+    "Tuberculosis",
+    "Type 1 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "slow": [
+    "Hypothyroidism",
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "healing": [
+    "Leprosy",
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "sores": [
+    "Leprosy",
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "infections": [
+    "Type 1 diabetes",
+    "Type 2 diabetes"
+  ],
+  "diabetic": [
+    "Type 1 diabetes"
+  ],
+  "ketoacidosis": [
+    "Type 1 diabetes"
+  ],
+  "abdominal": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Amoebiasis",
+    "Angioedema",
+    "Brucellosis",
+    "Constipation",
+    "Gallstones",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Irritable Bowel Syndrome",
+    "Plague",
+    "Tetanus",
+    "Type 1 diabetes",
+    "Typhoid Fever"
+  ],
+  "fruity": [
+    "Type 1 diabetes"
+  ],
+  "breath": [
+    "Angina",
+    "Asbestosis",
+    "Asthma",
+    "Atherosclerosis",
+    "Hantavirus Infection",
+    "Heart Attack",
+    "Pneumonia",
+    "Pneumothorax",
+    "Type 1 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "breathing": [
+    "Angioedema",
+    "Asthma",
+    "Diphtheria",
+    "Goiter",
+    "Panic Disorder",
+    "Pneumonia",
+    "Pneumothorax",
+    "Type 1 diabetes"
+  ],
+  "night": [
+    "Ankylosing Spondylitis",
+    "Asthma",
+    "Carpal Tunnel Syndrome",
+    "Low Back Pain",
+    "Tuberculosis",
+    "Type 2 diabetes"
+  ],
+  "wounds": [
+    "Type 2 diabetes"
+  ],
+  "skin": [
+    "Addison's Disease",
+    "Alcohol-Related Liver Disease",
+    "Angioedema",
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hypothyroidism",
+    "Leprosy",
+    "Plague",
+    "Rheumatoid Arthritis",
+    "Type 2 diabetes",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "fungal": [
+    "Type 2 diabetes"
+  ],
+  "darkened": [
+    "Type 2 diabetes"
+  ],
+  "patches": [
+    "Type 2 diabetes"
+  ],
+  "acanthosis": [
+    "Type 2 diabetes"
+  ],
+  "nigricans": [
+    "Type 2 diabetes"
+  ],
+  "gain": [
+    "Cushing's Syndrome",
+    "Hypothyroidism"
+  ],
+  "intolerance": [
+    "Hyperthyroidism",
+    "Hypothyroidism"
+  ],
+  "temperatures": [
+    "Hypothyroidism"
+  ],
+  "dry": [
+    "Asbestosis",
+    "Constipation",
+    "Hypothyroidism"
+  ],
+  "thinning": [
+    "Hypothyroidism"
+  ],
+  "hair": [
+    "Hypothyroidism"
+  ],
+  "joint": [
+    "Brucellosis",
+    "Bursitis",
+    "Chikungunya",
+    "Hepatitis B",
+    "Hypothyroidism",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Rubella",
+    "Tendinitis",
+    "Zika Virus Infection"
+  ],
+  "heart": [
+    "Hypothyroidism",
+    "Panic Disorder"
+  ],
+  "rate": [
+    "Hypothyroidism"
+  ],
+  "bradycardia": [
+    "Hypothyroidism"
+  ],
+  "heavy": [
+    "Hypothyroidism",
+    "Varicose Veins"
+  ],
+  "irregular": [
+    "Cushing's Syndrome",
+    "Hyperthyroidism",
+    "Hypothyroidism"
+  ],
+  "menstrual": [
+    "Cushing's Syndrome",
+    "Fibromyalgia",
+    "Hyperthyroidism",
+    "Hypothyroidism"
+  ],
+  "cycles": [
+    "Cushing's Syndrome",
+    "Hyperthyroidism",
+    "Hypothyroidism"
+  ],
+  "infertility": [
+    "Hypothyroidism"
+  ],
+  "normal": [
+    "Hyperthyroidism"
+  ],
+  "rapid": [
+    "Cholera",
+    "Hyperthyroidism",
+    "Pneumothorax"
+  ],
+  "heartbeat": [
+    "Hyperthyroidism"
+  ],
+  "palpitations": [
+    "Hyperthyroidism"
+  ],
+  "nervousness": [
+    "Hyperthyroidism"
+  ],
+  "shaking": [
+    "Carpal Tunnel Syndrome",
+    "Hyperthyroidism",
+    "Panic Disorder"
+  ],
+  "heat": [
+    "Hyperthyroidism"
+  ],
+  "sleeping": [
+    "Hyperthyroidism",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "insomnia": [
+    "Fibromyalgia",
+    "Hyperthyroidism"
+  ],
+  "lighter": [
+    "Hyperthyroidism"
+  ],
+  "periods": [
+    "Fibromyalgia",
+    "Hyperthyroidism"
+  ],
+  "enlarged": [
+    "Hyperthyroidism",
+    "Osteoarthritis"
+  ],
+  "thyroid": [
+    "Hyperthyroidism"
+  ],
+  "gland": [
+    "Hyperthyroidism"
+  ],
+  "goiter": [
+    "Goiter",
+    "Hyperthyroidism"
+  ],
+  "eyes": [
+    "Alcohol-Related Liver Disease",
+    "Ankylosing Spondylitis",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hyperthyroidism",
+    "Stroke",
+    "Zika Virus Infection"
+  ],
+  "dryness": [
+    "Hyperthyroidism"
+  ],
+  "graves": [
+    "Hyperthyroidism"
+  ],
+  "disease": [
+    "Hyperthyroidism",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis"
+  ],
+  "swelling": [
+    "Alcohol-Related Liver Disease",
+    "Angioedema",
+    "Ankylosing Spondylitis",
+    "Bursitis",
+    "Carpal Tunnel Syndrome",
+    "Chikungunya",
+    "Goiter",
+    "Hemorrhoids",
+    "Irritable Bowel Syndrome",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Tendinitis",
+    "Varicose Veins"
+  ],
+  "front": [
+    "Goiter"
+  ],
+  "tightness": [
+    "Angina",
+    "Asbestosis",
+    "Asthma",
+    "Goiter"
+  ],
+  "throat": [
+    "Angioedema",
+    "Diphtheria",
+    "Goiter",
+    "Hand-Foot-Mouth Disease",
+    "Influenza",
+    "Rubella"
+  ],
+  "large": [
+    "Goiter"
+  ],
+  "hoarseness": [
+    "Angioedema",
+    "Goiter"
+  ],
+  "cough": [
+    "Asbestosis",
+    "Asthma",
+    "Goiter",
+    "Influenza",
+    "Plague",
+    "Pneumonia",
+    "Tuberculosis",
+    "Whooping Cough"
+  ],
+  "hypothyroidism": [
+    "Goiter"
+  ],
+  "hyperthyroidism": [
+    "Goiter"
+  ],
+  "depending": [
+    "Goiter"
+  ],
+  "cause": [
+    "Goiter",
+    "Low Back Pain",
+    "Stroke"
+  ],
+  "fat": [
+    "Cushing's Syndrome"
+  ],
+  "shortness": [
+    "Angina",
+    "Asbestosis",
+    "Asthma",
+    "Atherosclerosis",
+    "Hantavirus Infection",
+    "Heart Attack",
+    "Pneumonia",
+    "Pneumothorax",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "more": [
+    "Influenza",
+    "Tuberculosis"
+  ],
+  "than": [
+    "Constipation",
+    "Tuberculosis"
+  ],
+  "high": [
+    "Chikungunya",
+    "Cushing's Syndrome",
+    "Typhoid Fever"
+  ],
+  "without": [
+    "Angioedema",
+    "Carpal Tunnel Syndrome",
+    "Pneumonia"
+  ],
+  "sugar": [
+    "Cushing's Syndrome"
+  ],
+  "may": [
+    "Amoebiasis",
+    "Angioedema",
+    "Bursitis",
+    "Carpal Tunnel Syndrome",
+    "Low Back Pain",
+    "Tendinitis"
+  ],
+  "abdomen": [
+    "Appendicitis",
+    "Cushing's Syndrome",
+    "Gallstones",
+    "Typhoid Fever"
+  ],
+  "upper": [
+    "Cushing's Syndrome",
+    "Gallstones"
+  ],
+  "moon": [
+    "Cushing's Syndrome"
+  ],
+  "round": [
+    "Cushing's Syndrome"
+  ],
+  "accumulation": [
+    "Cushing's Syndrome"
+  ],
+  "between": [
+    "Cushing's Syndrome"
+  ],
+  "shoulders": [
+    "Ankylosing Spondylitis",
+    "Cushing's Syndrome",
+    "Fibromyalgia"
+  ],
+  "buffalo": [
+    "Cushing's Syndrome"
+  ],
+  "hump": [
+    "Cushing's Syndrome"
+  ],
+  "thin": [
+    "Cushing's Syndrome"
+  ],
+  "easy": [
+    "Cushing's Syndrome"
+  ],
+  "bruising": [
+    "Cushing's Syndrome"
+  ],
+  "purple": [
+    "Cushing's Syndrome"
+  ],
+  "stretch": [
+    "Cushing's Syndrome"
+  ],
+  "marks": [
+    "Cushing's Syndrome"
+  ],
+  "thighs": [
+    "Cushing's Syndrome"
+  ],
+  "breasts": [
+    "Cushing's Syndrome"
+  ],
+  "women": [
+    "Cushing's Syndrome",
+    "Rubella"
+  ],
+  "decreased": [
+    "Addison's Disease",
+    "Cushing's Syndrome",
+    "Pneumothorax",
+    "Rheumatoid Arthritis"
+  ],
+  "libido": [
+    "Cushing's Syndrome"
+  ],
+  "fertility": [
+    "Cushing's Syndrome"
+  ],
+  "chest": [
+    "Angina",
+    "Asbestosis",
+    "Asthma",
+    "Atherosclerosis",
+    "Chickenpox",
+    "Heart Attack",
+    "Hypertension",
+    "Panic Disorder",
+    "Pneumonia",
+    "Pneumothorax",
+    "Tuberculosis",
+    "Typhoid Fever"
+  ],
+  "silent": [
+    "Hypertension"
+  ],
+  "fractures": [
+    "Vitamin D Deficiency"
+  ],
+  "over": [
+    "Bursitis",
+    "Chickenpox",
+    "Tendinitis"
+  ],
+  "mild": [
+    "Appendicitis",
+    "Japanese Encephalitis",
+    "Rubella",
+    "Vitamin D Deficiency",
+    "Whooping Cough"
+  ],
+  "early": [
+    "Appendicitis",
+    "Asthma",
+    "Atherosclerosis",
+    "Carpal Tunnel Syndrome",
+    "Osteoarthritis",
+    "Rabies",
+    "Vitamin D Deficiency",
+    "Whooping Cough"
+  ],
+  "bone": [
+    "Osteoarthritis",
+    "Vitamin D Deficiency"
+  ],
+  "growth": [
+    "Vitamin D Deficiency"
+  ],
+  "deformities": [
+    "Vitamin D Deficiency"
+  ],
+  "children": [
+    "Influenza",
+    "Vitamin D Deficiency"
+  ],
+  "pale": [
+    "Hepatitis A",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "paresthesia": [
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "glossitis": [
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "smooth": [
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "red": [
+    "Chickenpox",
+    "Hemorrhoids",
+    "Vitamin B12 Deficiency Anemia",
+    "Zika Virus Infection"
+  ],
+  "tongue": [
+    "Angioedema",
+    "Vitamin B12 Deficiency Anemia"
+  ],
+  "tenderness": [
+    "Bursitis",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Tendinitis"
+  ],
+  "joints": [
+    "Ankylosing Spondylitis",
+    "Osteoarthritis",
+    "Rheumatoid Arthritis"
+  ],
+  "redness": [
+    "Bursitis",
+    "Rheumatoid Arthritis"
+  ],
+  "warmth": [
+    "Bursitis",
+    "Rheumatoid Arthritis"
+  ],
+  "but": [
+    "Ankylosing Spondylitis"
+  ],
+  "knees": [
+    "Ankylosing Spondylitis",
+    "Fibromyalgia"
+  ],
+  "excess": [
+    "Irritable Bowel Syndrome"
+  ],
+  "losing": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "discomfort": [
+    "Constipation",
+    "Hemorrhoids"
+  ],
+  "bloating": [
+    "Constipation",
+    "Irritable Bowel Syndrome"
+  ],
+  "black": [
+    "Plague",
+    "Scrub Typhus"
+  ],
+  "stools": [
+    "Cholera",
+    "Constipation",
+    "Hepatitis A"
+  ],
+  "stomach": [
+    "Anxiety Disorders in Children and Young People",
+    "Panic Disorder"
+  ],
+  "common": [
+    "Influenza",
+    "Irritable Bowel Syndrome"
+  ],
+  "bloody": [
+    "Amoebiasis",
+    "Plague"
+  ],
+  "heartburn": [
+    "Irritable Bowel Syndrome"
+  ],
+  "into": [
+    "Low Back Pain"
+  ],
+  "mouth": [
+    "Hand-Foot-Mouth Disease"
+  ],
+  "chronic": [
+    "Addison's Disease",
+    "Ankylosing Spondylitis",
+    "Brucellosis"
+  ],
+  "cramping": [
+    "Amoebiasis",
+    "Irritable Bowel Syndrome"
+  ],
+  "diarrhoea": [
+    "Irritable Bowel Syndrome"
+  ],
+  "both": [
+    "Irritable Bowel Syndrome",
+    "Low Back Pain",
+    "Stroke"
+  ],
+  "alternating": [
+    "Irritable Bowel Syndrome"
+  ],
+  "gas": [
+    "Irritable Bowel Syndrome"
+  ],
+  "flatulence": [
+    "Irritable Bowel Syndrome"
+  ],
+  "urgency": [
+    "Irritable Bowel Syndrome"
+  ],
+  "pass": [
+    "Constipation",
+    "Irritable Bowel Syndrome"
+  ],
+  "stool": [
+    "Constipation",
+    "Irritable Bowel Syndrome"
+  ],
+  "less": [
+    "Irritable Bowel Syndrome"
+  ],
+  "intestinal": [
+    "Angioedema"
+  ],
+  "symptom": [
+    "Appendicitis",
+    "Brucellosis",
+    "Gallstones"
+  ],
+  "inflammation": [
+    "Ankylosing Spondylitis"
+  ],
+  "mucus": [
+    "Pneumonia"
+  ],
+  "bleeding": [
+    "Hemorrhoids"
+  ],
+  "jaundice": [
+    "Alcohol-Related Liver Disease",
+    "Gallstones",
+    "Hepatitis A",
+    "Hepatitis B"
+  ],
+  "yellowing": [
+    "Alcohol-Related Liver Disease",
+    "Hepatitis A",
+    "Hepatitis B"
+  ],
+  "stage": [
+    "Hantavirus Infection",
+    "Rabies",
+    "Whooping Cough"
+  ],
+  "fluid": [
+    "Chickenpox",
+    "Cholera"
+  ],
+  "hepatic": [
+    "Alcohol-Related Liver Disease"
+  ],
+  "encephalopathy": [
+    "Alcohol-Related Liver Disease"
+  ],
+  "asymptomatic": [
+    "Atherosclerosis",
+    "Gallstones",
+    "Hypertension"
+  ],
+  "right": [
+    "Appendicitis",
+    "Gallstones"
+  ],
+  "many": [
+    "Gallstones"
+  ],
+  "people": [
+    "Gallstones",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "are": [
+    "Gallstones",
+    "Schizophrenia"
+  ],
+  "biliary": [
+    "Gallstones"
+  ],
+  "colic": [
+    "Gallstones"
+  ],
+  "shoulder": [
+    "Angina",
+    "Gallstones"
+  ],
+  "complication": [
+    "Gallstones"
+  ],
+  "belly": [
+    "Appendicitis"
+  ],
+  "button": [
+    "Appendicitis"
+  ],
+  "cramp": [
+    "Appendicitis"
+  ],
+  "classic": [
+    "Appendicitis"
+  ],
+  "sign": [
+    "Appendicitis"
+  ],
+  "grade": [
+    "Appendicitis"
+  ],
+  "during": [
+    "Ankylosing Spondylitis",
+    "Asthma",
+    "Constipation",
+    "Hemorrhoids",
+    "Whooping Cough"
+  ],
+  "bright": [
+    "Hemorrhoids"
+  ],
+  "itching": [
+    "Angioedema",
+    "Hemorrhoids",
+    "Rabies",
+    "Varicose Veins"
+  ],
+  "irritation": [
+    "Hemorrhoids",
+    "Low Back Pain"
+  ],
+  "anus": [
+    "Hemorrhoids"
+  ],
+  "lump": [
+    "Hemorrhoids"
+  ],
+  "near": [
+    "Hemorrhoids",
+    "Rheumatoid Arthritis",
+    "Tendinitis"
+  ],
+  "internal": [
+    "Hemorrhoids"
+  ],
+  "hemorrhoids": [
+    "Hemorrhoids"
+  ],
+  "painless": [
+    "Hemorrhoids"
+  ],
+  "external": [
+    "Hemorrhoids"
+  ],
+  "prolapsed": [
+    "Hemorrhoids"
+  ],
+  "protruding": [
+    "Hemorrhoids"
+  ],
+  "from": [
+    "Hemorrhoids",
+    "Low Back Pain",
+    "Osteoarthritis",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "thrombosed": [
+    "Hemorrhoids"
+  ],
+  "clot": [
+    "Hemorrhoids"
+  ],
+  "fewer": [
+    "Constipation"
+  ],
+  "per": [
+    "Constipation"
+  ],
+  "week": [
+    "Chickenpox",
+    "Constipation"
+  ],
+  "hard": [
+    "Constipation"
+  ],
+  "lumpy": [
+    "Constipation"
+  ],
+  "straining": [
+    "Constipation"
+  ],
+  "feeling": [
+    "Constipation",
+    "Osteoarthritis",
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder",
+    "Schizophrenia"
+  ],
+  "incomplete": [
+    "Constipation"
+  ],
+  "evacuation": [
+    "Constipation"
+  ],
+  "need": [
+    "Constipation"
+  ],
+  "for": [
+    "Carpal Tunnel Syndrome",
+    "Constipation"
+  ],
+  "manual": [
+    "Constipation"
+  ],
+  "assistance": [
+    "Constipation"
+  ],
+  "watery": [
+    "Cholera"
+  ],
+  "cramps": [
+    "Cholera",
+    "Varicose Veins"
+  ],
+  "chills": [
+    "Brucellosis",
+    "Hantavirus Infection",
+    "Influenza",
+    "Panic Disorder",
+    "Plague",
+    "Pneumonia",
+    "Scrub Typhus",
+    "Tuberculosis"
+  ],
+  "dehydration": [
+    "Cholera"
+  ],
+  "urine": [
+    "Hepatitis A",
+    "Hepatitis B"
+  ],
+  "control": [
+    "Panic Disorder"
+  ],
+  "dark": [
+    "Hepatitis A",
+    "Hepatitis B"
+  ],
+  "energy": [
+    "Fibromyalgia",
+    "Rheumatoid Arthritis"
+  ],
+  "colored": [
+    "Leprosy"
+  ],
+  "elderly": [
+    "Pneumonia"
+  ],
+  "characteristic": [
+    "Brucellosis"
+  ],
+  "rising": [
+    "Brucellosis"
+  ],
+  "falling": [
+    "Brucellosis"
+  ],
+  "pattern": [
+    "Brucellosis"
+  ],
+  "undulant": [
+    "Brucellosis"
+  ],
+  "other": [
+    "Ankylosing Spondylitis",
+    "Brucellosis"
+  ],
+  "swollen": [
+    "Brucellosis",
+    "Diphtheria",
+    "Mumps",
+    "Plague",
+    "Rubella",
+    "Scrub Typhus"
+  ],
+  "lymph": [
+    "Brucellosis",
+    "Plague",
+    "Rubella",
+    "Scrub Typhus"
+  ],
+  "nodes": [
+    "Brucellosis",
+    "Plague",
+    "Rubella",
+    "Scrub Typhus"
+  ],
+  "recurrent": [
+    "Brucellosis"
+  ],
+  "episodes": [
+    "Brucellosis",
+    "Whooping Cough"
+  ],
+  "term": [
+    "Brucellosis"
+  ],
+  "liver": [
+    "Hepatitis B"
+  ],
+  "sore": [
+    "Diphtheria",
+    "Hand-Foot-Mouth Disease",
+    "Influenza",
+    "Rubella"
+  ],
+  "spots": [
+    "Typhoid Fever"
+  ],
+  "tender": [
+    "Fibromyalgia",
+    "Mumps"
+  ],
+  "nodules": [
+    "Rheumatoid Arthritis"
+  ],
+  "filled": [
+    "Chickenpox"
+  ],
+  "hyperpigmentation": [
+    "Addison's Disease"
+  ],
+  "itchy": [
+    "Chickenpox"
+  ],
+  "intense": [
+    "Autism",
+    "Obsessive-Compulsive Disorder",
+    "Panic Disorder"
+  ],
+  "thickened": [
+    "Leprosy"
+  ],
+  "that": [
+    "Chickenpox",
+    "Fibromyalgia",
+    "Schizophrenia"
+  ],
+  "soreness": [
+    "Low Back Pain"
+  ],
+  "elbows": [
+    "Fibromyalgia"
+  ],
+  "worse": [
+    "Ankylosing Spondylitis",
+    "Carpal Tunnel Syndrome",
+    "Low Back Pain"
+  ],
+  "thick": [
+    "Diphtheria",
+    "Sinusitis"
+  ],
+  "appearance": [
+    "Diphtheria"
+  ],
+  "lips": [
+    "Angioedema"
+  ],
+  "suspicious": [
+    "Schizophrenia"
+  ],
+  "lesions": [
+    "Chickenpox",
+    "Leprosy"
+  ],
+  "water": [
+    "Cholera",
+    "Rabies"
+  ],
+  "before": [
+    "Chickenpox"
+  ],
+  "constant": [
+    "Low Back Pain"
+  ],
+  "rupture": [
+    "Tendinitis"
+  ],
+  "fainting": [
+    "Heart Attack"
+  ],
+  "tendon": [
+    "Tendinitis"
+  ],
+  "heel": [
+    "Ankylosing Spondylitis"
+  ],
+  "range": [
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Tendinitis"
+  ],
+  "motion": [
+    "Osteoarthritis",
+    "Rheumatoid Arthritis",
+    "Tendinitis"
+  ],
+  "sweats": [
+    "Tuberculosis"
+  ],
+  "runny": [
+    "Influenza",
+    "Whooping Cough"
+  ],
+  "nose": [
+    "Diphtheria",
+    "Influenza",
+    "Whooping Cough"
+  ],
+  "darkening": [
+    "Addison's Disease"
+  ],
+  "salt": [
+    "Addison's Disease"
+  ],
+  "craving": [
+    "Addison's Disease"
+  ],
+  "prolonged": [
+    "Low Back Pain",
+    "Rheumatoid Arthritis",
+    "Typhoid Fever"
+  ],
+  "eyelids": [
+    "Angioedema"
+  ],
+  "part": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "area": [
+    "Bursitis",
+    "Hand-Foot-Mouth Disease",
+    "Hepatitis B"
+  ],
+  "discharge": [
+    "Sinusitis"
+  ],
+  "wheezing": [
+    "Asthma"
+  ],
+  "squeezing": [
+    "Angina"
+  ],
+  "causing": [
+    "Angioedema",
+    "Ankylosing Spondylitis",
+    "Obsessive-Compulsive Disorder"
+  ],
+  "involvement": [
+    "Angioedema"
+  ],
+  "feel": [
+    "Angioedema"
+  ],
+  "tight": [
+    "Angioedema"
+  ],
+  "instability": [
+    "Osteoarthritis"
+  ],
+  "touch": [
+    "Autism",
+    "Bursitis",
+    "Fibromyalgia",
+    "Tendinitis"
+  ],
+  "site": [
+    "Rabies",
+    "Scrub Typhus"
+  ],
+  "flexibility": [
+    "Ankylosing Spondylitis"
+  ],
+  "improving": [
+    "Ankylosing Spondylitis"
+  ],
+  "exercise": [
+    "Ankylosing Spondylitis"
+  ],
+  "not": [
+    "Ankylosing Spondylitis",
+    "Schizophrenia"
+  ],
+  "uveitis": [
+    "Ankylosing Spondylitis"
+  ],
+  "hips": [
+    "Ankylosing Spondylitis",
+    "Fibromyalgia"
+  ],
+  "ribs": [
+    "Ankylosing Spondylitis"
+  ],
+  "enthesitis": [
+    "Ankylosing Spondylitis"
+  ],
+  "rib": [
+    "Ankylosing Spondylitis"
+  ],
+  "elbow": [
+    "Ankylosing Spondylitis"
+  ],
+  "where": [
+    "Ankylosing Spondylitis",
+    "Panic Disorder"
+  ],
+  "tendons": [
+    "Ankylosing Spondylitis"
+  ],
+  "attach": [
+    "Ankylosing Spondylitis"
+  ],
+  "fear": [
+    "Anxiety Disorders in Children and Young People",
+    "Obsessive-Compulsive Disorder",
+    "Panic Disorder",
+    "Rabies"
+  ],
+  "avoidance": [
+    "Anxiety Disorders in Children and Young People"
+  ],
+  "worry": [
+    "Anxiety Disorders in Children and Young People"
+  ],
+  "disproportionate": [
+    "Anxiety Disorders in Children and Young People"
+  ],
+  "situation": [
+    "Anxiety Disorders in Children and Young People"
+  ],
+  "restlessness": [
+    "Anxiety Disorders in Children and Young People"
+  ],
+  "social": [
+    "Anxiety Disorders in Children and Young People",
+    "Autism"
+  ],
+  "school": [
+    "Anxiety Disorders in Children and Young People"
+  ],
+  "exertion": [
+    "Asbestosis"
+  ],
+  "clubbing": [
+    "Asbestosis"
+  ],
+  "whistling": [
+    "Asthma"
+  ],
+  "while": [
+    "Asthma",
+    "Atherosclerosis",
+    "Bursitis"
+  ],
+  "triggers": [
+    "Asthma"
+  ],
+  "unsteady": [
+    "Ataxia"
+  ],
+  "gait": [
+    "Ataxia"
+  ],
+  "dysarthria": [
+    "Ataxia"
+  ],
+  "fine": [
+    "Ataxia"
+  ],
+  "nystagmus": [
+    "Ataxia"
+  ],
+  "attention": [
+    "Schizophrenia"
+  ],
+  "interaction": [
+    "Autism"
+  ],
+  "development": [
+    "Autism"
+  ],
+  "repetitive": [
+    "Autism"
+  ],
+  "behaviors": [
+    "Autism"
+  ],
+  "restricted": [
+    "Autism"
+  ],
+  "interests": [
+    "Autism"
+  ],
+  "stimuli": [
+    "Autism"
+  ],
+  "weeks": [
+    "Tuberculosis"
+  ],
+  "sputum": [
+    "Plague",
+    "Tuberculosis"
+  ],
+  "breathlessness": [
+    "Tuberculosis"
+  ],
+  "stuffy": [
+    "Influenza"
+  ],
+  "rose": [
+    "Typhoid Fever"
+  ],
+  "rice": [
+    "Cholera"
+  ],
+  "conjunctivitis": [
+    "Zika Virus Infection"
+  ],
+  "spreading": [
+    "Chickenpox",
+    "Rubella"
+  ],
+  "salivary": [
+    "Mumps"
+  ],
+  "glands": [
+    "Mumps"
+  ],
+  "puffy": [
+    "Mumps"
+  ],
+  "cheeks": [
+    "Mumps"
+  ],
+  "adult": [
+    "Rubella"
+  ],
+  "progressing": [
+    "Chickenpox"
+  ],
+  "blisters": [
+    "Chickenpox",
+    "Hand-Foot-Mouth Disease"
+  ],
+  "scab": [
+    "Chickenpox",
+    "Scrub Typhus"
+  ],
+  "about": [
+    "Chickenpox",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "across": [
+    "Chickenpox"
+  ],
+  "hundreds": [
+    "Chickenpox"
+  ],
+  "bite": [
+    "Rabies",
+    "Scrub Typhus"
+  ],
+  "agitation": [
+    "Rabies",
+    "Schizophrenia"
+  ],
+  "salivation": [
+    "Rabies"
+  ],
+  "hydrophobia": [
+    "Rabies"
+  ],
+  "reddish": [
+    "Leprosy"
+  ],
+  "nerves": [
+    "Leprosy"
+  ],
+  "fits": [
+    "Whooping Cough"
+  ],
+  "paroxysmal": [
+    "Whooping Cough"
+  ],
+  "whooping": [
+    "Whooping Cough"
+  ],
+  "inhalation": [
+    "Whooping Cough"
+  ],
+  "spasms": [
+    "Fibromyalgia",
+    "Tetanus"
+  ],
+  "lockjaw": [
+    "Tetanus"
+  ],
+  "contractions": [
+    "Tetanus"
+  ],
+  "gray": [
+    "Diphtheria"
+  ],
+  "membrane": [
+    "Diphtheria"
+  ],
+  "bull": [
+    "Diphtheria"
+  ],
+  "form": [
+    "Plague"
+  ],
+  "nasal": [
+    "Sinusitis"
+  ],
+  "congestion": [
+    "Sinusitis"
+  ],
+  "buboes": [
+    "Plague"
+  ],
+  "pneumonic": [
+    "Plague"
+  ],
+  "turning": [
+    "Plague"
+  ],
+  "tissue": [
+    "Plague"
+  ],
+  "death": [
+    "Panic Disorder",
+    "Plague"
+  ],
+  "diaper": [
+    "Hand-Foot-Mouth Disease"
+  ],
+  "eschar": [
+    "Scrub Typhus"
+  ],
+  "condition": [
+    "Hypertension"
+  ],
+  "seeing": [
+    "Schizophrenia",
+    "Stroke"
+  ],
+  "known": [
+    "Stroke"
+  ],
+  "coronary": [
+    "Atherosclerosis"
+  ],
+  "arteries": [
+    "Atherosclerosis"
+  ],
+  "claudication": [
+    "Atherosclerosis"
+  ],
+  "worsens": [
+    "Pneumonia"
+  ],
+  "visible": [
+    "Carpal Tunnel Syndrome",
+    "Varicose Veins"
+  ],
+  "twisted": [
+    "Varicose Veins"
+  ],
+  "veins": [
+    "Varicose Veins"
+  ],
+  "aching": [
+    "Fibromyalgia",
+    "Low Back Pain",
+    "Varicose Veins"
+  ],
+  "surface": [
+    "Bursitis"
+  ],
+  "sense": [
+    "Sinusitis"
+  ],
+  "sounds": [
+    "Obsessive-Compulsive Disorder",
+    "Pneumothorax"
+  ],
+  "others": [
+    "Schizophrenia"
+  ],
+  "choking": [
+    "Panic Disorder"
+  ],
+  "irritable": [
+    "Fibromyalgia"
+  ],
+  "things": [
+    "Obsessive-Compulsive Disorder",
+    "Schizophrenia"
+  ],
+  "moving": [
+    "Rheumatoid Arthritis"
+  ],
+  "negative": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "decisions": [
+    "Schizophrenia"
+  ],
+  "thoughts": [
+    "Obsessive-Compulsive Disorder",
+    "Post-Traumatic Stress Disorder",
+    "Schizophrenia"
+  ],
+  "harm": [
+    "Schizophrenia"
+  ],
+  "voices": [
+    "Schizophrenia"
+  ],
+  "there": [
+    "Schizophrenia"
+  ],
+  "false": [
+    "Schizophrenia"
+  ],
+  "beliefs": [
+    "Schizophrenia"
+  ],
+  "based": [
+    "Schizophrenia"
+  ],
+  "reality": [
+    "Schizophrenia"
+  ],
+  "muddled": [
+    "Schizophrenia"
+  ],
+  "disorganized": [
+    "Schizophrenia"
+  ],
+  "information": [
+    "Schizophrenia"
+  ],
+  "lack": [
+    "Schizophrenia"
+  ],
+  "showing": [
+    "Schizophrenia"
+  ],
+  "emotions": [
+    "Schizophrenia"
+  ],
+  "strange": [
+    "Schizophrenia"
+  ],
+  "psychomotor": [
+    "Schizophrenia"
+  ],
+  "retardation": [
+    "Schizophrenia"
+  ],
+  "paying": [
+    "Schizophrenia"
+  ],
+  "fearful": [
+    "Schizophrenia"
+  ],
+  "worried": [
+    "Schizophrenia"
+  ],
+  "wish": [
+    "Schizophrenia"
+  ],
+  "them": [
+    "Schizophrenia"
+  ],
+  "repeated": [
+    "Obsessive-Compulsive Disorder",
+    "Panic Disorder"
+  ],
+  "unwanted": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "urges": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "images": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "germs": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "contamination": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "something": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "aggressive": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "forbidden": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "involving": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "sex": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "religion": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "cleaning": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "handwashing": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "ordering": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "precisely": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "repeatedly": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "checking": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "locks": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "ovens": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "compulsive": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "counting": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "twitches": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "occurring": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "tic": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "disorder": [
+    "Obsessive-Compulsive Disorder"
+  ],
+  "nightmares": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "flashbacks": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "intrusive": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "frightening": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "trembling": [
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "sick": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "alert": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "edge": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "startled": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "jumpy": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "hypervigilance": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "avoiding": [
+    "Panic Disorder",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "talking": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "trauma": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "numb": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "detached": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "unable": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "show": [
+    "Carpal Tunnel Syndrome",
+    "Post-Traumatic Stress Disorder"
+  ],
+  "affection": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "guilt": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "blame": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "trust": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "anger": [
+    "Post-Traumatic Stress Disorder"
+  ],
+  "panic": [
+    "Panic Disorder"
+  ],
+  "attacks": [
+    "Panic Disorder"
+  ],
+  "overwhelming": [
+    "Panic Disorder"
+  ],
+  "pounding": [
+    "Panic Disorder"
+  ],
+  "racing": [
+    "Panic Disorder"
+  ],
+  "out": [
+    "Low Back Pain",
+    "Panic Disorder"
+  ],
+  "past": [
+    "Panic Disorder"
+  ],
+  "occurred": [
+    "Panic Disorder"
+  ],
+  "brief": [
+    "Osteoarthritis"
+  ],
+  "grinding": [
+    "Osteoarthritis"
+  ],
+  "crunching": [
+    "Osteoarthritis"
+  ],
+  "crepitus": [
+    "Osteoarthritis"
+  ],
+  "rubbing": [
+    "Osteoarthritis"
+  ],
+  "bony": [
+    "Osteoarthritis"
+  ],
+  "enlargements": [
+    "Osteoarthritis"
+  ],
+  "gnarled": [
+    "Osteoarthritis"
+  ],
+  "climbing": [
+    "Osteoarthritis"
+  ],
+  "stairs": [
+    "Osteoarthritis"
+  ],
+  "gripping": [
+    "Osteoarthritis"
+  ],
+  "standing": [
+    "Low Back Pain",
+    "Osteoarthritis"
+  ],
+  "chairs": [
+    "Osteoarthritis"
+  ],
+  "deformity": [
+    "Osteoarthritis",
+    "Rheumatoid Arthritis"
+  ],
+  "disability": [
+    "Osteoarthritis"
+  ],
+  "symmetrical": [
+    "Rheumatoid Arthritis"
+  ],
+  "wrists": [
+    "Rheumatoid Arthritis"
+  ],
+  "grip": [
+    "Carpal Tunnel Syndrome",
+    "Rheumatoid Arthritis"
+  ],
+  "rheumatoid": [
+    "Rheumatoid Arthritis"
+  ],
+  "under": [
+    "Rheumatoid Arthritis"
+  ],
+  "points": [
+    "Fibromyalgia",
+    "Rheumatoid Arthritis"
+  ],
+  "hand": [
+    "Carpal Tunnel Syndrome",
+    "Rheumatoid Arthritis"
+  ],
+  "use": [
+    "Rheumatoid Arthritis"
+  ],
+  "spasm": [
+    "Low Back Pain"
+  ],
+  "stabbing": [
+    "Fibromyalgia",
+    "Low Back Pain"
+  ],
+  "sciatica": [
+    "Low Back Pain"
+  ],
+  "bending": [
+    "Low Back Pain"
+  ],
+  "lifting": [
+    "Low Back Pain"
+  ],
+  "certain": [
+    "Low Back Pain"
+  ],
+  "upright": [
+    "Low Back Pain"
+  ],
+  "bed": [
+    "Low Back Pain"
+  ],
+  "indicate": [
+    "Low Back Pain"
+  ],
+  "serious": [
+    "Low Back Pain"
+  ],
+  "infection": [
+    "Bursitis"
+  ],
+  "widespread": [
+    "Fibromyalgia"
+  ],
+  "described": [
+    "Fibromyalgia"
+  ],
+  "mixed": [
+    "Fibromyalgia"
+  ],
+  "noise": [
+    "Fibromyalgia"
+  ],
+  "medicines": [
+    "Fibromyalgia"
+  ],
+  "adequate": [
+    "Fibromyalgia"
+  ],
+  "stamina": [
+    "Fibromyalgia"
+  ],
+  "disturbance": [
+    "Fibromyalgia"
+  ],
+  "unrefreshing": [
+    "Fibromyalgia"
+  ],
+  "moves": [
+    "Fibromyalgia"
+  ],
+  "migraines": [
+    "Fibromyalgia"
+  ],
+  "fibro": [
+    "Fibromyalgia"
+  ],
+  "fog": [
+    "Fibromyalgia"
+  ],
+  "syndrome": [
+    "Fibromyalgia"
+  ],
+  "restless": [
+    "Fibromyalgia"
+  ],
+  "clothes": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "localized": [
+    "Bursitis",
+    "Tendinitis"
+  ],
+  "resistance": [
+    "Tendinitis"
+  ],
+  "limb": [
+    "Tendinitis"
+  ],
+  "popping": [
+    "Tendinitis"
+  ],
+  "suggest": [
+    "Bursitis",
+    "Tendinitis"
+  ],
+  "bursa": [
+    "Bursitis"
+  ],
+  "resting": [
+    "Bursitis"
+  ],
+  "marked": [
+    "Bursitis"
+  ],
+  "thumb": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "index": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "middle": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "ring": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "finger": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "wrist": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "clumsiness": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "dropping": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "buttoning": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "holding": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "phone": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "book": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "steering": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "wheel": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "relief": [
+    "Carpal Tunnel Syndrome"
+  ],
+  "wasting": [
+    "Carpal Tunnel Syndrome"
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "Alzheimer's disease": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Parkinson's disease": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Migraine": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Aphasia": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Multiple sclerosis": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Meningitis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Encephalitis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Bell's palsy": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Diabetic neuropathy": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Sciatica": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Cerebral palsy": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Dementia": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Type 1 diabetes": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Type 2 diabetes": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Hypothyroidism": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Hyperthyroidism": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Goiter": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Cushing's Syndrome": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Vitamin D Deficiency": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Vitamin B12 Deficiency Anemia": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Irritable Bowel Syndrome": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Gallstones": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Appendicitis": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Hemorrhoids": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Constipation": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Brucellosis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Addison's Disease": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Alcohol-Related Liver Disease": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Angina": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Angioedema": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Ankylosing Spondylitis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Anxiety Disorders in Children and Young People": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Asbestosis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Asthma": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Ataxia": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Autism": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Tuberculosis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Influenza": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Chikungunya": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Typhoid Fever": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Cholera": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Hepatitis A": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Hepatitis B": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Mumps": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Rubella": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Chickenpox": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Rabies": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Leprosy": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Whooping Cough": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Tetanus": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Diphtheria": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Japanese Encephalitis": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Plague": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Zika Virus Infection": {
+    "severity": "mild",
+    "relative_frequency": 0.005848
+  },
+  "Amoebiasis": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Hand-Foot-Mouth Disease": {
+    "severity": "mild",
+    "relative_frequency": 0.005848
+  },
+  "Hantavirus Infection": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Scrub Typhus": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Hypertension": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Heart Attack": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Stroke": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Atherosclerosis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Varicose Veins": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Pneumonia": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Sinusitis": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Pneumothorax": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Schizophrenia": {
+    "severity": "severe",
+    "relative_frequency": 0.005848
+  },
+  "Obsessive-Compulsive Disorder": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Post-Traumatic Stress Disorder": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Panic Disorder": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Osteoarthritis": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Rheumatoid Arthritis": {
+    "severity": "moderate_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Low Back Pain": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Fibromyalgia": {
+    "severity": "mild_to_severe",
+    "relative_frequency": 0.005848
+  },
+  "Tendinitis": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Bursitis": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  },
+  "Carpal Tunnel Syndrome": {
+    "severity": "mild_to_moderate",
+    "relative_frequency": 0.005848
+  }
+}
