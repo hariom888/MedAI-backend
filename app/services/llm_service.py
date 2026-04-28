@@ -22,8 +22,19 @@ from core.constants import GEMINI_MODELS
 # ─────────────────────────────────────────
 
 
-def _get_client(model_name: Optional[str] = None) -> genai.GenerativeModel:
-    genai.configure(api_key=settings.GEMINI_API_KEY)
+def _get_client(
+    model_name: Optional[str] = None,
+    gemini_api_key: Optional[str] = None,
+) -> genai.GenerativeModel:
+    # Prefer per-request key from X-Gemini-Key header; fall back to server env
+    api_key = (gemini_api_key or "").strip() or settings.GEMINI_API_KEY
+    if not api_key:
+        raise RuntimeError(
+            "No Gemini API key provided. Please add your Google AI Studio API key "
+            "in Settings → Gemini API Key, or set the GEMINI_API_KEY environment "
+            "variable on the server."
+        )
+    genai.configure(api_key=api_key)
     chosen = model_name or settings.GEMINI_MODEL
     return genai.GenerativeModel(chosen)
 
@@ -76,13 +87,16 @@ Response format (JSON only):
 
 
 def extract_symptom_checkboxes(
-    description: str, history: List[Dict] = [], model_name: Optional[str] = None
+    description: str,
+    history: List[Dict] = [],
+    model_name: Optional[str] = None,
+    gemini_api_key: Optional[str] = None,
 ) -> Dict:
     """
     Given user's free-text description of their symptoms,
     return a structured checkbox list for them to confirm.
     """
-    model = _get_client(_get_model_name(model_name))
+    model = _get_client(_get_model_name(model_name), gemini_api_key=gemini_api_key)
 
     # Build conversation context
     history_text = ""
@@ -199,12 +213,13 @@ def generate_medical_answer(
     top_diseases: List[Dict],
     history: List[Dict] = [],
     model_name: Optional[str] = None,
+    gemini_api_key: Optional[str] = None,
 ) -> Generator[str, None, None]:
     """
     Generate a streaming medical explanation using RAG context.
     Yields text chunks as they stream from Gemini.
     """
-    model = _get_client(_get_model_name(model_name))
+    model = _get_client(_get_model_name(model_name), gemini_api_key=gemini_api_key)
 
     # Format disease summary (without raw probabilities)
     disease_lines = []
@@ -292,9 +307,10 @@ def generate_followup_answer(
     history: List[Dict] = [],
     context_diseases: List[str] = [],
     model_name: Optional[str] = None,
+    gemini_api_key: Optional[str] = None,
 ) -> Generator[str, None, None]:
     """Stream a follow-up answer using RAG context."""
-    model = _get_client(_get_model_name(model_name))
+    model = _get_client(_get_model_name(model_name), gemini_api_key=gemini_api_key)
 
     disease_note = ""
     if context_diseases:

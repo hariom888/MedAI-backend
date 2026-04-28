@@ -37,6 +37,7 @@ SCORE_THRESHOLD = 0.3
 
 # Gemini free tier models (in order of preference)
 GEMINI_MODELS = [
+    "gemini-2.5-flash-lite",
     "gemini-2.5-flash-preview-05-20",
     "gemini-2.0-flash",
     "gemini-1.5-flash",

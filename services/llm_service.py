@@ -26,8 +26,14 @@ def _get_client(
     model_name: Optional[str] = None,
     gemini_api_key: Optional[str] = None,
 ) -> genai.GenerativeModel:
-    # Prefer per-request key; fall back to server env
+    # Prefer per-request key from X-Gemini-Key header; fall back to server env
     api_key = (gemini_api_key or "").strip() or settings.GEMINI_API_KEY
+    if not api_key:
+        raise RuntimeError(
+            "No Gemini API key provided. Please add your Google AI Studio API key "
+            "in Settings → Gemini API Key, or set the GEMINI_API_KEY environment "
+            "variable on the server."
+        )
     genai.configure(api_key=api_key)
     chosen = model_name or settings.GEMINI_MODEL
     return genai.GenerativeModel(chosen)

@@ -13,10 +13,10 @@ class Settings(BaseSettings):
 
     # Auth
     ADMIN_API_KEY: str = "admin-secret"
-    RAG_API_KEYS: str = "dev-key-1"
+    RAG_API_KEYS: str = "key1"
 
     # Gemini model selection (free tier options)
-    GEMINI_MODEL: str = "gemini-2.0-flash"
+    GEMINI_MODEL: str = "gemini-2.5-flash-lite"
 
     @property
     def api_keys(self) -> List[str]:
