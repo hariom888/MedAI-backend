@@ -239,11 +239,3 @@ B.Tech CSE | AI + Software Development
 
 This project is for **educational purposes only**.
 It is **not a substitute for professional medical advice**.
-
----
-
-If you want, I can also:
-
-* make a **GitHub description + tags**
-* create a **professional project banner**
-* or tailor this README for **resume impact 🔥**
