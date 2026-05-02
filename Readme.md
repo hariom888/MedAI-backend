@@ -1,241 +1,216 @@
-# 🩺 Medical Hybrid RAG + XGBoost Diagnostic Assistant (Backend)
+# 🏥 MedAI Backend – AI Powered Healthcare Assistant
 
-A powerful AI-based medical diagnostic backend that combines:
-
-* ⚡ **XGBoost** for disease prediction
-* 📚 **RAG (Retrieval-Augmented Generation)** for medical knowledge grounding
-* 🤖 **LLM (Gemini)** for natural language understanding and responses
-
-This system processes user symptoms, predicts possible diseases, verifies them with medical knowledge, and generates intelligent explanations.
+> A scalable **RAG-based AI healthcare backend** that provides intelligent medical assistance using LLMs, vector databases, and real-time APIs.
 
 ---
 
-## 🚀 Features
+## 🔗 Project Links
 
-* 🧠 Symptom extraction from natural language input
-* 📊 Disease prediction using trained XGBoost model
-* 🔍 RAG-based medical validation
-* 💬 Follow-up Q&A using LLM
-* ⚡ FastAPI backend with streaming responses
-* 🔐 API key-based authentication
-* 🌐 CORS-enabled for frontend integration
+* 🌐 **Frontend Repository:**
+  👉 [https://github.com/Anmol-pi/MedAI-Frontend](https://github.com/Anmol-pi/MedAI-Frontend)
+
+* 🚀 **Backend Deployment (Live API):**
+  👉 [https://medai-backend-production-a830.up.railway.app](https://medai-backend-production-a830.up.railway.app)
 
 ---
 
-## 🏗️ Architecture Overview
+## 📌 Overview
 
-```
-User Input (Symptoms / Description)
-        ↓
-LLM → Extract Symptoms
-        ↓
-XGBoost → Predict Disease
-        ↓
-RAG → Retrieve Medical Knowledge
-        ↓
-LLM → Generate Explanation
-        ↓
-Response (Diagnosis + Reasoning)
+MedAI is an AI-powered healthcare assistant designed to deliver **accurate, context-aware medical responses** using a **Retrieval-Augmented Generation (RAG)** pipeline.
+
+The backend integrates advanced AI models with a vector database to ensure responses are **relevant, factual, and domain-specific**, making it suitable for real-world healthcare support systems.
+
+---
+
+## ⚙️ Key Features
+
+* 🧠 **RAG-based AI System**
+  Combines LLMs with vector search for accurate answers
+
+* 🔍 **Semantic Search with Vector DB**
+  Uses embeddings to retrieve relevant medical context
+
+* 🤖 **LLM Integration**
+  Generates human-like, contextual responses
+
+* 📂 **Document Processing Pipeline**
+  Supports ingestion of medical datasets / knowledge sources
+
+* ⚡ **FastAPI Backend**
+  High-performance API endpoints for frontend integration
+
+* 🔐 **Scalable Architecture**
+  Designed for production deployment (Railway)
+
+---
+
+## 🏗️ Tech Stack
+
+### 🚀 Backend
+
+* Python
+* FastAPI
+
+### 🧠 AI / ML
+
+* LLM APIs (Groq / LLaMA / etc.)
+* Embeddings
+
+### 🗄️ Database
+
+* Vector Database (Qdrant)
+
+### 🔗 Integration
+
+* REST APIs
+* Frontend (React / TypeScript)
+
+---
+
+## 📊 System Architecture
+
+```text
+User Query
+   ↓
+Frontend (React)
+   ↓
+FastAPI Backend
+   ↓
+Embedding Generation
+   ↓
+Vector Search (Qdrant)
+   ↓
+Context Retrieval
+   ↓
+LLM (Groq / LLaMA)
+   ↓
+Final AI Response
 ```
 
 ---
 
 ## 📁 Project Structure
 
-```
-medmodel/
+```text
+MedAI-backend/
+│── app/
+│   ├── routes/          # API endpoints
+│   ├── services/        # Business logic
+│   ├── rag/             # RAG pipeline
+│   ├── db/              # Database connections
+│   └── utils/           # Helper functions
 │
-├── main.py                         # FastAPI entry point
-├── requirements.txt               # Dependencies
-├── .env                           # Environment variables
-│
-├── services/
-│   ├── llm_service.py             # LLM interaction
-│   ├── rag_service.py             # RAG retrieval logic
-│   └── xgboost_service.py         # Prediction logic
-│
-├── schemas/
-│   └── schemas.py                 # API request/response models
-│
-├── core/
-│   └── constants.py               # Model configs
-│
-├── api/
-│   └── dependencies.py            # Auth & dependencies
-│
-├── data/
-│   ├── rag_disease_db.json        # Medical knowledge base
-│   ├── symptom_vocab.json         # Symptom dictionary
-│   ├── label_encoder.json         # Encoded labels
-│   └── feature_dictionary.json    # Features mapping
-│
-├── training/
-│   ├── train_model.py             # Model training script
-│   └── xgboost_training_data.csv  # Dataset
-│
-└── pipeline/
-    ├── medical_pipeline.py
-    ├── medical_rag_xgboost_pipeline.py
-    └── master.py
+│── data/                # Documents / embeddings
+│── main.py              # Entry point
+│── requirements.txt     # Dependencies
+│── .env                 # Environment variables
 ```
 
 ---
 
-## ⚙️ Installation
+## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 🔧 Prerequisites
 
-```bash
-git clone https://github.com/your-username/medical-rag-backend.git
-cd medical-rag-backend
-```
+* Python 3.9+
+* API Keys (Groq / Cohere / etc.)
+* Qdrant setup
 
-### 2. Create Virtual Environment
+---
 
-```bash
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-```
-
-### 3. Install Dependencies
+### 📥 Installation
 
 ```bash
+git clone <your-repo-url>
+cd MedAI-backend
 pip install -r requirements.txt
 ```
 
 ---
 
-## 🔑 Environment Variables
+### 🔑 Environment Setup
 
-Create a `.env` file in root:
+Create a `.env` file:
 
 ```env
-GEMINI_API_KEY=your_api_key_here
-API_KEY=your_backend_auth_key
+GROQ_API_KEY=your_key
+QDRANT_URL=your_url
+QDRANT_API_KEY=your_key
 ```
 
 ---
 
-## ▶️ Running the Server
+### ▶️ Run the Server
 
 ```bash
 uvicorn main:app --reload
 ```
 
-Server will run on:
+---
 
-```
-http://127.0.0.1:8000
-```
+## 📡 API Endpoints (Example)
 
-Swagger Docs:
-
-```
-http://127.0.0.1:8000/docs
-```
+| Method | Endpoint | Description           |
+| ------ | -------- | --------------------- |
+| GET    | `/`      | Health check          |
+| POST   | `/query` | Ask medical questions |
 
 ---
 
-## 📡 API Endpoints
+## 🧠 How It Works
 
-### 1️⃣ Extract Symptoms
+The system follows a **Retrieval-Augmented Generation pipeline**:
 
-```
-POST /analyze-description
-```
-
-* Input: Natural language symptoms
-* Output: Structured symptom checkboxes
-
----
-
-### 2️⃣ Generate Diagnosis
-
-```
-POST /generate-diagnosis
-```
-
-* Uses:
-
-  * XGBoost → prediction
-  * RAG → verification
-  * LLM → explanation
+1. User sends a query
+2. Query is converted into embeddings
+3. Relevant documents are retrieved from vector DB
+4. Context is passed to LLM
+5. LLM generates final response
 
 ---
 
-### 3️⃣ Follow-up Questions
+## 🌟 Use Cases
 
-```
-POST /followup
-```
-
-* Context-aware Q&A using RAG + LLM
-
----
-
-### 4️⃣ Health Check
-
-```
-GET /health
-```
-
----
-
-## 🧠 Technologies Used
-
-* **FastAPI** – Backend framework
-* **XGBoost** – Machine learning model
-* **RAG** – Knowledge retrieval system
-* **Google Gemini API** – LLM
-* **Python** – Core language
-
----
-
-## 🔄 Pipeline Execution (Training)
-
-To retrain the model:
-
-```bash
-python train_model.py
-```
-
-Or run full pipeline:
-
-```bash
-bash run_pipeline.sh
-# OR
-run_pipeline.bat
-```
-
----
-
-## 🔐 Security Notes
-
-* Replace `"*"` in CORS before production
-* Keep API keys secure
-* Add rate limiting for production deployment
-
----
-
-## 📌 Future Improvements
-
-* User history storage (Supabase integration)
-* Personalized diagnosis
-* Multi-language support
-* Better medical dataset expansion
-* Deployment with Docker
-
----
-
-## 👨‍💻 Author
-
-**Anmol Kumar Jindal**
-B.Tech CSE | AI + Software Development
+* AI Medical Chatbot
+* Health Assistance Platforms
+* Clinical Decision Support (basic level)
+* Educational Medical Tools
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is for **educational purposes only**.
-It is **not a substitute for professional medical advice**.
+This project is for **educational purposes only** and should not be used as a substitute for professional medical advice.
+
+---
+
+## 👨‍💻 Contributors
+
+* **Anmol Kumar Jindal**
+* **HariOm**
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+```bash
+fork → clone → create branch → commit → push → PR
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🧠 Share ideas
