@@ -66,9 +66,14 @@ class SymptomSelectionRequest(BaseModel):
 class DiseasePrediction(BaseModel):
     disease_name: str
     probability: float
+    display_confidence: float = 0.0
     rank: int
     rag_symptom_match: bool  # did RAG verify symptoms match this disease?
     matched_symptoms: List[str]  # symptoms that matched disease's known symptoms
+    risk_level: str = "low"
+    risk_score: float = 0.0
+    probability_margin: float = 0.0
+    matched_symptom_count: int = 0
 
 
 class PredictionResult(BaseModel):

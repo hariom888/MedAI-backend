@@ -16,12 +16,18 @@ def _resolve_data_file(filename: str) -> Path:
     if root_path.exists():
         return root_path
 
+    output_path = BASE_DIR / "output" / filename
+    if output_path.exists():
+        return output_path
+
     return data_path
 
 # XGBoost model paths
 XGBOOST_MODEL_PATH = _resolve_data_file("medical_model.xgb")
+CALIBRATED_MODEL_PATH = _resolve_data_file("calibrated_model.pkl")
 LABEL_ENCODER_PKL_PATH = _resolve_data_file("label_encoder.pkl")
 LABEL_ENCODER_JSON_PATH = _resolve_data_file("label_encoder.json")
+MODEL_METADATA_PATH = _resolve_data_file("model_metadata.json")
 SYMPTOM_VOCAB_PATH = _resolve_data_file("symptom_vocab.json")
 FEATURE_DICT_PATH = _resolve_data_file("feature_dictionary.json")
 RAG_DISEASE_DB_PATH = _resolve_data_file("rag_disease_db.json")

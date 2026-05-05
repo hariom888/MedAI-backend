@@ -96,6 +96,30 @@ def verify_symptoms_for_disease(
     return is_match, matched
 
 
+def candidate_diseases_for_symptoms(checked_symptoms: List[str]) -> Dict[str, List[str]]:
+    """
+    Build a candidate set of diseases that actually match the user's symptoms.
+    Returns disease_name -> matched_symptoms.
+    """
+    _ensure_db_loaded()
+
+    min_matches = 2 if len(checked_symptoms) >= 3 else 1
+    candidates: Dict[str, List[str]] = {}
+
+    for entry in _RAG_DB:
+        disease_name = entry.get("disease_name", "")
+        all_disease_symptoms = (
+            entry.get("core_symptoms", [])
+            + entry.get("secondary_symptoms", [])
+            + entry.get("rare_symptoms", [])
+        )
+        matched = sorted(set(_symptom_overlap(checked_symptoms, all_disease_symptoms)))
+        if len(matched) >= min_matches:
+            candidates[disease_name] = matched
+
+    return candidates
+
+
 # ─────────────────────────────────────────
 # Load markdown chunk for a disease
 # ─────────────────────────────────────────

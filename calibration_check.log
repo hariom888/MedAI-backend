@@ -1,0 +1,13 @@
+[01:15:18 +   0.0s] Loading RAG CSV         : xgboost_training_data.csv
+[01:15:21 +   3.1s]   RAG CSV shape         : (19250, 1245)
+[01:15:21 +   3.1s]   Diseases              : 77
+[01:15:22 +   3.4s]   RAG train: (15400, 1245)  |  RAG test: (3850, 1245)
+[01:15:22 +   3.5s] Engineering symptom features...
+[01:15:24 +   5.5s]   Symptom columns       : 1244
+[01:15:24 +   5.5s]   Interaction features  : 25
+[01:15:24 +   5.5s]   Feature metadata      : output\model_metadata.json
+[01:15:24 +   5.5s] Encoding categorical columns...
+[01:15:24 +   5.5s]   No categorical columns found - skipping OrdinalEncoder.
+[01:15:24 +   5.5s]   Target classes        : 77
+[01:15:24 +   5.5s]   Feature columns       : 1271
+[01:15:24 +   5.5s]   X_train: (15400, 1271)  |  X_test: (3850, 1271)

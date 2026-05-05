@@ -1,0 +1,85 @@
+Generated: 2026-05-06 01:12:49.584900
+
+                                                precision    recall  f1-score   support
+
+                             Addison's Disease      0.839     0.940     0.887        50
+                 Alcohol-Related Liver Disease      0.946     0.700     0.805        50
+                           Alzheimer's disease      0.980     1.000     0.990        50
+                                    Amoebiasis      0.792     0.760     0.776        50
+                                        Angina      0.979     0.920     0.948        50
+                                    Angioedema      0.913     0.840     0.875        50
+                        Ankylosing Spondylitis      0.614     0.700     0.654        50
+Anxiety Disorders in Children and Young People      0.909     0.800     0.851        50
+                                       Aphasia      0.960     0.960     0.960        50
+                                  Appendicitis      0.940     0.940     0.940        50
+                                    Asbestosis      0.769     0.800     0.784        50
+                                        Asthma      0.506     0.780     0.614        50
+                                        Ataxia      0.662     0.860     0.748        50
+                               Atherosclerosis      0.653     0.640     0.646        50
+                                        Autism      0.905     0.760     0.826        50
+                                  Bell's palsy      0.923     0.960     0.941        50
+                                   Brucellosis      0.864     0.760     0.809        50
+                                      Bursitis      0.619     0.780     0.690        50
+                        Carpal Tunnel Syndrome      0.909     0.800     0.851        50
+                                Cerebral palsy      1.000     0.980     0.990        50
+                                    Chickenpox      0.698     0.600     0.645        50
+                                   Chikungunya      0.950     0.760     0.844        50
+                                       Cholera      0.719     0.920     0.807        50
+                                  Constipation      0.905     0.760     0.826        50
+                            Cushing's Syndrome      0.927     0.760     0.835        50
+                                      Dementia      0.959     0.940     0.949        50
+                           Diabetic neuropathy      0.980     1.000     0.990        50
+                                    Diphtheria      0.940     0.940     0.940        50
+                                  Encephalitis      1.000     1.000     1.000        50
+                                  Fibromyalgia      1.000     1.000     1.000        50
+                                    Gallstones      0.712     0.840     0.771        50
+                                        Goiter      0.915     0.860     0.887        50
+                       Hand-Foot-Mouth Disease      0.929     0.780     0.848        50
+                          Hantavirus Infection      0.800     0.720     0.758        50
+                                  Heart Attack      0.936     0.880     0.907        50
+                                   Hemorrhoids      0.582     0.780     0.667        50
+                                   Hepatitis A      0.925     0.740     0.822        50
+                                   Hepatitis B      0.567     0.760     0.650        50
+                                  Hypertension      0.958     0.920     0.939        50
+                               Hyperthyroidism      0.979     0.920     0.948        50
+                                Hypothyroidism      0.942     0.980     0.961        50
+                                     Influenza      0.884     0.760     0.817        50
+                      Irritable Bowel Syndrome      0.755     0.740     0.747        50
+                         Japanese Encephalitis      0.980     0.960     0.970        50
+                                       Leprosy      0.807     0.920     0.860        50
+                                 Low Back Pain      0.900     0.900     0.900        50
+                                    Meningitis      1.000     0.980     0.990        50
+                                      Migraine      1.000     1.000     1.000        50
+                            Multiple sclerosis      0.980     0.960     0.970        50
+                                         Mumps      0.519     0.820     0.636        50
+                 Obsessive-Compulsive Disorder      0.933     0.840     0.884        50
+                                Osteoarthritis      0.882     0.900     0.891        50
+                                Panic Disorder      0.843     0.860     0.851        50
+                           Parkinson's disease      1.000     1.000     1.000        50
+                                        Plague      0.891     0.820     0.854        50
+                                     Pneumonia      0.759     0.880     0.815        50
+                                  Pneumothorax      0.857     0.840     0.848        50
+                Post-Traumatic Stress Disorder      0.907     0.780     0.839        50
+                                        Rabies      0.961     0.980     0.970        50
+                          Rheumatoid Arthritis      0.894     0.840     0.866        50
+                                       Rubella      0.651     0.820     0.726        50
+                                 Schizophrenia      0.943     1.000     0.971        50
+                                      Sciatica      0.980     0.980     0.980        50
+                                  Scrub Typhus      0.711     0.540     0.614        50
+                                     Sinusitis      0.673     0.740     0.705        50
+                                        Stroke      1.000     0.920     0.958        50
+                                    Tendinitis      0.818     0.720     0.766        50
+                                       Tetanus      0.889     0.960     0.923        50
+                                  Tuberculosis      0.909     0.800     0.851        50
+                               Type 1 diabetes      0.950     0.760     0.844        50
+                               Type 2 diabetes      0.898     0.880     0.889        50
+                                 Typhoid Fever      0.900     0.900     0.900        50
+                                Varicose Veins      0.837     0.720     0.774        50
+                 Vitamin B12 Deficiency Anemia      0.980     1.000     0.990        50
+                          Vitamin D Deficiency      0.688     0.660     0.673        50
+                                Whooping Cough      0.961     0.980     0.970        50
+                          Zika Virus Infection      0.732     0.600     0.659        50
+
+                                      accuracy                          0.848      3850
+                                     macro avg      0.861     0.848     0.850      3850
+                                  weighted avg      0.861     0.848     0.850      3850

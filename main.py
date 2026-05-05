@@ -188,9 +188,14 @@ def generate_diagnosis(
         DiseasePrediction(
             disease_name=p["disease_name"],
             probability=p["probability"],
+            display_confidence=p.get("display_confidence", 0.0),
             rank=p["rank"],
             rag_symptom_match=p.get("rag_symptom_match", False),
             matched_symptoms=p.get("matched_symptoms", []),
+            risk_level=p.get("risk_level", "low"),
+            risk_score=p.get("risk_score", 0.0),
+            probability_margin=p.get("probability_margin", 0.0),
+            matched_symptom_count=p.get("matched_symptom_count", 0),
         )
         for p in enriched_predictions
     ]
